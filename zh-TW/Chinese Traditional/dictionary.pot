@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Lorex (lorex8711)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2019-09-19 11:25\n"
+"PO-Revision-Date: 2019-09-19 11:44\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 #: ./src/js/pages/admin/users/resellers/create.vue:113
@@ -32,7 +32,7 @@ msgstr ""
 #: ./src/js/pages/reseller/backups/restore.vue:12
 #: src/js/pages/reseller/backups/restore.vue:22
 msgid " Select IP address used for restore."
-msgstr " 請選取要用於復原的 IP 位址。"
+msgstr ""
 
 #: ./src/js/pages/user/email/autoresponders/create.vue:37
 #: ./src/js/pages/user/email/autoresponders/modify.vue:27
@@ -84,7 +84,7 @@ msgstr ""
 
 #: ./src/js/pages/user/dns/mx-records.vue:47
 msgid "* Note: Making modifications to the MX records can potentially disable all of your email accounts from receiving mail."
-msgstr "* 注意：變更 MX 記錄可能會導致所有的電子信箱帳號無法接收信件。"
+msgstr ""
 
 #: ./src/js/pages/reseller/users/_components/change-sent-emails-daily-limit-dialog.vue:11
 msgid "/ Day"
@@ -262,57 +262,57 @@ msgstr ""
 #: ./src/js/pages/admin/settings.vue:503
 #: ./src/js/pages/admin/settings.vue:697
 msgid "0 = never"
-msgstr "0 = 永不"
+msgstr ""
 
 #: ./src/js/pages/admin/settings.vue:110
 msgid "0 = off, 100 = always on"
-msgstr "0 = 關閉, 100 = 永遠啟動"
+msgstr ""
 
 #: ./src/js/pages/admin/backups/schedule.vue:148
 msgid "0-23"
-msgstr "0-23"
+msgstr ""
 
 #: ./src/js/pages/admin/backups/schedule.vue:133
 msgid "0-59"
-msgstr "0-59"
+msgstr ""
 
 #: ./src/js/pages/admin/backups/schedule.vue:188
 msgid "0-7. 0,7 - Sunday"
-msgstr "0-7. 0,7 - 星期日"
+msgstr ""
 
 #: ./src/js/pages/admin/backups/modify.vue:136
 #: ./src/js/pages/reseller/backups/schedule.vue:154
 #: ./src/js/pages/user/cronjobs/create.vue:80
 msgid "0–7; 0, 7 = Sunday"
-msgstr "0–7; 0, 7 = 星期日"
+msgstr ""
 
 #: ./src/js/pages/reseller/backups/modify.vue:117
 msgid "0–7; 0,7 = Sunday"
-msgstr "0–7; 0,7 = 星期日"
+msgstr ""
 
 #: src/js/pages/user/two-step-auth.vue:253
 msgid "1 Day"
-msgstr "1天"
+msgstr ""
 
 #: src/js/pages/user/two-step-auth.vue:269
 msgid "1 Month"
-msgstr "1個月"
+msgstr ""
 
 #: src/js/pages/user/two-step-auth.vue:261
 msgid "1 Week"
-msgstr "1週"
+msgstr ""
 
 #: ./src/js/pages/admin/backups/schedule.vue:178
 msgid "1-12"
-msgstr "1-12"
+msgstr ""
 
 #: ./src/js/pages/admin/backups/schedule.vue:163
 msgid "1-31"
-msgstr "1-31"
+msgstr ""
 
 #: ./src/js/pages/user/email/spamassassin.vue:109
 msgid "1-50, no decimals"
-msgstr "1-50, 請勿使用小數點"
+msgstr ""
 
 #: src/js/pages/user/two-step-auth.vue:277
 msgid "12 Months"
