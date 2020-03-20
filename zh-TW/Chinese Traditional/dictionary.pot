@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 10:00\n"
+"PO-Revision-Date: 2020-03-20 13:14\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1915,7 +1915,7 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:59
 #: src/js/pages/reseller/stats.vue:271
 msgid "CGI"
-msgstr ""
+msgstr "CGI"
 
 #: ./src/js/pages/user/domains/add.vue:101
 #: ./src/js/pages/user/domains/edit.vue:65
@@ -1923,13 +1923,13 @@ msgstr ""
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:200
 #: src/js/pages/admin/users/resellers/modify.vue:224
 msgid "CGI Access"
-msgstr ""
+msgstr "CGI 存取"
 
 #: ./src/js/pages/user/stats/index.vue:195
 #: src/js/pages/reseller/users/_components/account-info.vue:297
 #: src/js/pages/user/stats/index.vue:226
 msgid "CGI-Bin"
-msgstr ""
+msgstr "CGI-Bin"
 
 #: ./src/js/pages/reseller/users/_components/change-ip-dialog.vue:20
 #: ./src/js/pages/reseller/users/_components/change-package-dialog.vue:20
@@ -1968,7 +1968,7 @@ msgstr ""
 #: ./src/js/pages/reseller/users/index.vue:24
 #: src/js/pages/reseller/users/index.vue:88
 msgid "Change IP"
-msgstr ""
+msgstr "變更 IP"
 
 #: ./src/js/pages/user/email/_components/modify-account-quota-dialog.vue:7
 msgid "Change Limit/Quota"
@@ -2298,7 +2298,7 @@ msgstr ""
 #: ./src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:38
 msgid "Compress"
-msgstr ""
+msgstr "壓縮"
 
 #: ./src/js/components/local/filemanager/dialogs/compress-download-dialog.vue:5
 msgid "Compress and Download directory"
@@ -2306,7 +2306,7 @@ msgstr ""
 
 #: src/js/components/local/filemanager/file-actions.vue:136
 msgid "Compress and download..."
-msgstr ""
+msgstr "壓縮並下載..."
 
 #: ./src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:3
 #: src/js/pages/user/filemanager/_components/clipboard-actions.vue:42
@@ -2540,7 +2540,7 @@ msgstr ""
 #: ./src/js/pages/user/ftp-accounts/create.vue:1
 #: ./src/js/pages/user/ftp-accounts/index.vue:27
 msgid "Create FTP Account"
-msgstr ""
+msgstr "新增 FTP 帳號"
 
 #: ./src/js/pages/user/handlers/index.vue:13
 msgid "Create Handler"
@@ -2584,7 +2584,7 @@ msgstr ""
 
 #: ./src/js/pages/user/database/view.vue:80
 msgid "Create New User"
-msgstr ""
+msgstr "新增使用者"
 
 #: ./src/js/pages/user/database/_dialogs/create-db-user-dialog.vue:3
 msgid "Create New User for %{database}"
@@ -3847,7 +3847,7 @@ msgstr ""
 #: ./src/js/components/local/filemanager/dialogs/compress-download-dialog.vue:26
 #: src/js/components/local/filemanager/file-actions.vue:141
 msgid "Download"
-msgstr ""
+msgstr "下載"
 
 #: ./src/js/pages/user/database/index.vue:126
 msgid "Download as GZ"
@@ -5365,7 +5365,7 @@ msgstr ""
 #: src/js/pages/user/stats/index.vue:206
 msgid "IP"
 msgid_plural "IPs"
-msgstr[0] ""
+msgstr[0] "IP"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-dialog.vue:6
 msgid "IP / Range / Domain / E-mail"
