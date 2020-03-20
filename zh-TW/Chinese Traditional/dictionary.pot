@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 07:13\n"
+"PO-Revision-Date: 2020-03-20 07:22\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -10891,27 +10891,27 @@ msgstr "使用者名稱 / 電子郵件"
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:120
 msgid "Username has been automatically converted to punycode format. Punycode is used to encode internationalized domain names (IDN) by converting Unicode characters to ASCII."
-msgstr ""
+msgstr "使用者名稱已自動轉換成 Punycode 格式。Punycode 用於轉換Unicode 文字到 ASCII 來編碼國際化的網域名稱 (IDN)"
 
 #: ./src/js/pages/user/database/create.vue:63
 msgid "Username is too long"
-msgstr ""
+msgstr "使用者名稱太長"
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:119
 msgid "Username punycoded"
-msgstr ""
+msgstr "使用者名稱已經 Punycode 化"
 
 #: ./src/js/pages/reseller/passwords.vue:21
 #: ./src/js/pages/user/database/_dialogs/change-db-user-pass-dialog.vue:6
 #: ./src/js/pages/user/database/_dialogs/create-db-user-dialog.vue:18
 #: ./src/js/pages/user/database/_dialogs/existing-db-user-dialog.vue:5
 msgid "Username:"
-msgstr ""
+msgstr "使用者名稱:"
 
 #: ./src/js/pages/admin/settings.vue:950
 #: src/js/pages/admin/settings.vue:955
 msgid "Username/Email"
-msgstr ""
+msgstr "使用者名稱 / 電子郵件"
 
 #: ./src/js/pages/admin/backups/modify.vue:69
 #: ./src/js/pages/admin/backups/schedule.vue:77
@@ -10931,54 +10931,54 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/view.vue:52
 #: src/js/pages/user/protected-directories/view.vue:58
 msgid "Users"
-msgstr ""
+msgstr "使用者"
 
 #: src/js/modules/widgets.js:40
 msgid "Users under your control"
-msgstr ""
+msgstr "使用者們在您的控制之下"
 
 #: ./src/js/pages/user/login-keys/index.vue:21
 #: src/js/pages/user/login-keys/index.vue:31
 msgid "Uses"
-msgstr ""
+msgstr "使用"
 
 #: ./src/js/pages/admin/reseller-packages/_components/reseller-package.vue:57
 msgid "Uses 2 IP's, domain uses one of them"
-msgstr ""
+msgstr "使用兩個 IP, 網域使用其中一個"
 
 #: ./src/js/pages/admin/reseller-packages/_components/reseller-package.vue:60
 msgid "Uses 3 IP's, domain gets own IP"
-msgstr ""
+msgstr "使用三個 IP，網域拿到專屬的 IP"
 
 #: ./src/js/pages/user/login-keys/create.vue:105
 #: ./src/js/pages/user/login-keys/modify.vue:67
 msgid "Uses:"
-msgstr ""
+msgstr "使用："
 
 #: ./src/js/pages/user/email/vacations/index.vue:23
 #: src/js/pages/user/email/vacations/index.vue:29
 msgid "Vacation Account"
-msgstr ""
+msgstr "度假帳號"
 
 #: ./src/js/pages/user/email/vacations/create.vue:17
 #: ./src/js/pages/user/email/vacations/modify.vue:12
 msgid "Vacation Account:"
-msgstr ""
+msgstr "度假帳號:"
 
 #: ./src/js/pages/user/email/vacations/create.vue:87
 #: ./src/js/pages/user/email/vacations/modify.vue:74
 msgid "Vacation End"
-msgstr ""
+msgstr "度假結束"
 
 #: ./src/js/pages/user/email/vacations/index.vue:68
 msgid "vacation message"
 msgid_plural "vacation messages"
-msgstr[0] ""
+msgstr[0] "度假訊息"
 
 #: ./src/js/pages/user/email/vacations/create.vue:115
 #: ./src/js/pages/user/email/vacations/modify.vue:98
 msgid "Vacation Message:"
-msgstr ""
+msgstr "度假訊息:"
 
 #: ./src/js/pages/admin/backups/modify.vue:333
 #: ./src/js/pages/admin/backups/schedule.vue:391
@@ -10987,33 +10987,33 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:137
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:112
 msgid "Vacation Messages"
-msgstr ""
+msgstr "度假訊息"
 
 #: ./src/js/pages/user/backup/index.vue:72
 #: ./src/js/pages/user/backup/restore.vue:87
 msgid "Vacation Messages: Includes all vacation messages and times."
-msgstr ""
+msgstr "度假訊息: 包含所有的度假訊息及時間"
 
 #: ./src/js/pages/user/email/vacations/create.vue:65
 #: ./src/js/pages/user/email/vacations/modify.vue:55
 msgid "Vacation Start"
-msgstr ""
+msgstr "度假開始"
 
 #: ./src/js/pages/admin/license.vue:76
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:39
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:175
 msgid "Valid After"
-msgstr ""
+msgstr "有效期後"
 
 #: ./src/js/pages/user/cronjobs/create.vue:107
 #: ./src/js/pages/user/cronjobs/index.vue:117
 msgid "Valid Cron time values are the numbers indicated and *."
-msgstr ""
+msgstr "有效 Cron 時間值是已指示 和 * 的數字"
 
 #: ./src/js/pages/admin/license.vue:84
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:47
 msgid "Valid Until"
-msgstr ""
+msgstr "有效期限直到"
 
 #: ./src/js/pages/user/cronjobs/index.vue:84
 msgid "Valid values are an E-mail address, your DA username: admin, or a blank field to prevent any e-mail."
