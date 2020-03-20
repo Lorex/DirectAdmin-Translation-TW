@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 05:52\n"
+"PO-Revision-Date: 2020-03-20 06:00\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -11434,19 +11434,19 @@ msgstr ""
 
 #: src/js/modules/widgets.js:24
 msgid "Your Account"
-msgstr ""
+msgstr "您的帳號"
 
 #: ./src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:46
 msgid "Your current login information"
-msgstr ""
+msgstr "您目前的登入資訊"
 
 #: ./src/js/pages/admin/services.vue:104
 msgid "Your Password:"
-msgstr ""
+msgstr "您的密碼:"
 
 #: ./src/js/pages/user/dns/security.vue:58
 msgid "Zone Keys"
-msgstr ""
+msgstr "區域金鑰"
 
 #: ./src/js/pages/user/dns/security.vue:33
 msgid "Zone Signing"
