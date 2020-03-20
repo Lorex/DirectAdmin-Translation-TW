@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 06:16\n"
+"PO-Revision-Date: 2020-03-20 06:25\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -11323,22 +11323,22 @@ msgstr ""
 
 #: ./src/js/pages/user/email/spamassassin.vue:137
 msgid "Would you like to delete high scoring spam?"
-msgstr ""
+msgstr "請問您想要刪除高評分的垃圾郵件嗎？"
 
 #: ./src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:40
 #: ./src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:67
 #: ./src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:92
 msgid "Write"
-msgstr ""
+msgstr "寫入"
 
 #: ./src/js/pages/admin/dns/add.vue:23
 msgid "Wrong format for a domain"
-msgstr ""
+msgstr "錯誤的網域格式"
 
 #: ./src/js/pages/admin/dns/add.vue:50
 #: ./src/js/pages/admin/dns/add.vue:66
 msgid "Wrong format for a nameserver"
-msgstr ""
+msgstr "錯誤的名稱伺服器格式"
 
 #: ./src/js/pages/admin/dns/add.vue:34
 msgid "Wrong IP format"
@@ -11393,7 +11393,7 @@ msgstr "您已經在您的系統上擁有此 IP"
 
 #: ./src/js/pages/user/dashboard/_components/add-widget-dialog.vue:12
 msgid "You are about to add the following widgets to your dashboard:"
-msgstr ""
+msgstr "您將要把以下部件加入至您的儀表板"
 
 #: ./src/js/pages/user/filemanager/_dialogs/rename-file-dialog.vue:7
 msgid "You are going to rename <strong>%{ file }</strong>"
@@ -11417,7 +11417,7 @@ msgstr ""
 #: ./src/js/pages/user/cronjobs/create.vue:109
 #: ./src/js/pages/user/cronjobs/index.vue:119
 msgid "You can specify spans using a dash. e.g. 5-7 (minutes 5 to 7)"
-msgstr ""
+msgstr "您可以使用虛線來指定跨越程度。例如: 5-7 (5 到 7 分鐘)"
 
 #: src/js/pages/user/domains/index.vue:270
 msgid "You deleted all of your domains. You should create one for full functionality."
