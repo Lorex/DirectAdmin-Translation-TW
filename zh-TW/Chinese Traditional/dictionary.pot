@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 06:56\n"
+"PO-Revision-Date: 2020-03-20 07:13\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -10788,61 +10788,61 @@ msgstr ""
 #: src/js/pages/admin/multi-server.vue:370
 #: src/js/pages/admin/multi-server.vue:96
 msgid "User Check"
-msgstr ""
+msgstr "使用者檢查"
 
 #: ./src/js/pages/reseller/passwords.vue:28
 msgid "User does not exist"
-msgstr ""
+msgstr "使用者不存在"
 
 #: ./src/js/pages/reseller/users/history.vue:1
 #: ./src/js/pages/reseller/users/view.vue:271
 #: ./src/js/pages/user/history.vue:1
 #: ./src/js/pages/user/stats/index.vue:317
 msgid "User History"
-msgstr ""
+msgstr "使用者歷史記錄"
 
 #: ./src/js/pages/reseller/users/_components/account-info.vue:109
 msgid "User Home"
-msgstr ""
+msgstr "使用者首頁"
 
 #: ./src/js/pages/reseller/user-packages/index.vue:66
 msgid "user package"
 msgid_plural "user packages"
-msgstr[0] ""
+msgstr[0] "使用者套件"
 
 #: ./src/js/pages/reseller/users/create.vue:94
 msgid "User Package"
-msgstr ""
+msgstr "使用者套件"
 
 #: src/js/modules/search/plugins.js:20
 msgid "User Plugins"
-msgstr ""
+msgstr "使用者插件"
 
 #: src/js/components/local/suspend-user-dialog.vue:44
 msgid "User Quota"
-msgstr ""
+msgstr "使用者配額"
 
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:57
 #: src/js/pages/reseller/stats.vue:268
 msgid "User SSH"
-msgstr ""
+msgstr "使用者 SSH"
 
 #: ./src/js/pages/user/stats/index.vue:1
 msgid "User Statistics"
-msgstr ""
+msgstr "使用者統計資料"
 
 #: ./src/js/pages/reseller/users/view.vue:56
 msgid "User Suspended"
-msgstr ""
+msgstr "使用者已暫停"
 
 #: ./src/js/pages/reseller/users/_components/account-info.vue:101
 msgid "User Type"
-msgstr ""
+msgstr "使用者類型"
 
 #: ./src/js/components/local/master-login-bar.vue:26
 #: ./src/js/components/local/master-login-drawer.vue:55
 msgid "User: %{ user }"
-msgstr ""
+msgstr "使用者: %{ user }"
 
 #: ./src/js/pages/reseller/ip-config.vue:12
 #: ./src/js/pages/reseller/nameservers.vue:20
@@ -10852,7 +10852,7 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/ip-config.vue:13
 #: src/js/pages/user/dashboard/_components/widgets/ip-manager.vue:19
 msgid "User(s)"
-msgstr ""
+msgstr "使用者"
 
 #: ./src/js/pages/admin/backups/modify.vue:184
 #: ./src/js/pages/admin/backups/restore.vue:106
@@ -10883,11 +10883,11 @@ msgstr ""
 #: src/js/pages/reseller/users/index.vue:32
 #: src/js/pages/user/dashboard/_components/widgets/list-users.vue:8
 msgid "Username"
-msgstr ""
+msgstr "使用者名稱"
 
 #: ./src/js/pages/admin/settings.vue:1032
 msgid "Username / E-Mail"
-msgstr ""
+msgstr "使用者名稱 / 電子郵件"
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:120
 msgid "Username has been automatically converted to punycode format. Punycode is used to encode internationalized domain names (IDN) by converting Unicode characters to ASCII."
@@ -11116,7 +11116,7 @@ msgstr "檢視記錄"
 
 #: ./src/js/pages/admin/log-viewer/index.vue:11
 msgid "View Log: %{ log }"
-msgstr ""
+msgstr "檢視記錄: %{ log }"
 
 #: ./src/js/pages/user/email/lists/view.vue:1
 msgid "View Mailing List"
@@ -11264,7 +11264,7 @@ msgstr "當經銷商或管理員在恢復時，如果您從清單中選取一個
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:66
 msgid "When this is set, the add link task is processed in the background via task.queue. It may take up to 1 minute before the processing starts, and an unknown amount of time, depending on the number of websites present."
-msgstr ""
+msgstr "當設定時，增加連結任務會透過task.queue在背景處理。在處理開始前，它可能需要 1 分鐘以上，以及未知的時間量，這取決於網站呈現的數量。"
 
 #: ./src/js/pages/admin/backups/_components/crons-table.vue:3
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:2
@@ -11274,20 +11274,20 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:12
 #: src/js/pages/reseller/backups/index.vue:27
 msgid "Where"
-msgstr ""
+msgstr "何處？"
 
 #: ./src/js/pages/user/email/spamassassin.vue:25
 msgid "Where do you want the spam to go?"
-msgstr ""
+msgstr "您想要垃圾郵件到何處？"
 
 #: ./src/js/pages/user/email/lists/modify.vue:136
 msgid "Which Access"
-msgstr ""
+msgstr "哪個存取"
 
 #: ./src/js/pages/user/email/spamassassin.vue:381
 #: src/js/pages/user/email/spamassassin.vue:388
 msgid "Whitelisted E-mail"
-msgstr ""
+msgstr "白名單 E-mail"
 
 #: ./src/js/pages/admin/backups/_components/crons-table.vue:3
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:2
@@ -11297,30 +11297,30 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:11
 #: src/js/pages/reseller/backups/index.vue:26
 msgid "Who"
-msgstr ""
+msgstr "誰"
 
 #: ./src/js/pages/user/email/lists/modify.vue:146
 msgid "Who Access"
-msgstr ""
+msgstr "誰存取"
 
 #: ./src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:17
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:21
 msgid "Widget ID"
-msgstr ""
+msgstr "部件 ID"
 
 #: ./src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:16
 #: ./src/js/pages/reseller/customize-skin/index.vue:43
 #: src/js/pages/reseller/customize-skin/index.vue:54
 msgid "Widgets"
-msgstr ""
+msgstr "部件"
 
 #: ./src/js/pages/user/ssl/_components/common-data-editor.vue:20
 msgid "Wildcard"
-msgstr ""
+msgstr "萬用字元"
 
 #: ./src/js/pages/admin/multi-server.vue:116
 msgid "With Selected"
-msgstr ""
+msgstr "與選定"
 
 #: ./src/js/pages/user/email/spamassassin.vue:137
 msgid "Would you like to delete high scoring spam?"
@@ -11398,7 +11398,7 @@ msgstr "您將要把以下部件加入至您的儀表板"
 
 #: ./src/js/pages/user/filemanager/_dialogs/rename-file-dialog.vue:7
 msgid "You are going to rename <strong>%{ file }</strong>"
-msgstr ""
+msgstr "您將要重新命名<strong>%{ file }</strong>"
 
 #: ./src/js/pages/user/cronjobs/create.vue:111
 #: ./src/js/pages/user/cronjobs/index.vue:121
@@ -11413,7 +11413,7 @@ msgstr "您可以使用逗號來分開指定的確切時間。例如: 1,2,3( 1,2
 #: ./src/js/pages/user/cronjobs/create.vue:110
 #: ./src/js/pages/user/cronjobs/index.vue:120
 msgid "You can specify intervals using a star and a forward slash. e.g. */2 (every 2nd minute)"
-msgstr ""
+msgstr "您可以使用星號以及正斜線來指定間隔。例如: */2 (每第二分鐘)"
 
 #: ./src/js/pages/user/cronjobs/create.vue:109
 #: ./src/js/pages/user/cronjobs/index.vue:119
@@ -11427,7 +11427,7 @@ msgstr "您刪除了您所有的網域。您應該為完整的功能建立一個
 #: src/js/components/global/App.vue:187
 msgid "You have %{ n } unread ticket"
 msgid_plural "You have %{ n } unread tickets"
-msgstr[0] ""
+msgstr[0] "您有 %{ n } 未讀票證"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request-dialog.vue:13
 msgid "You will send this text to a Certificate Authority and they will give you a Signed Certificate."
