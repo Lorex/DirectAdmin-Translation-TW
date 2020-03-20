@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 06:00\n"
+"PO-Revision-Date: 2020-03-20 06:16\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -11342,15 +11342,15 @@ msgstr ""
 
 #: ./src/js/pages/admin/dns/add.vue:34
 msgid "Wrong IP format"
-msgstr ""
+msgstr "錯誤的 IP 格式"
 
 #: ./src/js/pages/user/ftp-accounts/create.vue:42
 msgid "Wrong username format"
-msgstr ""
+msgstr "錯誤的使用者名稱格式"
 
 #: ./src/js/components/local/history/chart.vue:7
 msgid "Year:"
-msgstr ""
+msgstr "年份："
 
 #: ./src/js/pages/admin/dns/index.vue:149
 #: ./src/js/pages/admin/dns/index.vue:156
@@ -11377,19 +11377,19 @@ msgstr ""
 #: src/js/pages/user/domain-pointers.vue:67
 #: src/js/pages/user/email/lists/modify.vue:388
 msgid "Yes"
-msgstr ""
+msgstr "確定"
 
 #: ./src/js/pages/user/email/spamassassin.vue:156
 msgid "Yes, block all spam scoring higher than:"
-msgstr ""
+msgstr "是的﹐阻擋所有的垃圾郵件﹐評分高於:"
 
 #: ./src/js/pages/user/email/spamassassin.vue:212
 msgid "Yes, set the subject to the following:"
-msgstr ""
+msgstr "是的﹐將主旨設為:"
 
 #: src/js/api/commands/admin/ip-manager/index.js:85
 msgid "You already have this IP on your system."
-msgstr ""
+msgstr "您已經在您的系統上擁有此 IP"
 
 #: ./src/js/pages/user/dashboard/_components/add-widget-dialog.vue:12
 msgid "You are about to add the following widgets to your dashboard:"
@@ -11430,7 +11430,7 @@ msgstr[0] ""
 
 #: ./src/js/pages/user/ssl/_components/certificate-request-dialog.vue:13
 msgid "You will send this text to a Certificate Authority and they will give you a Signed Certificate."
-msgstr ""
+msgstr "您將會傳送此文字到一個憑證授權單位﹐而他們將會給您一個簽署憑證。"
 
 #: src/js/modules/widgets.js:24
 msgid "Your Account"
@@ -11450,18 +11450,18 @@ msgstr "區域金鑰"
 
 #: ./src/js/pages/user/dns/security.vue:33
 msgid "Zone Signing"
-msgstr ""
+msgstr "區域簽署"
 
 #: ./src/js/pages/admin/multi-server.vue:89
 #: src/js/pages/admin/multi-server.vue:368
 #: src/js/pages/admin/multi-server.vue:94
 msgid "Zone Transfer"
-msgstr ""
+msgstr "區域傳輸"
 
 #: src/js/pages/user/dns/security.vue:142
 #: src/js/pages/user/dns/security.vue:86
 msgid "Zone-Signing Key"
-msgstr ""
+msgstr "區域簽署金鑰"
 
 msgid "format:datetime"
 msgstr ""
