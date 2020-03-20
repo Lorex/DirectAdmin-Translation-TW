@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 08:22\n"
+"PO-Revision-Date: 2020-03-20 10:00\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -828,7 +828,7 @@ msgstr "額外頻寬"
 
 #: ./src/js/pages/reseller/users/view.vue:201
 msgid "Additional Bandwidth: %{ amount }"
-msgstr "額外頻寬: %{ amount }"
+msgstr "額外頻寬：%{ amount }"
 
 #: ./src/js/pages/user/email/catch-all.vue:57
 msgid "Address:"
@@ -852,23 +852,23 @@ msgstr[0] "管理員"
 #: src/js/pages/user/dashboard/_components/standard-dashboard.vue:42
 #: src/js/pages/user/messages/_dialogs/view-ticket-dialog.vue:50
 msgid "Admin"
-msgstr "管理員"
+msgstr "管理"
 
 #: src/js/modules/navigation/admin.js:120
 msgid "Admin Backup/Transfer"
-msgstr "管理員備份 / 轉移"
+msgstr "管理備份 / 轉移"
 
 #: ./src/js/pages/admin/backups/index.vue:1
 msgid "Admin Backups"
-msgstr "管理員備份"
+msgstr "管理備份"
 
 #: ./src/js/pages/admin/history.vue:1
 msgid "Admin History"
-msgstr "管理員歷史紀錄"
+msgstr "管理歷史紀錄"
 
 #: ./src/js/pages/user/email/lists/modify.vue:15
 msgid "Admin Password"
-msgstr "管理員密碼"
+msgstr "管理密碼"
 
 #: src/js/modules/search/plugins.js:22
 msgid "Admin Plugins"
@@ -876,7 +876,7 @@ msgstr "管理員插件"
 
 #: ./src/js/pages/admin/settings.vue:1
 msgid "Admin Settings"
-msgstr "管理員設定"
+msgstr "管理設定"
 
 #: src/js/modules/widgets.js:54
 msgid "Admin Stats"
@@ -908,7 +908,7 @@ msgstr "AdSense 設定"
 
 #: ./src/js/pages/user/email/filters.vue:166
 msgid "Adult Filter:"
-msgstr "成人內容過濾器:"
+msgstr "成人內容過濾器："
 
 #: ./src/js/components/local/filemanager/files-table.vue:178
 msgid "Advanced edit"
@@ -951,7 +951,7 @@ msgstr "全部"
 
 #: src/js/modules/widgets.js:60
 msgid "All Accounts on the Server"
-msgstr "伺服器上全部的帳號"
+msgstr "所有伺服器上的帳號"
 
 #: ./src/js/pages/admin/backups/_components/crons-table.vue:63
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:53
@@ -1079,12 +1079,12 @@ msgstr "允許使用者少於"
 
 #: ./src/js/pages/user/ftp-settings.vue:34
 msgid "Allow:"
-msgstr "允許:"
+msgstr "允許："
 
 #: ./src/js/pages/user/login-keys/create.vue:153
 #: ./src/js/pages/user/login-keys/modify.vue:116
 msgid "Allowed IPs:"
-msgstr "已允許的 IP:"
+msgstr "允許的 IP："
 
 #: ./src/js/pages/user/login-keys/create.vue:131
 #: ./src/js/pages/user/login-keys/modify.vue:94
@@ -1093,7 +1093,7 @@ msgstr "允許瀏覽 DA 介面至 HTM，IMG 以及 CSS 檔案。"
 
 #: ./src/js/pages/user/email/spamassassin.vue:464
 msgid "Already blacklisted"
-msgstr "已加入至黑名單"
+msgstr "已經在黑名單"
 
 #: ./src/js/pages/user/email/vacations/create.vue:25
 msgid "Already exists"
@@ -1106,7 +1106,7 @@ msgstr "已在清單中"
 
 #: ./src/js/pages/user/email/spamassassin.vue:362
 msgid "Already whitelisted"
-msgstr "已加入至白名單"
+msgstr "已經在白名單"
 
 #: ./src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:43
 msgid "Alter"
@@ -10865,7 +10865,7 @@ msgstr "使用者類型"
 #: ./src/js/components/local/master-login-bar.vue:26
 #: ./src/js/components/local/master-login-drawer.vue:55
 msgid "User: %{ user }"
-msgstr "使用者: %{ user }"
+msgstr "使用者：%{ user }"
 
 #: ./src/js/pages/reseller/ip-config.vue:12
 #: ./src/js/pages/reseller/nameservers.vue:20
@@ -10929,7 +10929,7 @@ msgstr "使用者名稱已經 Punycode 化"
 #: ./src/js/pages/user/database/_dialogs/create-db-user-dialog.vue:18
 #: ./src/js/pages/user/database/_dialogs/existing-db-user-dialog.vue:5
 msgid "Username:"
-msgstr "使用者名稱:"
+msgstr "使用者名稱："
 
 #: ./src/js/pages/admin/settings.vue:950
 #: src/js/pages/admin/settings.vue:955
@@ -10958,7 +10958,7 @@ msgstr "使用者"
 
 #: src/js/modules/widgets.js:40
 msgid "Users under your control"
-msgstr "使用者們在您的控制之下"
+msgstr "您所控制的使用者"
 
 #: ./src/js/pages/user/login-keys/index.vue:21
 #: src/js/pages/user/login-keys/index.vue:31
@@ -10967,11 +10967,11 @@ msgstr "使用"
 
 #: ./src/js/pages/admin/reseller-packages/_components/reseller-package.vue:57
 msgid "Uses 2 IP's, domain uses one of them"
-msgstr "使用兩個 IP, 網域使用其中一個"
+msgstr "使用兩個 IP，網域使用其中一個"
 
 #: ./src/js/pages/admin/reseller-packages/_components/reseller-package.vue:60
 msgid "Uses 3 IP's, domain gets own IP"
-msgstr "使用三個 IP，網域拿到專屬的 IP"
+msgstr "使用三個 IP，網域會有專屬的 IP"
 
 #: ./src/js/pages/user/login-keys/create.vue:105
 #: ./src/js/pages/user/login-keys/modify.vue:67
@@ -11001,7 +11001,7 @@ msgstr[0] "度假訊息"
 #: ./src/js/pages/user/email/vacations/create.vue:115
 #: ./src/js/pages/user/email/vacations/modify.vue:98
 msgid "Vacation Message:"
-msgstr "度假訊息:"
+msgstr "度假訊息："
 
 #: ./src/js/pages/admin/backups/modify.vue:333
 #: ./src/js/pages/admin/backups/schedule.vue:391
