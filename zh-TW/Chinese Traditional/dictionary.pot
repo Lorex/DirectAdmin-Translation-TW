@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 07:44\n"
+"PO-Revision-Date: 2020-03-20 08:22\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -18,7 +18,7 @@ msgstr ""
 #: ./src/js/pages/reseller/backups/restore.vue:12
 #: src/js/pages/reseller/backups/restore.vue:22
 msgid " Select IP address used for restore."
-msgstr " 請選擇要用於復原的 IP 位址"
+msgstr " 請選擇要用於還原的 IP 位址。"
 
 #: ./src/js/pages/user/email/autoresponders/create.vue:37
 #: ./src/js/pages/user/email/autoresponders/modify.vue:27
@@ -83,15 +83,15 @@ msgstr "注意：變更 MX 記錄可能會導致您所有的電子信箱帳號�
 
 #: ./src/js/pages/reseller/users/_components/change-sent-emails-daily-limit-dialog.vue:11
 msgid "/ Day"
-msgstr "/ 日"
+msgstr "/ 每日"
 
 #: ./src/js/pages/admin/stats.vue:78
 msgid "&nbsp;Database Disk Usage"
-msgstr "&nbsp;資料庫硬碟使用量"
+msgstr "&nbsp;資料庫磁碟使用量"
 
 #: ./src/js/pages/admin/stats.vue:69
 msgid "&nbsp;E-mail Disk Usage"
-msgstr "&nbsp;電子郵件硬碟使用量"
+msgstr "&nbsp;電子郵件磁碟使用量"
 
 #: src/js/pages/admin/users/resellers/_components/usage-table.vue:76
 msgid "# of DBs"
@@ -309,7 +309,7 @@ msgstr "0 = 永不"
 
 #: ./src/js/pages/admin/settings.vue:140
 msgid "0 = off, 100 = always on"
-msgstr "0 = 關閉, 100 = 永遠啟動"
+msgstr "0 = 關閉, 100 = 永遠開啟"
 
 #: ./src/js/pages/admin/backups/schedule.vue:142
 msgid "0-23"
@@ -327,106 +327,106 @@ msgstr "0-7. 0,7 - 星期日"
 #: ./src/js/pages/reseller/backups/schedule.vue:148
 #: ./src/js/pages/user/cronjobs/create.vue:80
 msgid "0–7; 0, 7 = Sunday"
-msgstr ""
+msgstr "0–7; 0, 7 = 星期日"
 
 #: ./src/js/pages/reseller/backups/modify.vue:113
 msgid "0–7; 0,7 = Sunday"
-msgstr ""
+msgstr "0–7; 0,7 = 星期日"
 
 #: src/js/pages/user/two-step-auth.vue:253
 msgid "1 Day"
-msgstr ""
+msgstr "1 日"
 
 #: src/js/pages/user/two-step-auth.vue:269
 msgid "1 Month"
-msgstr ""
+msgstr "1 月"
 
 #: src/js/pages/user/two-step-auth.vue:261
 msgid "1 Week"
-msgstr ""
+msgstr "1 週"
 
 #: ./src/js/pages/admin/backups/schedule.vue:172
 msgid "1-12"
-msgstr ""
+msgstr "1-12"
 
 #: ./src/js/pages/admin/backups/schedule.vue:157
 msgid "1-31"
-msgstr ""
+msgstr "1-31"
 
 #: ./src/js/pages/user/email/spamassassin.vue:176
 msgid "1-50, no decimals"
-msgstr ""
+msgstr "1-50, 且為整數"
 
 #: src/js/pages/user/two-step-auth.vue:277
 msgid "12 Months"
-msgstr ""
+msgstr "12 個月"
 
 #: src/js/pages/user/two-step-auth.vue:257
 msgid "2 Days"
-msgstr ""
+msgstr "2 日"
 
 #: src/js/pages/user/two-step-auth.vue:265
 msgid "2 Weeks"
-msgstr ""
+msgstr "2 週"
 
 #: ./src/js/components/local/date-formats.vue:53
 msgid "24H"
-msgstr ""
+msgstr "24 小時"
 
 #: ./src/js/pages/user/redirects.vue:105
 #: ./src/js/pages/user/redirects.vue:54
 #: src/js/pages/user/redirects.vue:109
 msgid "301 — Permanent"
-msgstr ""
+msgstr "301 — 永久轉移"
 
 #: ./src/js/pages/user/redirects.vue:105
 #: ./src/js/pages/user/redirects.vue:57
 #: src/js/pages/user/redirects.vue:110
 msgid "302 — Temporary"
-msgstr ""
+msgstr "302 — 暫時轉移"
 
 #: ./src/js/pages/user/redirects.vue:105
 #: ./src/js/pages/user/redirects.vue:60
 #: src/js/pages/user/redirects.vue:111
 msgid "303 — Replaced"
-msgstr ""
+msgstr "301 — 已被取代"
 
 #: src/js/pages/user/error-pages.vue:59
 msgid "401 Unauthorized"
-msgstr ""
+msgstr "401 未授權"
 
 #: ./src/js/pages/user/hotlinks/index.vue:110
 #: src/js/pages/user/error-pages.vue:62
 msgid "403 Forbidden"
-msgstr ""
+msgstr "403 拒絕存取"
 
 #: ./src/js/pages/404.vue:13
 msgid "404 Error"
-msgstr ""
+msgstr "404 錯誤"
 
 #: src/js/pages/user/error-pages.vue:65
 msgid "404 Not Found"
-msgstr ""
+msgstr "404 找不到頁面"
 
 #: src/js/pages/user/error-pages.vue:68
 msgid "500 Internal Server Error"
-msgstr ""
+msgstr "500 伺服器內部錯誤"
 
 #: src/js/pages/user/two-step-auth.vue:273
 msgid "6 Months"
-msgstr ""
+msgstr "6個月"
 
 #: ./src/js/pages/user/email/spamassassin.vue:83
 msgid "A higher threshold will let more spam through, but is less likely to tag legitimate mail."
-msgstr ""
+msgstr "較高的臨界值會讓更多的垃圾郵件通過，但是能減少被標記成垃圾郵件機率。"
 
 #: ./src/js/pages/user/login-keys/create.vue:38
 msgid "A label to manage the keys. This is not the login username. (a-zA-Z0-9)"
-msgstr ""
+msgstr "一個用於管理金鑰的標籤，這不是登入用的使用者名稱。(a-zA-Z0-9)"
 
 #: ./src/js/pages/user/email/spamassassin.vue:79
 msgid "A lower threshold will block more spam, but can potentially tag legitimate mail."
-msgstr ""
+msgstr "較低的臨界值將會阻擋更多的垃圾郵件，但會增加正常郵件被標記為垃圾郵件的機率。"
 
 #: src/js/components/local/suspend-user-dialog.vue:38
 msgid "Abuse"
@@ -440,33 +440,33 @@ msgstr[0] "接受類型："
 #: ./src/js/pages/user/database/view.vue:146
 msgid "Access host"
 msgid_plural "Access hosts"
-msgstr[0] ""
+msgstr[0] "存取主機"
 
 #: ./src/js/pages/user/database/view.vue:116
 #: ./src/js/pages/user/database/view.vue:99
 #: src/js/pages/user/database/view.vue:102
 msgid "Access Host"
-msgstr ""
+msgstr "存取主機"
 
 #: ./src/js/pages/user/database/view.vue:95
 msgid "Access Hosts"
-msgstr ""
+msgstr "存取主機"
 
 #: ./src/js/components/local/layouts/nav-grid/header.vue:21
 #: ./src/js/components/local/layouts/shared/access-level-dropdown.vue:9
 #: ./src/js/components/local/layouts/sidebar/header.vue:6
 msgid "Access Level"
-msgstr ""
+msgstr "存取層級"
 
 #: ./src/js/components/local/layouts/mobile/access-level-dropdown.vue:11
 msgid "Access Level:"
-msgstr ""
+msgstr "存取層級："
 
 #: ./src/js/pages/user/email/accounts/index.vue:343
 #: ./src/js/pages/user/ftp-accounts/index.vue:113
 msgid "account"
 msgid_plural "accounts"
-msgstr[0] ""
+msgstr[0] "帳號"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/email-pop.vue:15
 #: ./src/js/pages/user/email/accounts/_dialogs/change-password-dialog.vue:6
@@ -475,70 +475,70 @@ msgstr[0] ""
 #: src/js/pages/user/email/accounts/index.vue:64
 #: src/js/pages/user/ftp-accounts/index.vue:49
 msgid "Account"
-msgstr ""
+msgstr "帳號"
 
 #: src/js/pages/user/stats/index.vue:40
 msgid "Account Configuration"
-msgstr ""
+msgstr "帳號設定"
 
 #: ./src/js/pages/reseller/stats.vue:11
 #: ./src/js/pages/reseller/users/view.vue:105
 #: src/js/pages/reseller/stats.vue:14
 #: src/js/pages/reseller/users/view.vue:109
 msgid "Account Info"
-msgstr ""
+msgstr "帳號資訊"
 
 #: ./src/js/pages/admin/license.vue:39
 msgid "Account Limit"
-msgstr ""
+msgstr "帳號限制"
 
 #: src/js/modules/navigation/admin.js:7
 #: src/js/modules/navigation/reseller.js:7
 #: src/js/modules/navigation/user.js:7
 msgid "Account Manager"
-msgstr ""
+msgstr "帳號管理"
 
 #: src/js/pages/user/ftp-accounts/edit.vue:132
 msgid "Account modified"
-msgstr ""
+msgstr "已修改帳號"
 
 #: src/js/pages/user/ftp-accounts/index.vue:218
 msgid "Account was successfully deleted"
 msgid_plural "Accounts was successfully deleted"
-msgstr[0] ""
+msgstr[0] "已成功刪除帳號"
 
 #: src/js/pages/user/ftp-accounts/index.vue:196
 msgid "Account was successfully suspended"
 msgid_plural "Accounts was successfully suspended"
-msgstr[0] ""
+msgstr[0] "已成功暫停帳號"
 
 #: src/js/pages/user/ftp-accounts/index.vue:207
 msgid "Account was successfully unsuspended"
 msgid_plural "Accounts was successfully unsuspended"
-msgstr[0] ""
+msgstr[0] "已成功恢復帳號"
 
 #: src/js/modules/widgets.js:30
 msgid "Accounts and usage information"
-msgstr ""
+msgstr "帳號及使用量資訊"
 
 #: ./src/js/pages/user/email/filters.vue:182
 msgid "Action for filter matches:"
-msgstr ""
+msgstr "符合過濾條件的動作："
 
 #: ./src/js/pages/admin/multi-server.vue:103
 #: ./src/js/pages/admin/users/resellers/view.vue:28
 #: ./src/js/pages/reseller/users/view.vue:25
 msgid "Actions"
-msgstr ""
+msgstr "動作"
 
 #: ./src/js/pages/admin/plugin-manager.vue:74
 msgid "Activate"
-msgstr ""
+msgstr "啟用"
 
 #: ./src/js/pages/user/dns/_components/zone-key.vue:19
 #: ./src/js/pages/user/dns/security.vue:65
 msgid "Activated"
-msgstr ""
+msgstr "已啟用"
 
 #: ./src/js/pages/admin/plugin-manager.vue:15
 #: ./src/js/pages/admin/ssl/index.vue:35
@@ -546,16 +546,16 @@ msgstr ""
 #: src/js/pages/admin/plugin-manager.vue:22
 #: src/js/pages/admin/ssl/index.vue:56
 msgid "Active"
-msgstr ""
+msgstr "啟用中"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/db.vue:5
 msgid "Active databases"
-msgstr ""
+msgstr "啟用中的資料庫"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:73
 #: ./src/js/pages/user/dashboard/_components/widgets/user-stats.vue:114
 msgid "Active Since"
-msgstr ""
+msgstr "啟用時間"
 
 #: ./src/js/components/local/dns/add-record-dialog.vue:181
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-dialog.vue:25
@@ -582,7 +582,7 @@ msgstr ""
 #: ./src/js/pages/user/protected-directories/view.vue:131
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:88
 msgid "Add"
-msgstr ""
+msgstr "新增"
 
 #: ./src/js/pages/reseller/users/modify.vue:77
 msgid "Add Additional IP"
@@ -590,7 +590,7 @@ msgstr "新增額外 IP"
 
 #: ./src/js/pages/user/email/lists/view.vue:69
 msgid "Add an E-mail Address to the list"
-msgstr "新增電子郵件第址至該列表"
+msgstr "新增電子郵件地址至清單"
 
 #: ./src/js/pages/user/domains/_components/add-ip-to-domain-dialog.vue:3
 msgid "Add Another IP"
@@ -751,58 +751,58 @@ msgstr "新增要插入至 CUSTOM 憑證的代碼。"
 #: ./src/js/pages/admin/settings.vue:1066
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:51
 msgid "Add to"
-msgstr ""
+msgstr "新增至"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:42
 msgid "Add to Apache"
-msgstr ""
+msgstr "新增至 Apache"
 
 #: ./src/js/pages/admin/settings.vue:967
 msgid "Add to blacklist"
-msgstr ""
+msgstr "加入至黑名單"
 
 #: ./src/js/pages/admin/settings.vue:1022
 msgid "Add to Blacklist"
-msgstr ""
+msgstr "加入至黑名單"
 
 #: ./src/js/components/local/filemanager/actions.vue:30
 msgid "Add to clipboard"
-msgstr ""
+msgstr "加入至剪貼簿"
 
 #: src/js/components/local/filemanager/file-actions.vue:126
 msgid "Add to Clipboard"
-msgstr ""
+msgstr "加入至剪貼簿"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/add-ip-dialog.vue:51
 msgid "Add to device"
-msgstr ""
+msgstr "加入至裝置"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:31
 msgid "Add to NS"
-msgstr ""
+msgstr "加入至 NS"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-ips-dialog.vue:3
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-users-dialog.vue:3
 #: ./src/js/pages/admin/brute-force-monitor/skip_list.vue:16
 msgid "Add to skip list"
-msgstr ""
+msgstr "加入至跳過清單"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-dialog.vue:3
 msgid "Add to Skip List"
-msgstr ""
+msgstr "加入跳過清單"
 
 #: ./src/js/pages/user/email/lists/view.vue:91
 msgid "Add to:"
-msgstr ""
+msgstr "新增至："
 
 #: ./src/js/pages/user/protected-directories/view.vue:80
 #: ./src/js/pages/user/protected-directories/view.vue:92
 msgid "Add User"
-msgstr ""
+msgstr "新增使用者"
 
 #: ./src/js/pages/admin/system-backup.vue:105
 msgid "Add user home directories to directory list"
-msgstr ""
+msgstr "新增使用者家目錄至目錄清單"
 
 #: ./src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:31
 #: ./src/js/pages/user/dashboard/_components/add-widget-dialog.vue:27
@@ -810,34 +810,34 @@ msgstr ""
 #: ./src/js/pages/user/dashboard/_components/standard-dashboard.vue:228
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:45
 msgid "Add Widget"
-msgstr ""
+msgstr "新增小工具"
 
 #: ./src/js/pages/admin/ip-manager/details.vue:47
 #: src/js/pages/admin/ip-manager/details.vue:57
 msgid "Added to Apache"
-msgstr ""
+msgstr "已加入至 Apache"
 
 #: ./src/js/pages/admin/ip-manager/details.vue:47
 #: src/js/pages/admin/ip-manager/details.vue:56
 msgid "Added to DNS"
-msgstr ""
+msgstr "已加入至 DNS"
 
 #: ./src/js/pages/reseller/stats.vue:73
 msgid "Additional Bandwidth"
-msgstr ""
+msgstr "額外頻寬"
 
 #: ./src/js/pages/reseller/users/view.vue:201
 msgid "Additional Bandwidth: %{ amount }"
-msgstr ""
+msgstr "額外頻寬: %{ amount }"
 
 #: ./src/js/pages/user/email/catch-all.vue:57
 msgid "Address:"
-msgstr ""
+msgstr "位址："
 
 #: ./src/js/pages/admin/users/admins.vue:163
 msgid "admin"
 msgid_plural "admins"
-msgstr[0] ""
+msgstr[0] "管理員"
 
 #: ./src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:5
 #: src/js/components/local/app-global-modals/route-search.vue:58
@@ -852,80 +852,80 @@ msgstr[0] ""
 #: src/js/pages/user/dashboard/_components/standard-dashboard.vue:42
 #: src/js/pages/user/messages/_dialogs/view-ticket-dialog.vue:50
 msgid "Admin"
-msgstr ""
+msgstr "管理員"
 
 #: src/js/modules/navigation/admin.js:120
 msgid "Admin Backup/Transfer"
-msgstr ""
+msgstr "管理員備份 / 轉移"
 
 #: ./src/js/pages/admin/backups/index.vue:1
 msgid "Admin Backups"
-msgstr ""
+msgstr "管理員備份"
 
 #: ./src/js/pages/admin/history.vue:1
 msgid "Admin History"
-msgstr ""
+msgstr "管理員歷史紀錄"
 
 #: ./src/js/pages/user/email/lists/modify.vue:15
 msgid "Admin Password"
-msgstr ""
+msgstr "管理員密碼"
 
 #: src/js/modules/search/plugins.js:22
 msgid "Admin Plugins"
-msgstr ""
+msgstr "管理員插件"
 
 #: ./src/js/pages/admin/settings.vue:1
 msgid "Admin Settings"
-msgstr ""
+msgstr "管理員設定"
 
 #: src/js/modules/widgets.js:54
 msgid "Admin Stats"
-msgstr ""
+msgstr "管理統計資料"
 
 #: src/js/modules/navigation/admin.js:113
 msgid "Admin Tools"
-msgstr ""
+msgstr "管理工具"
 
 #: ./src/js/pages/admin/settings.vue:12
 #: src/js/modules/navigation/admin.js:70
 #: src/js/pages/admin/settings.vue:16
 msgid "Administrator Settings"
-msgstr ""
+msgstr "管理員設定"
 
 #: ./src/js/pages/user/email/lists/modify.vue:37
 msgid "Administrivia"
-msgstr ""
+msgstr "行政管理"
 
 #: ./src/js/pages/admin/users/admins.vue:1
 #: src/js/components/local/layouts/shared/search.vue:128
 msgid "Admins"
-msgstr ""
+msgstr "管理員"
 
 #: ./src/js/pages/reseller/customize-skin/index.vue:43
 #: src/js/pages/reseller/customize-skin/index.vue:51
 msgid "AdSense Configuration"
-msgstr ""
+msgstr "AdSense 設定"
 
 #: ./src/js/pages/user/email/filters.vue:166
 msgid "Adult Filter:"
-msgstr ""
+msgstr "成人內容過濾器:"
 
 #: ./src/js/components/local/filemanager/files-table.vue:178
 msgid "Advanced edit"
-msgstr ""
+msgstr "進階編輯"
 
 #: src/js/modules/navigation/user.js:126
 msgid "Advanced Features"
-msgstr ""
+msgstr "進階功能"
 
 #: ./src/js/pages/user/dns/mx-records.vue:55
 msgid "Affect Pointers"
-msgstr ""
+msgstr "影響指標"
 
 #: ./src/js/pages/admin/settings.vue:438
 #: ./src/js/pages/admin/settings.vue:455
 msgid "after"
-msgstr ""
+msgstr "之後"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:29
 msgid "Aggregate Email (RUA)"
@@ -934,7 +934,7 @@ msgstr ""
 #: ./src/js/pages/reseller/users/_components/domains.vue:82
 #: src/js/pages/user/domain-pointers.vue:59
 msgid "Alias"
-msgstr ""
+msgstr "別名"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:58
 msgid "Alignment mode for DKIM"
@@ -947,44 +947,44 @@ msgstr ""
 #: ./src/js/pages/admin/backups/modify.vue:342
 #: ./src/js/pages/admin/backups/schedule.vue:400
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #: src/js/modules/widgets.js:60
 msgid "All Accounts on the Server"
-msgstr ""
+msgstr "伺服器上全部的帳號"
 
 #: ./src/js/pages/admin/backups/_components/crons-table.vue:63
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:53
 #: ./src/js/pages/admin/backups/modify.vue:274
 #: ./src/js/pages/admin/backups/schedule.vue:337
 msgid "All Data"
-msgstr ""
+msgstr "所有資料"
 
 #: ./src/js/components/local/create-message-dialog.vue:88
 msgid "All Email Accounts"
-msgstr ""
+msgstr "所有電子郵件帳號"
 
 #: ./src/js/pages/admin/settings.vue:743
 msgid "All Logs"
-msgstr ""
+msgstr "所有記錄"
 
 #: src/js/pages/user/stats/domain-statistics.vue:141
 #: src/js/pages/user/subdomains/stats.vue:105
 msgid "All Month(cgi)"
-msgstr ""
+msgstr "全部月份(cgi)"
 
 #: ./src/js/pages/reseller/message-users.vue:17
 msgid "All of Your Users"
-msgstr ""
+msgstr "您所有的使用者"
 
 #: ./src/js/pages/admin/cron-jobs.vue:1
 #: src/js/modules/navigation/admin.js:170
 msgid "All User Cron Jobs"
-msgstr ""
+msgstr "所有使用者的 Cron 作業"
 
 #: ./src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:58
 msgid "all users"
-msgstr ""
+msgstr "所有使用者"
 
 #: ./src/js/pages/admin/backups/_components/crons-table.vue:47
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:34
@@ -998,7 +998,7 @@ msgstr ""
 #: src/js/modules/widgets.js:59
 #: src/js/pages/user/ssh-keys/_components/authorized-keys.vue:35
 msgid "All Users"
-msgstr ""
+msgstr "所有使用者"
 
 #: ./src/js/pages/admin/backups/modify.vue:55
 #: ./src/js/pages/admin/backups/schedule.vue:62
@@ -1028,93 +1028,93 @@ msgstr ""
 #: ./src/js/pages/user/login-keys/index.vue:21
 #: src/js/pages/user/login-keys/index.vue:32
 msgid "Allow"
-msgstr ""
+msgstr "允許"
 
 #: ./src/js/pages/admin/settings.vue:69
 msgid "Allow a Reseller to Backup/Restore their Users(Separate from User Backup/Restore)"
-msgstr ""
+msgstr "允許經銷商備份 / 復原他們的使用者 (與「備份 / 復原使用者」不同)"
 
 #: ./src/js/components/local/dns/spf-editor.vue:43
 msgid "Allow any hostname ending in %{ domain } to send email for this domain"
-msgstr ""
+msgstr "允許任何結尾是 %{ domain } 的主機名稱使用此網域傳送信件"
 
 #: ./src/js/pages/user/security-questions.vue:98
 #: ./src/js/pages/user/two-step-auth.vue:146
 msgid "Allow API logins with the current User/password. Login Keys and Session Keys are always allowed."
-msgstr ""
+msgstr "允許目前的使用者 / 密碼使用API登入。登入金鑰以及工作階段金鑰是永遠允許的。"
 
 #: ./src/js/pages/user/hotlinks/index.vue:92
 msgid "Allow Blank Referrer"
-msgstr ""
+msgstr "允許空白推薦者"
 
 #: ./src/js/components/local/dns/spf-editor.vue:33
 msgid "Allow current IP address of the domain to send email for this domain"
-msgstr ""
+msgstr "允許目前此網域的 IP 位址用此網域的名義傳送信件"
 
 #: ./src/js/pages/user/login-keys/create.vue:127
 #: ./src/js/pages/user/login-keys/modify.vue:90
 msgid "Allow HTM:"
-msgstr ""
+msgstr "允許 HTM："
 
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:207
 #: src/js/pages/admin/users/resellers/modify.vue:231
 msgid "Allow Overselling"
-msgstr ""
+msgstr "允許超售"
 
 #: ./src/js/pages/admin/reseller-packages/_components/reseller-package.vue:67
 msgid "Allow Reseller to create sites with server IP"
-msgstr ""
+msgstr "允許經銷商使用伺服器 IP 來建立網站"
 
 #: ./src/js/components/local/dns/spf-editor.vue:23
 msgid "Allow servers listed as MX to send email for this domain"
-msgstr ""
+msgstr "允許列為 MX 的伺服器為此網域傳送信件"
 
 #: ./src/js/pages/admin/settings.vue:79
 msgid "Allow the latest version of DirectAdmin to be pushed to this server, as needed."
-msgstr ""
+msgstr "允許在需要時推進最新版本的 DirectAdmin 至此伺服器。"
 
 #: ./src/js/pages/admin/settings.vue:137
 msgid "Allow Users with less than"
-msgstr ""
+msgstr "允許使用者少於"
 
 #: ./src/js/pages/user/ftp-settings.vue:34
 msgid "Allow:"
-msgstr ""
+msgstr "允許:"
 
 #: ./src/js/pages/user/login-keys/create.vue:153
 #: ./src/js/pages/user/login-keys/modify.vue:116
 msgid "Allowed IPs:"
-msgstr ""
+msgstr "已允許的 IP:"
 
 #: ./src/js/pages/user/login-keys/create.vue:131
 #: ./src/js/pages/user/login-keys/modify.vue:94
 msgid "Allows browsing of the DA interface to HTM, IMG and CSS files."
-msgstr ""
+msgstr "允許瀏覽 DA 介面至 HTM，IMG 以及 CSS 檔案。"
 
 #: ./src/js/pages/user/email/spamassassin.vue:464
 msgid "Already blacklisted"
-msgstr ""
+msgstr "已加入至黑名單"
 
 #: ./src/js/pages/user/email/vacations/create.vue:25
 msgid "Already exists"
-msgstr ""
+msgstr "已存在"
 
 #: ./src/js/pages/user/email/spamassassin.vue:359
 #: ./src/js/pages/user/email/spamassassin.vue:461
 msgid "Already in the list"
-msgstr ""
+msgstr "已在清單中"
 
 #: ./src/js/pages/user/email/spamassassin.vue:362
 msgid "Already whitelisted"
-msgstr ""
+msgstr "已加入至白名單"
 
 #: ./src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:43
 msgid "Alter"
-msgstr ""
+msgstr "改變"
 
 #: ./src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:67
 msgid "Alter Routine"
-msgstr ""
+msgstr "改變常規"
 
 #: ./src/js/pages/user/stats/index.vue:195
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:63
@@ -1122,30 +1122,30 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/account-info.vue:301
 #: src/js/pages/user/stats/index.vue:242
 msgid "Anonymous FTP"
-msgstr ""
+msgstr "匿名 FTP"
 
 #: src/js/components/local/user-package.vue:262
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:199
 #: src/js/pages/admin/users/resellers/modify.vue:223
 msgid "Anonymous FTP Accounts"
-msgstr ""
+msgstr "匿名 FTP 帳號"
 
 #: ./src/js/pages/user/ftp-accounts/index.vue:32
 #: ./src/js/pages/user/ftp-settings.vue:1
 msgid "Anonymous FTP Settings"
-msgstr ""
+msgstr "匿名 FTP 設定"
 
 #: ./src/js/pages/user/_components/add-security-question-dialog.vue:48
 msgid "Answer"
-msgstr ""
+msgstr "回答"
 
 #: src/js/components/local/inputs/input-week-day.vue:23
 msgid "Any"
-msgstr ""
+msgstr "任何"
 
 #: ./src/js/components/local/dns/spf-editor.vue:143
 msgid "Any domain that will be searched for a match"
-msgstr ""
+msgstr "任何網域將會為了比對而被搜尋"
 
 #: ./src/js/pages/user/email/spamassassin.vue:282
 msgid "Any e-mail from these addresses will automatically be tagged as spam."
@@ -8861,7 +8861,7 @@ msgstr "傳送至垃圾郵件箱"
 
 #: ./src/js/pages/reseller/users/_components/resend-welcome-email-dialog.vue:9
 msgid "Send To:"
-msgstr "傳送至:"
+msgstr "傳送至："
 
 #: ./src/js/pages/admin/mail-queue/index.vue:23
 #: ./src/js/pages/user/dashboard/_components/widgets/mail-queue.vue:4
@@ -8877,19 +8877,19 @@ msgstr "發件人"
 #: src/js/pages/user/email/usage/index.vue:122
 #: src/js/pages/user/email/usage/index.vue:204
 msgid "Sender Host"
-msgstr ""
+msgstr "發件人主機"
 
 #: ./src/js/pages/user/email/accounts/index.vue:37
 #: ./src/js/pages/user/email/accounts/index.vue:96
 #: src/js/pages/user/email/accounts/index.vue:110
 #: src/js/pages/user/email/accounts/index.vue:49
 msgid "Sends"
-msgstr ""
+msgstr "傳送"
 
 #: ./src/js/pages/user/email/accounts/index.vue:55
 #: src/js/pages/user/email/accounts/index.vue:69
 msgid "Sent"
-msgstr ""
+msgstr "已傳送"
 
 #: ./src/js/pages/admin/stats.vue:199
 #: ./src/js/pages/admin/users/index.vue:11
@@ -8900,7 +8900,7 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/usage-table.vue:138
 #: src/js/pages/user/stats/index.vue:102
 msgid "Sent E-mails"
-msgstr ""
+msgstr "已傳送電子郵件"
 
 #: src/js/components/local/history/chart.vue:207
 #: src/js/components/local/history/table.vue:102
@@ -8908,73 +8908,73 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:290
 #: src/js/pages/user/stats/domain-statistics.vue:129
 msgid "September"
-msgstr ""
+msgstr "9月"
 
 #: ./src/js/pages/admin/multi-server.vue:179
 msgid "server"
 msgid_plural "server"
-msgstr[0] ""
+msgstr[0] "伺服器"
 
 #: src/js/pages/reseller/users/create.vue:212
 msgid "Server"
-msgstr ""
+msgstr "伺服器"
 
 #: ./src/js/pages/admin/stats.vue:16
 msgid "Server History"
-msgstr ""
+msgstr "伺服器歷史記錄"
 
 #: ./src/js/components/local/dns/spf-editor.vue:90
 msgid "Server Hostname"
-msgstr ""
+msgstr "伺服器主機名稱"
 
 #: src/js/modules/navigation/admin.js:63
 #: src/js/modules/navigation/reseller.js:45
 msgid "Server Manager"
-msgstr ""
+msgstr "伺服器管理員"
 
 #: src/js/pages/user/ftp-accounts/index.vue:50
 msgid "Server Path"
-msgstr ""
+msgstr "伺服器路徑"
 
 #: ./src/js/pages/admin/settings.vue:12
 #: src/js/pages/admin/settings.vue:19
 msgid "Server Settings"
-msgstr ""
+msgstr "伺服器設定"
 
 #: ./src/js/pages/admin/stats.vue:1
 msgid "Server Statistics"
-msgstr ""
+msgstr "伺服器統計資料"
 
 #: ./src/js/pages/admin/license.vue:171
 msgid "Server Version"
-msgstr ""
+msgstr "伺服器版本"
 
 #: src/js/pages/admin/services.vue:142
 msgid "Server was successfully rebooted"
-msgstr ""
+msgstr "伺服器已成功重新啟動"
 
 #: ./src/js/pages/reseller/_dialogs/upload-skin-dialog.vue:35
 msgid "Server wide"
-msgstr ""
+msgstr "伺服器範圍"
 
 #: ./src/js/pages/admin/settings.vue:191
 msgid "Server's Hostname"
-msgstr ""
+msgstr "伺服器主機名稱"
 
 #: ./src/js/pages/admin/services.vue:18
 #: ./src/js/pages/user/dashboard/_components/widgets/show-services.vue:3
 #: src/js/pages/admin/services.vue:21
 #: src/js/pages/user/dashboard/_components/widgets/show-services.vue:6
 msgid "Service"
-msgstr ""
+msgstr "服務"
 
 #: src/js/modules/navigation/admin.js:144
 msgid "Service Monitor"
-msgstr ""
+msgstr "服務監視器"
 
 #: src/js/pages/admin/services.vue:141
 msgid "Service was reloaded successfully"
-msgstr ""
+msgstr "服務已成功重新載入"
 
 #: src/js/pages/admin/services.vue:140
 msgid "Service was restarted successfully"
@@ -10831,11 +10831,11 @@ msgstr "使用者首頁"
 #: ./src/js/pages/reseller/user-packages/index.vue:66
 msgid "user package"
 msgid_plural "user packages"
-msgstr[0] "使用者套件"
+msgstr[0] "使用者方案"
 
 #: ./src/js/pages/reseller/users/create.vue:94
 msgid "User Package"
-msgstr "使用者套件"
+msgstr "使用者方案"
 
 #: src/js/modules/search/plugins.js:20
 msgid "User Plugins"
@@ -11088,7 +11088,7 @@ msgstr "檢視 / 刪除已阻擋的 IP"
 #: ./src/js/components/local/app-global-modals/notifications.vue:23
 msgid "View %{ count } hidden notification..."
 msgid_plural "View %{ count } hidden notifications..."
-msgstr[0] "檢視 %{ count } 隱藏通知"
+msgstr[0] "檢視 %{ count } 則隱藏通知…"
 
 #: ./src/js/pages/admin/mail-queue/view.vue:10
 msgid "View %{id}"
@@ -11139,7 +11139,7 @@ msgstr "檢視記錄"
 
 #: ./src/js/pages/admin/log-viewer/index.vue:11
 msgid "View Log: %{ log }"
-msgstr "檢視記錄: %{ log }"
+msgstr "檢視記錄：%{ log }"
 
 #: ./src/js/pages/user/email/lists/view.vue:1
 msgid "View Mailing List"
@@ -11160,7 +11160,7 @@ msgstr "檢視伃列項目"
 
 #: ./src/js/pages/admin/log-viewer/index.vue:126
 msgid "View RAW"
-msgstr "檢視未經處理的"
+msgstr "檢視未經處理資料"
 
 #: ./src/js/pages/admin/users/resellers/view.vue:1
 msgid "View Reseller"
@@ -11197,7 +11197,7 @@ msgstr "檢視票證: #%{ ticket }"
 #: ./src/js/pages/user/stats/log.vue:12
 #: ./src/js/pages/user/stats/subdomain-log.vue:12
 msgid "View Usage Log for %{ domain }"
-msgstr "檢視%{ domain } 的使用紀錄"
+msgstr "檢視 %{ domain } 的使用量紀錄"
 
 #: ./src/js/pages/reseller/users/view.vue:1
 #: ./src/js/pages/reseller/users/view.vue:12
@@ -11222,24 +11222,24 @@ msgstr "Webalizer"
 #: ./src/js/pages/user/dashboard/_components/widgets/email-pop.vue:60
 #: ./src/js/pages/user/email/accounts/index.vue:249
 msgid "Webmail:"
-msgstr "網路郵件:"
+msgstr "網路信箱："
 
 #: src/js/modules/navigation/admin.js:231
 #: src/js/modules/navigation/reseller.js:152
 #: src/js/modules/navigation/user.js:240
 msgid "Webmail: Roundcube"
-msgstr "網路郵件: Roundcube"
+msgstr "網路信箱：Roundcube"
 
 #: src/js/modules/navigation/admin.js:215
 #: src/js/modules/navigation/reseller.js:136
 #: src/js/modules/navigation/user.js:232
 msgid "Webmail: Squirrelmail"
-msgstr "網路郵件: Squirrelmail"
+msgstr "網路信箱：Squirrelmail"
 
 #: src/js/modules/navigation/admin.js:223
 #: src/js/modules/navigation/reseller.js:144
 msgid "Webmail: UebiMiau"
-msgstr "網路郵件: UebiMiau"
+msgstr "網路信箱：UebiMiau"
 
 #: ./src/js/pages/user/backup/index.vue:19
 #: ./src/js/pages/user/backup/restore.vue:34
@@ -11310,7 +11310,7 @@ msgstr "哪個存取"
 #: ./src/js/pages/user/email/spamassassin.vue:381
 #: src/js/pages/user/email/spamassassin.vue:388
 msgid "Whitelisted E-mail"
-msgstr "白名單 E-mail"
+msgstr "已將 E-mail 加入白名單"
 
 #: ./src/js/pages/admin/backups/_components/crons-table.vue:3
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:2
@@ -11329,13 +11329,13 @@ msgstr "誰存取"
 #: ./src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:17
 #: src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:21
 msgid "Widget ID"
-msgstr "部件 ID"
+msgstr "元件 ID"
 
 #: ./src/js/pages/reseller/customize-skin/_components/widgets-editor.vue:16
 #: ./src/js/pages/reseller/customize-skin/index.vue:43
 #: src/js/pages/reseller/customize-skin/index.vue:54
 msgid "Widgets"
-msgstr "部件"
+msgstr "元件"
 
 #: ./src/js/pages/user/ssl/_components/common-data-editor.vue:20
 msgid "Wildcard"
@@ -11343,11 +11343,11 @@ msgstr "萬用字元"
 
 #: ./src/js/pages/admin/multi-server.vue:116
 msgid "With Selected"
-msgstr "與選定"
+msgstr "與選取項目"
 
 #: ./src/js/pages/user/email/spamassassin.vue:137
 msgid "Would you like to delete high scoring spam?"
-msgstr "請問您想要刪除高評分的垃圾郵件嗎？"
+msgstr "請問您想要刪除高可能性的垃圾郵件嗎？"
 
 #: ./src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:40
 #: ./src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:67
@@ -11409,7 +11409,7 @@ msgstr "是的﹐阻擋所有的垃圾郵件﹐評分高於:"
 
 #: ./src/js/pages/user/email/spamassassin.vue:212
 msgid "Yes, set the subject to the following:"
-msgstr "是的﹐將主旨設為:"
+msgstr "是的﹐將主旨設為："
 
 #: src/js/api/commands/admin/ip-manager/index.js:85
 msgid "You already have this IP on your system."
@@ -11421,7 +11421,7 @@ msgstr "您將要把以下部件加入至您的儀表板"
 
 #: ./src/js/pages/user/filemanager/_dialogs/rename-file-dialog.vue:7
 msgid "You are going to rename <strong>%{ file }</strong>"
-msgstr "您將要重新命名<strong>%{ file }</strong>"
+msgstr "您將要重新命名 <strong>%{ file }</strong>"
 
 #: ./src/js/pages/user/cronjobs/create.vue:111
 #: ./src/js/pages/user/cronjobs/index.vue:121
@@ -11466,7 +11466,7 @@ msgstr "您目前的登入資訊"
 
 #: ./src/js/pages/admin/services.vue:104
 msgid "Your Password:"
-msgstr "您的密碼:"
+msgstr "您的密碼："
 
 #: ./src/js/pages/user/dns/security.vue:58
 msgid "Zone Keys"
