@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 07:22\n"
+"PO-Revision-Date: 2020-03-20 07:28\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -33,35 +33,35 @@ msgstr "..."
 
 #: ./src/js/pages/admin/custom-httpd/index.vue:124
 msgid "./build rewrite_confs"
-msgstr ""
+msgstr "./build rewrite_confs"
 
 #: ./src/js/pages/reseller/users/view.vue:140
 msgid "( Today: %{ sent } )"
-msgstr ""
+msgstr "(今天: %{ sent })"
 
 #: ./src/js/components/local/user-domains.vue:24
 msgid "(pointers)"
-msgstr ""
+msgstr "(指標)"
 
 #: ./src/js/components/local/stats/webalizer-table.vue:68
 msgid "{{ bandwidth.limit | humanReadableSize }}"
-msgstr ""
+msgstr "{ bandwidth.limit | humanReadableSize }"
 
 #: ./src/js/pages/reseller/customize-skin/_components/category-draggable.vue:22
 msgid "{{ category.name }}"
-msgstr ""
+msgstr "{{ category.name }}"
 
 #: ./src/js/components/local/layouts/shared/search.vue:83
 msgid "{{ entry.label }}"
-msgstr ""
+msgstr "{{ entry.label }}"
 
 #: ./src/js/pages/reseller/customize-skin/_components/menu-draggable.vue:56
 msgid "{{ entry.name }}"
-msgstr ""
+msgstr "{{ entry.name }}"
 
 #: ./src/js/components/local/layouts/shared/error.vue:55
 msgid "{{ err.toString() }}"
-msgstr ""
+msgstr "{{ err.toString() }}"
 
 #: ./src/js/components/local/user-package.vue:10
 #: ./src/js/components/local/user-package.vue:42
@@ -70,12 +70,12 @@ msgstr ""
 #: ./src/js/pages/admin/users/resellers/modify.vue:45
 #: ./src/js/pages/admin/users/resellers/modify.vue:78
 msgid "{{ label }}"
-msgstr ""
+msgstr "{{ label }}"
 
 #: ./src/js/components/local/main-menu/plugged-menu-category.vue:49
 #: ./src/js/components/local/main-menu/plugged-menu-category.vue:89
 msgid "{{category.name}}"
-msgstr ""
+msgstr "{{category.name}}"
 
 #: ./src/js/pages/user/dns/mx-records.vue:69
 msgid "* Note: Making modifications to the MX records can potentially disable all of your email accounts from receiving mail."
@@ -11017,11 +11017,11 @@ msgstr "有效期限直到"
 
 #: ./src/js/pages/user/cronjobs/index.vue:84
 msgid "Valid values are an E-mail address, your DA username: admin, or a blank field to prevent any e-mail."
-msgstr ""
+msgstr "有效值是電子郵件地址，您的 DA 使用者名稱: admin, 或避免空白欄位至任何電子郵件"
 
 #: ./src/js/pages/admin/license.vue:137
 msgid "Validate License"
-msgstr ""
+msgstr "驗證授權"
 
 #: ./src/js/components/local/dns/add-record-dialog.vue:105
 #: ./src/js/components/local/dns/edit-record-dialog.vue:102
@@ -11037,49 +11037,49 @@ msgstr ""
 #: src/js/pages/user/email/forwarders.vue:34
 #: src/js/pages/user/email/usage/index.vue:84
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #: ./src/js/pages/user/system-info/_tables/cpu-info-table.vue:12
 msgid "Vendor ID"
-msgstr ""
+msgstr "供應商 ID"
 
 #: ./src/js/pages/user/stats/index.vue:330
 msgid "Verify License"
-msgstr ""
+msgstr "驗證授權"
 
 #: ./src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:20
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 #: ./src/js/pages/admin/custom-httpd/customize.vue:11
 #: ./src/js/pages/user/error-pages.vue:43
 #: src/js/pages/user/domain-pointers.vue:78
 msgid "View"
-msgstr ""
+msgstr "檢視"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:90
 msgid "View / Delete Blocked IPs"
-msgstr ""
+msgstr "檢視 / 刪除已阻擋的 IP"
 
 #: ./src/js/components/local/app-global-modals/notifications.vue:23
 msgid "View %{ count } hidden notification..."
 msgid_plural "View %{ count } hidden notifications..."
-msgstr[0] ""
+msgstr[0] "檢視 %{ count } 隱藏通知"
 
 #: ./src/js/pages/admin/mail-queue/view.vue:10
 msgid "View %{id}"
-msgstr ""
+msgstr "檢視 %{id}"
 
 #: ./src/js/pages/admin/custom-httpd/_dialogs/available-tokens-dialog.vue:3
 #: ./src/js/pages/admin/custom-httpd/view.vue:70
 msgid "View All Available Tokens"
-msgstr ""
+msgstr "檢視所有可用的權杖"
 
 #: ./src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:3
 #: ./src/js/pages/user/filemanager/_components/clipboard-actions.vue:23
 msgid "View Clipboard"
-msgstr ""
+msgstr "檢視剪貼簿"
 
 #: ./src/js/pages/user/database/view.vue:1
 msgid "View Database"
