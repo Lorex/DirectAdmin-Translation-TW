@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-20 06:25\n"
+"PO-Revision-Date: 2020-03-20 06:38\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -11083,36 +11083,36 @@ msgstr ""
 
 #: ./src/js/pages/user/database/view.vue:1
 msgid "View Database"
-msgstr ""
+msgstr "檢視資料庫"
 
 #: ./src/js/pages/admin/custom-httpd/view.vue:1
 #: ./src/js/pages/admin/custom-httpd/view.vue:19
 msgid "View Domain Configuration"
-msgstr ""
+msgstr "檢視網域設定"
 
 #: ./src/js/pages/user/stats/log.vue:18
 #: ./src/js/pages/user/stats/subdomain-log.vue:18
 msgid "View Error Log for %{ domain }"
-msgstr ""
+msgstr "檢視%{ domain } 的錯誤紀錄"
 
 #: ./src/js/pages/user/filemanager/view.vue:1
 msgid "View File"
-msgstr ""
+msgstr "檢視資料"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:69
 #: ./src/js/pages/user/dashboard/_components/widgets/user-stats.vue:110
 msgid "View History"
-msgstr ""
+msgstr "檢視歷史記錄"
 
 #: ./src/js/pages/admin/system-backup.vue:275
 #: ./src/js/pages/admin/system-backup.vue:283
 msgid "View Last Backup Log"
-msgstr ""
+msgstr "檢視前一個備份記錄"
 
 #: ./src/js/pages/admin/settings.vue:595
 #: ./src/js/pages/user/stats/log.vue:1
 msgid "View Log"
-msgstr ""
+msgstr "檢視記錄"
 
 #: ./src/js/pages/admin/log-viewer/index.vue:11
 msgid "View Log: %{ log }"
@@ -11120,24 +11120,24 @@ msgstr ""
 
 #: ./src/js/pages/user/email/lists/view.vue:1
 msgid "View Mailing List"
-msgstr ""
+msgstr "檢視郵寄清單"
 
 #: ./src/js/pages/user/dashboard/_components/dashboard-tab.vue:55
 #: ./src/js/pages/user/dashboard/_components/dashboard-tab.vue:64
 msgid "View more"
-msgstr ""
+msgstr "檢視更多"
 
 #: ./src/js/pages/user/protected-directories/view.vue:1
 msgid "View Protected Directory"
-msgstr ""
+msgstr "檢視受保護的目錄"
 
 #: ./src/js/pages/admin/mail-queue/view.vue:1
 msgid "View Queue Item"
-msgstr ""
+msgstr "檢視伃列項目"
 
 #: ./src/js/pages/admin/log-viewer/index.vue:126
 msgid "View RAW"
-msgstr ""
+msgstr "檢視未經處理的"
 
 #: ./src/js/pages/admin/users/resellers/view.vue:1
 msgid "View Reseller"
@@ -11402,12 +11402,12 @@ msgstr ""
 #: ./src/js/pages/user/cronjobs/create.vue:111
 #: ./src/js/pages/user/cronjobs/index.vue:121
 msgid "You can combine them to create a more precise schedule. e.g. 1,5,11-15,30-59/2 (minutes 1, 5, 11 to 15 and every 2nd minute between 30 and 59)"
-msgstr ""
+msgstr "您可以結合他們以建立更多準確的時刻表。例如 1,5,11-15,30-59/2 (1, 5, 11 到 15分鐘 以及 30 到 59 分鐘之間的每個第二分鐘)"
 
 #: ./src/js/pages/user/cronjobs/create.vue:108
 #: ./src/js/pages/user/cronjobs/index.vue:118
 msgid "You can specify exact times using commas to separate them. e.g. 1,2,3 (minutes 1,2 and 3)"
-msgstr ""
+msgstr "您可以使用逗號來分開指定的確切時間。例如: 1,2,3( 1,2 及 3分鐘)"
 
 #: ./src/js/pages/user/cronjobs/create.vue:110
 #: ./src/js/pages/user/cronjobs/index.vue:120
@@ -11421,7 +11421,7 @@ msgstr "您可以使用虛線來指定跨越程度。例如: 5-7 (5 到 7 分鐘
 
 #: src/js/pages/user/domains/index.vue:270
 msgid "You deleted all of your domains. You should create one for full functionality."
-msgstr ""
+msgstr "您刪除了您所有的網域。您應該為完整的功能建立一個。"
 
 #: src/js/components/global/App.vue:187
 msgid "You have %{ n } unread ticket"
