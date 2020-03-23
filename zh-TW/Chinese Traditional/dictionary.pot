@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 06:23\n"
+"PO-Revision-Date: 2020-03-23 06:47\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -10222,11 +10222,12 @@ msgstr "這個月 (包含今日)"
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:82
 msgid "This Portioned License is a license that has a true expiry at a date further into the future than is set in the physical key.\n"
 "The license will automatically update to the next time period when the key’s expiry nears."
-msgstr ""
+msgstr "此部分授權是一個比物理金鑰中設置的真實到期日還要更遠的將來的授權。\n"
+"當金鑰快要到期時授權將會自動更新至下一個時間期限。"
 
 #: ./src/js/pages/admin/license.vue:98
 msgid "This Portioned License is a license that has a true expiry at a date further into the future than is set in the physical key. The license will automatically update to the next time period when the key’s expiry nears."
-msgstr ""
+msgstr "此部分授權是一個比物理金鑰中設置的真實到期日還要更遠的將來的授權。當金鑰快要到期時授權將會自動更新至下一個時間期限。"
 
 #: src/js/components/local/inputs/input-week-day.vue:27
 msgid "Thursday"
@@ -10240,11 +10241,11 @@ msgstr "客服單編號 #"
 
 #: ./src/js/pages/reseller/tickets.vue:145
 msgid "Ticket System Enabled"
-msgstr ""
+msgstr "票證系統啟用"
 
 #: ./src/js/pages/reseller/tickets.vue:130
 msgid "Ticket System Settings"
-msgstr ""
+msgstr "票證系統設定"
 
 #: ./src/js/pages/user/messages/index.vue:12
 #: src/js/pages/user/messages/index.vue:16
@@ -10256,20 +10257,20 @@ msgstr "客服單"
 #: src/js/pages/admin/mail-queue/index.vue:33
 #: src/js/pages/user/email/usage/index.vue:110
 msgid "Time"
-msgstr ""
+msgstr "時間"
 
 #: ./src/js/pages/admin/settings.vue:520
 msgid "Time before failed login count resets"
-msgstr ""
+msgstr "登入失敗前的計數已重設"
 
 #: ./src/js/pages/admin/license.vue:113
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:65
 msgid "Time Remaining"
-msgstr ""
+msgstr "剩餘時間"
 
 #: ./src/js/pages/admin/settings.vue:230
 msgid "Timeout (seconds)"
-msgstr ""
+msgstr "超時 (秒)"
 
 #: ./src/js/pages/admin/settings.vue:361
 msgid "Timezone"
@@ -10277,18 +10278,18 @@ msgstr "時區"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request-dialog.vue:15
 msgid "To use it, paste the Signed Certificate on \"Paste a pre-generated certificate and key\" tab and click \"Save\"."
-msgstr ""
+msgstr "在 \"貼上預生成證明和金鑰\" 標籤貼上簽名證明並點擊 \"儲存\" 來使用。"
 
 #: ./src/js/pages/user/two-step-auth.vue:34
 msgid "To use this feature, download the Google Authenticator App for your phone (or equivalent), and scan in the QR code."
-msgstr ""
+msgstr "為使用此功能，下載 Google Authenticator 到您的手機 (或相等裝置)，並掃描其二維碼。"
 
 #: ./src/js/components/local/create-message-dialog.vue:13
 #: ./src/js/components/local/send-user-message-dialog.vue:7
 #: ./src/js/pages/reseller/create-ticket.vue:13
 #: ./src/js/pages/reseller/message-users.vue:13
 msgid "To:"
-msgstr ""
+msgstr "至:"
 
 #: ./src/js/pages/user/email/usage/index.vue:25
 #: ./src/js/pages/user/email/usage/php-scripts.vue:24
@@ -10625,11 +10626,11 @@ msgstr ""
 
 #: ./src/js/components/local/filemanager/dialogs/upload-files-dialog.vue:29
 msgid "Uploading files..."
-msgstr ""
+msgstr "正在上傳檔案..."
 
 #: ./src/js/pages/user/system-info/_tables/general-info-table.vue:13
 msgid "Uptime"
-msgstr ""
+msgstr "正常運作時間"
 
 #: ./src/js/pages/admin/plugin-manager.vue:115
 #: ./src/js/pages/admin/plugin-manager.vue:124
@@ -10640,12 +10641,12 @@ msgstr ""
 #: ./src/js/pages/user/hotlinks/index.vue:40
 #: src/js/pages/user/hotlinks/index.vue:43
 msgid "URL"
-msgstr ""
+msgstr "網址"
 
 #: ./src/js/pages/reseller/customize-skin/_components/category-editor.vue:26
 #: ./src/js/pages/reseller/customize-skin/_components/category-link-editor.vue:22
 msgid "URL to image in JPG/PNG/SVG format"
-msgstr ""
+msgstr "JPG/PNG/SVG 格式圖像的網址"
 
 #: ./src/js/pages/admin/stats.vue:293
 #: ./src/js/pages/admin/users/resellers/_components/usage-table.vue:7
@@ -10662,16 +10663,16 @@ msgstr ""
 #: src/js/pages/user/database/index.vue:60
 #: src/js/pages/user/email/accounts/index.vue:67
 msgid "Usage"
-msgstr ""
+msgstr "使用量"
 
 #: ./src/js/components/local/stats/webalizer-table.vue:94
 msgid "Usage log"
-msgstr ""
+msgstr "使用量記錄"
 
 #: ./src/js/components/local/stats/webalizer-table.vue:121
 #: ./src/js/pages/user/subdomains/index.vue:63
 msgid "Usage Log"
-msgstr ""
+msgstr "使用量記錄"
 
 #: ./src/js/pages/admin/users/resellers/view.vue:50
 #: ./src/js/pages/reseller/stats.vue:11
@@ -10681,15 +10682,15 @@ msgstr ""
 #: src/js/pages/reseller/users/view.vue:108
 #: src/js/pages/user/stats/index.vue:36
 msgid "Usage Statistics"
-msgstr ""
+msgstr "使用量統計資料"
 
 #: ./src/js/pages/admin/stats.vue:275
 msgid "Usage Statistics for %{device}"
-msgstr ""
+msgstr "%{device} 使用量統計資料"
 
 #: src/js/modules/widgets.js:25
 msgid "Usage, logs and statistics"
-msgstr ""
+msgstr "使用量，記錄和統計資料"
 
 #: ./src/js/pages/user/domains/_components/private-html-dialog.vue:15
 msgid "Use a directory named private_html"
