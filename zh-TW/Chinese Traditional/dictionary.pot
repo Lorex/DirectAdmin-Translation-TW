@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 12:38\n"
+"PO-Revision-Date: 2020-03-23 12:53\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -10915,7 +10915,7 @@ msgstr "使用者名稱 / 電子郵件"
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:120
 msgid "Username has been automatically converted to punycode format. Punycode is used to encode internationalized domain names (IDN) by converting Unicode characters to ASCII."
-msgstr "使用者名稱已自動轉換成 Punycode 格式。Punycode 是用於轉換含有 Unicode 文字的網域名稱到國際通用之 ASCII 格式 (IDN) 的轉換格式。"
+msgstr "使用者名稱已自動轉換成國際化域名編碼格式。這是用於轉換含有 Unicode 文字的網域名稱到國際通用之 ASCII 格式 (IDN) 的表示法。"
 
 #: ./src/js/pages/user/database/create.vue:63
 msgid "Username is too long"
@@ -10923,7 +10923,7 @@ msgstr "使用者名稱太長"
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:119
 msgid "Username punycoded"
-msgstr "使用者名稱已經 Punycode 化"
+msgstr "使用者名稱已經轉換為國際化域名編碼格式"
 
 #: ./src/js/pages/reseller/passwords.vue:21
 #: ./src/js/pages/user/database/_dialogs/change-db-user-pass-dialog.vue:6
@@ -10982,27 +10982,27 @@ msgstr "使用："
 #: ./src/js/pages/user/email/vacations/index.vue:23
 #: src/js/pages/user/email/vacations/index.vue:29
 msgid "Vacation Account"
-msgstr "度假帳號"
+msgstr "假期模式帳號"
 
 #: ./src/js/pages/user/email/vacations/create.vue:17
 #: ./src/js/pages/user/email/vacations/modify.vue:12
 msgid "Vacation Account:"
-msgstr "度假帳號:"
+msgstr "假期模式帳號:"
 
 #: ./src/js/pages/user/email/vacations/create.vue:87
 #: ./src/js/pages/user/email/vacations/modify.vue:74
 msgid "Vacation End"
-msgstr "度假結束"
+msgstr "結束假期模式"
 
 #: ./src/js/pages/user/email/vacations/index.vue:68
 msgid "vacation message"
 msgid_plural "vacation messages"
-msgstr[0] "度假訊息"
+msgstr[0] "假期模式訊息"
 
 #: ./src/js/pages/user/email/vacations/create.vue:115
 #: ./src/js/pages/user/email/vacations/modify.vue:98
 msgid "Vacation Message:"
-msgstr "度假訊息："
+msgstr "假期模式訊息："
 
 #: ./src/js/pages/admin/backups/modify.vue:333
 #: ./src/js/pages/admin/backups/schedule.vue:391
@@ -11011,37 +11011,37 @@ msgstr "度假訊息："
 #: src/js/pages/admin/backups/_components/crons-table.vue:137
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:112
 msgid "Vacation Messages"
-msgstr "度假訊息"
+msgstr "假期模式訊息"
 
 #: ./src/js/pages/user/backup/index.vue:72
 #: ./src/js/pages/user/backup/restore.vue:87
 msgid "Vacation Messages: Includes all vacation messages and times."
-msgstr "度假訊息: 包含所有的度假訊息及時間"
+msgstr "假期模式訊息: 包含所有的假期模式訊息及時間"
 
 #: ./src/js/pages/user/email/vacations/create.vue:65
 #: ./src/js/pages/user/email/vacations/modify.vue:55
 msgid "Vacation Start"
-msgstr "度假開始"
+msgstr "開始假期模式"
 
 #: ./src/js/pages/admin/license.vue:76
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:39
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:175
 msgid "Valid After"
-msgstr "有效期後"
+msgstr "以下時間後有效"
 
 #: ./src/js/pages/user/cronjobs/create.vue:107
 #: ./src/js/pages/user/cronjobs/index.vue:117
 msgid "Valid Cron time values are the numbers indicated and *."
-msgstr "有效 Cron 時間值是已指示 和 * 的數字"
+msgstr "合法的 Cron 時間值是特定範圍的數字和 * （表示不指定）"
 
 #: ./src/js/pages/admin/license.vue:84
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:47
 msgid "Valid Until"
-msgstr "有效期限直到"
+msgstr "有效期限至"
 
 #: ./src/js/pages/user/cronjobs/index.vue:84
 msgid "Valid values are an E-mail address, your DA username: admin, or a blank field to prevent any e-mail."
-msgstr "有效值是電子郵件地址，您的 DA 使用者名稱: admin, 或避免空白欄位至任何電子郵件"
+msgstr "有效值可以是電子郵件地址，您的 DA 使用者名稱: admin，或不包含電子郵件地址的空白欄位"
 
 #: ./src/js/pages/admin/license.vue:137
 msgid "Validate License"
@@ -11121,7 +11121,7 @@ msgstr "檢視%{ domain } 的錯誤紀錄"
 
 #: ./src/js/pages/user/filemanager/view.vue:1
 msgid "View File"
-msgstr "檢視資料"
+msgstr "檢視檔案"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:69
 #: ./src/js/pages/user/dashboard/_components/widgets/user-stats.vue:110
@@ -11189,11 +11189,11 @@ msgstr "檢視子網域記錄"
 
 #: ./src/js/pages/user/messages/_dialogs/view-ticket-dialog.vue:3
 msgid "View Ticket: #%{ number }"
-msgstr "檢視票證: #%{ number }"
+msgstr "檢視服務單: #%{ number }"
 
 #: ./src/js/pages/reseller/_dialogs/view-ticket.vue:10
 msgid "View Ticket: #%{ ticket }"
-msgstr "檢視票證: #%{ ticket }"
+msgstr "檢視服務單: #%{ ticket }"
 
 #: ./src/js/pages/user/stats/log.vue:12
 #: ./src/js/pages/user/stats/subdomain-log.vue:12
@@ -11211,7 +11211,7 @@ msgstr "虛擬"
 
 #: ./src/js/pages/admin/settings.vue:302
 msgid "Warn Admin's at"
-msgstr "警告管理員於"
+msgstr "發生以下情況時警告管理員："
 
 #: ./src/js/pages/user/stats/domain-statistics.vue:11
 #: ./src/js/pages/user/subdomains/stats.vue:11
@@ -11278,7 +11278,7 @@ msgstr "您希望使用多少的分數閾值？"
 #: src/js/pages/admin/backups/_components/crons-table.vue:9
 #: src/js/pages/reseller/backups/index.vue:25
 msgid "When"
-msgstr "什麼時候？"
+msgstr "何時"
 
 #: ./src/js/pages/admin/backups/restore.vue:211
 msgid "When restoring a Reseller or Admin, if you select an IP from the list, that Reseller will only receive the single IP.\n"
