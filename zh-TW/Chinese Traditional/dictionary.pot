@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 06:58\n"
+"PO-Revision-Date: 2020-03-23 08:26\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1550,39 +1550,39 @@ msgstr ""
 #: ./src/js/components/global/app/app-page.vue:21
 #: ./src/js/pages/admin/_dialogs/root-auth-dialog.vue:40
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: ./src/js/pages/404.vue:17
 msgid "Back to Homepage"
-msgstr ""
+msgstr "返回首頁"
 
 #: ./src/js/pages/user/stats/index.vue:324
 msgid "Backed up Web Logs"
-msgstr ""
+msgstr "已備份的網站記錄"
 
 #: ./src/js/pages/admin/system-backup.vue:78
 #: ./src/js/pages/user/backup/restore.vue:12
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:50
 msgid "Backup"
-msgstr ""
+msgstr "備份"
 
 #: ./src/js/pages/admin/backups/restore.vue:269
 #: ./src/js/pages/reseller/backups/restore.vue:221
 msgid "Backup Decryption"
-msgstr ""
+msgstr "備份解密"
 
 #: ./src/js/pages/admin/backups/modify.vue:249
 #: ./src/js/pages/admin/backups/schedule.vue:306
 #: ./src/js/pages/reseller/backups/modify.vue:193
 #: ./src/js/pages/reseller/backups/schedule.vue:262
 msgid "Backup Encryption"
-msgstr ""
+msgstr "備份加密"
 
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:2
 #: ./src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:21
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:8
 msgid "Backup ID"
-msgstr ""
+msgstr "備份 ID"
 
 #: ./src/js/pages/admin/system-backup.vue:47
 msgid "Backup Path"
@@ -2214,7 +2214,7 @@ msgstr ""
 
 #: ./src/js/components/local/ui-api-table/filters-editor.vue:7
 msgid "Column"
-msgstr ""
+msgstr "欄"
 
 #: ./src/js/pages/reseller/customize-skin/_components/category-editor.vue:66
 msgid "Column Size"
@@ -2223,7 +2223,7 @@ msgstr ""
 #: ./src/js/components/local/r-table/r-table-buttons-before.vue:22
 #: ./src/js/components/local/r-table/r-table-settings-dialog.vue:7
 msgid "Columns"
-msgstr ""
+msgstr "欄"
 
 #: ./src/js/pages/admin/cron-jobs.vue:12
 #: ./src/js/pages/user/cronjobs/create.vue:92
@@ -2235,12 +2235,12 @@ msgstr ""
 #: src/js/pages/user/cronjobs/index.vue:38
 #: src/js/pages/user/login-keys/log.vue:18
 msgid "Command"
-msgstr ""
+msgstr "指令"
 
 #: ./src/js/pages/user/login-keys/create.vue:137
 #: ./src/js/pages/user/login-keys/modify.vue:100
 msgid "Commands:"
-msgstr ""
+msgstr "指令:"
 
 #: ./src/js/pages/user/ssh-keys/_components/authorized-keys.vue:2
 #: ./src/js/pages/user/ssh-keys/_components/public-keys.vue:2
@@ -2474,7 +2474,7 @@ msgstr ""
 #: ./src/js/pages/user/email/accounts/create.vue:120
 #: ./src/js/pages/user/email/accounts/index.vue:19
 msgid "Create Account"
-msgstr ""
+msgstr "建立帳號"
 
 #: ./src/js/pages/admin/users/admins.vue:15
 #: ./src/js/pages/admin/users/create-admin.vue:1
@@ -2497,7 +2497,7 @@ msgstr ""
 #: ./src/js/pages/user/backup/index.vue:122
 #: ./src/js/pages/user/backup/restore.vue:27
 msgid "Create Backup"
-msgstr ""
+msgstr "建立備份"
 
 #: ./src/js/pages/user/cronjobs/index.vue:12
 msgid "Create Cron job"
@@ -2510,7 +2510,7 @@ msgstr ""
 #: ./src/js/pages/user/database/create.vue:1
 #: ./src/js/pages/user/database/create.vue:98
 msgid "Create Database"
-msgstr ""
+msgstr "建立資料庫"
 
 #: ./src/js/pages/user/domains/add.vue:1
 msgid "Create Domain"
@@ -2548,11 +2548,11 @@ msgstr ""
 
 #: ./src/js/pages/user/ssh-keys/index.vue:16
 msgid "Create Key"
-msgstr ""
+msgstr "建立金鑰"
 
 #: ./src/js/pages/user/login-keys/create.vue:1
 msgid "Create Login Key"
-msgstr ""
+msgstr "建立登入金鑰"
 
 #: ./src/js/pages/user/email/accounts/create.vue:1
 msgid "Create Mail Account"
@@ -2731,39 +2731,39 @@ msgstr ""
 
 #: ./src/js/pages/reseller/users/modify.vue:99
 msgid "Current IPs"
-msgstr ""
+msgstr "目前 IP"
 
 #: ./src/js/pages/user/login-keys/create.vue:170
 #: ./src/js/pages/user/login-keys/modify.vue:130
 msgid "Current Password:"
-msgstr ""
+msgstr "目前密碼:"
 
 #: ./src/js/pages/user/protected-directories/index.vue:12
 #: src/js/pages/user/protected-directories/index.vue:15
 msgid "Current Protected Directories"
-msgstr ""
+msgstr "目前受保護的目錄"
 
 #: ./src/js/pages/admin/license.vue:105
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:56
 msgid "Current Server Time"
-msgstr ""
+msgstr "目前伺服器時間"
 
 #: ./src/js/pages/user/email/vacations/create.vue:122
 #: ./src/js/pages/user/email/vacations/modify.vue:105
 msgid "Current Server Time:"
-msgstr ""
+msgstr "目前伺服器時間:"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:102
 msgid "Current Server Version"
-msgstr ""
+msgstr "目前伺服器版本"
 
 #: ./src/js/pages/user/cronjobs/create.vue:19
 msgid "Current Time"
-msgstr ""
+msgstr "目前時間"
 
 #: ./src/js/pages/admin/stats.vue:27
 msgid "Current Usage"
-msgstr ""
+msgstr "目前使用量"
 
 #: ./src/js/pages/admin/custom-httpd/view.vue:60
 #: ./src/js/pages/admin/dns/_components/override-ttl-dialog.vue:10
