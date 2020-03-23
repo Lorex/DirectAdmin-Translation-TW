@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 06:12\n"
+"PO-Revision-Date: 2020-03-23 06:23\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -10199,25 +10199,25 @@ msgstr "這是 DirectAdmin 試用憑證"
 
 #: ./src/js/pages/user/email/spamassassin.vue:372
 msgid "This is the list of e-mail address that will be allowed through, regardless of content."
-msgstr ""
+msgstr "這是無論內容如何，都將被允許的電子郵件地址清單。"
 
 #: ./src/js/pages/user/email/spamassassin.vue:278
 msgid "This is the list of e-mail address that will be blocked."
-msgstr ""
+msgstr "這是將被封鎖的電子郵件地址清單。"
 
 #: ./src/js/pages/user/email/catch-all.vue:28
 msgid "This is the recommended option for the catch-all setting. Catch-all's will increase the server load due to spam, so having them disable is highly recommended unless you absolutely need the feature on."
-msgstr ""
+msgstr "這是給 Catch-all 設定的推薦選項。因為垃圾郵件的關係，Catch-all 將會提高伺服器讀取，所以強烈推薦把它們禁用除非您絕對需要該功能啟用。"
 
 #: ./src/js/pages/user/email/usage/index.vue:39
 #: ./src/js/pages/user/email/usage/php-scripts.vue:30
 msgid "This Month"
-msgstr ""
+msgstr "這個月"
 
 #: ./src/js/pages/user/email/usage/index.vue:32
 #: ./src/js/pages/user/email/usage/php-scripts.vue:27
 msgid "This Month (excluding today)"
-msgstr ""
+msgstr "這個月 (包含今日)"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:82
 msgid "This Portioned License is a license that has a true expiry at a date further into the future than is set in the physical key.\n"
