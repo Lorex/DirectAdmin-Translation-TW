@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 05:07\n"
+"PO-Revision-Date: 2020-03-23 05:22\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1296,117 +1296,117 @@ msgstr "您確定要阻擋已選取的 %{ subject }?"
 
 #: ./src/js/pages/admin/plugin-manager.vue:161
 msgid "Are you sure you want to deactivate “%{ name }” plugin?"
-msgstr ""
+msgstr "您確定要停用 %{ name } 插件?"
 
 #: ./src/js/pages/admin/plugin-manager.vue:176
 msgid "Are you sure you want to delete “%{ name }” plugin?"
-msgstr ""
+msgstr "您確定要刪除 %{ name } 插件?"
 
 #: ./src/js/components/global/ui/ui-dialog-delete-items.vue:14
 msgid "Are you sure you want to delete selected %{subject}?"
-msgstr ""
+msgstr "您確定要刪除已選取的 %{subject}?"
 
 #: ./src/js/components/local/filemanager/dialogs/delete-files-dialog.vue:7
 msgid "Are you sure you want to delete selected files?"
-msgstr ""
+msgstr "您確定要刪除已選取的檔案?"
 
 #: ./src/js/pages/reseller/users/_components/delete-user-dialog.vue:6
 msgid "Are you sure you want to delete user %{user}?"
-msgstr ""
+msgstr "您確定要刪除使用者 %{user}?"
 
 #: ./src/js/pages/user/protected-directories/view.vue:136
 msgid "Are you sure you want to disable protection for %{path}?"
-msgstr ""
+msgstr "您確定要禁用用於 %{path} 的保護?"
 
 #: ./src/js/pages/admin/multi-server.vue:174
 msgid "Are you sure you want to disable this feature?"
-msgstr ""
+msgstr "您確定要禁用這個功能?"
 
 #: ./src/js/pages/admin/plugin-manager.vue:170
 msgid "Are you sure you want to install “%{ name }” plugin?"
-msgstr ""
+msgstr "您確定要安裝 \"%{ name }\" 插件?"
 
 #: ./src/js/pages/admin/services.vue:102
 msgid "Are you sure you want to reboot server?"
-msgstr ""
+msgstr "您確定您要重啟伺服器?"
 
 #: ./src/js/pages/admin/brute-force-monitor/skip_list.vue:46
 msgid "Are you sure you want to remove selected elements from skip list?"
-msgstr ""
+msgstr "您確定您要移除來自忽略清單的已選取元素?"
 
 #: ./src/js/pages/admin/brute-force-monitor/block_list.vue:74
 msgid "Are you sure you want to unblock selected IP?"
 msgid_plural "Are you sure you want to unblock selected IPs?"
-msgstr[0] ""
+msgstr[0] "您確定要解除封鎖已選取的 IP?"
 
 #: ./src/js/pages/admin/plugin-manager.vue:173
 msgid "Are you sure you want to uninstall “%{ name }” plugin?"
-msgstr ""
+msgstr "您確定您要解出安裝 \"%{ name }\" 插件?"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/unlink-ip-dialog.vue:11
 msgid "Are you sure you want to unlink selected IP?"
 msgid_plural "Are you sure you want to unlink selected IPs?"
-msgstr[0] ""
+msgstr[0] "您確定您要取消連結已選取的 IP?"
 
 #: ./src/js/pages/admin/plugin-manager.vue:167
 msgid "Are you sure you want to update “%{ name }” plugin?"
-msgstr ""
+msgstr "您確定要更新 \"%{ name }\"插件?"
 
 #: ./src/js/pages/reseller/customize-skin/_components/menu-editor.vue:29
 msgid "As Link"
-msgstr ""
+msgstr "作為連結"
 
 #: ./src/js/components/local/app-global-modals/skin-options.vue:71
 #: src/js/components/local/app-global-modals/skin-options.vue:76
 msgid "Aside"
-msgstr ""
+msgstr "預留"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/assign-ip-dialog.vue:33
 #: ./src/js/pages/admin/ip-manager/index.vue:22
 #: ./src/js/pages/user/database/_dialogs/existing-db-user-dialog.vue:23
 #: src/js/pages/admin/ip-manager/index.vue:41
 msgid "Assign"
-msgstr ""
+msgstr "分配"
 
 #: ./src/js/pages/user/database/_dialogs/existing-db-user-dialog.vue:3
 msgid "Assign Existing User to %{database}"
-msgstr ""
+msgstr "分配現有的使用者至 %{database}"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/assign-ip-dialog.vue:3
 msgid "Assign IP"
 msgid_plural "Assign IPs"
-msgstr[0] ""
+msgstr[0] "分配 IP"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/assign-ip-dialog.vue:14
 msgid "Assign IP to:"
 msgid_plural "Assign IPs to:"
-msgstr[0] ""
+msgstr[0] "分配 IP 至:"
 
 #: ./src/js/pages/admin/users/resellers/create.vue:125
 #: src/js/pages/admin/users/resellers/create.vue:130
 msgid "Assigned"
-msgstr ""
+msgstr "已分配"
 
 #: ./src/js/pages/user/domains/ips.vue:20
 #: src/js/pages/user/domains/ips.vue:26
 msgid "Assigned IP"
 msgid_plural "Assigned IPs"
-msgstr[0] ""
+msgstr[0] "已分配的 IP"
 
 #: ./src/js/pages/user/domains/edit.vue:155
 msgid "Assigned IPs"
-msgstr ""
+msgstr "已分配的 IP"
 
 #: ./src/js/pages/user/email/spamassassin.vue:232
 msgid "Attachments will separate the spam into its own message, preventing scripts from being run."
-msgstr ""
+msgstr "附件將會分散垃圾郵件進入自己的訊息﹐預防指令碼運行。"
 
 #: ./src/js/pages/admin/brute-force-monitor/index.vue:97
 #: ./src/js/pages/user/login-history.vue:11
 #: src/js/pages/admin/brute-force-monitor/index.vue:105
 #: src/js/pages/user/login-history.vue:21
 msgid "Attempts"
-msgstr ""
+msgstr "嘗試"
 
 #: src/js/components/local/history/chart.vue:206
 #: src/js/components/local/history/table.vue:101
@@ -1420,12 +1420,12 @@ msgstr "八月"
 #: ./src/js/pages/admin/_dialogs/root-auth-dialog.vue:32
 #: ./src/js/pages/admin/process-monitor.vue:161
 msgid "Authenticate"
-msgstr ""
+msgstr "認證"
 
 #: ./src/js/pages/admin/process-monitor.vue:143
 #: ./src/js/pages/admin/process-monitor.vue:15
 msgid "Authenticate to send signals"
-msgstr ""
+msgstr "驗證以發送訊號"
 
 #: ./src/js/pages/user/email/usage/index.vue:104
 #: src/js/pages/user/email/usage/index.vue:118
