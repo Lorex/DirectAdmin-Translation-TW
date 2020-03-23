@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 05:29\n"
+"PO-Revision-Date: 2020-03-23 06:07\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1849,11 +1849,11 @@ msgstr "可以使用伺服器 IP"
 
 #: src/js/pages/user/messages/index.vue:181
 msgid "Cannot execute your request"
-msgstr ""
+msgstr "無法執行您的請求"
 
 #: src/js/pages/user/email/accounts/index.vue:496
 msgid "Cannot Execute Your Request"
-msgstr ""
+msgstr "無法執行您的請求"
 
 #: ./src/js/pages/user/stats/index.vue:195
 #: src/js/components/local/user-package.vue:266
@@ -1865,18 +1865,18 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/account-info.vue:300
 #: src/js/pages/user/stats/index.vue:238
 msgid "Catch-All E-mail"
-msgstr ""
+msgstr "接收所有電子郵件"
 
 #: ./src/js/pages/user/email/autoresponders/index.vue:25
 #: src/js/pages/user/email/autoresponders/index.vue:34
 msgid "CC Address"
-msgstr ""
+msgstr "CC 地址"
 
 #: ./src/js/pages/user/email/autoresponders/create.vue:119
 #: ./src/js/pages/user/email/autoresponders/modify.vue:109
 #: ./src/js/pages/user/email/autoresponders/modify.vue:70
 msgid "CC should not be equal to Autoresponder address"
-msgstr ""
+msgstr "CC 不該和自動回覆地址相同"
 
 #: ./src/js/pages/admin/ssl/_components/info-dialog.vue:31
 #: ./src/js/pages/user/ssl/_components/paste-cert-tab.vue:27
@@ -10056,125 +10056,125 @@ msgstr ""
 #: ./src/js/pages/user/stats/subdomain-log.vue:52
 #: ./src/js/pages/user/subdomains/logs.vue:39
 msgid "Tail"
-msgstr ""
+msgstr "尾"
 
 #: ./src/js/pages/user/_components/create-domain-pointer-dialog.vue:23
 msgid "Target Domain"
-msgstr ""
+msgstr "目標網域"
 
 #: ./src/js/pages/admin/process-monitor.vue:79
 msgid "Tasks:"
-msgstr ""
+msgstr "任務:"
 
 #: ./src/js/pages/admin/custom-httpd/diff.vue:1
 msgid "Template Diff"
-msgstr ""
+msgstr "範本差異"
 
 #: ./src/js/pages/admin/custom-httpd/diff.vue:10
 msgid "Template Diff: %{ name }"
-msgstr ""
+msgstr "範本差異: %{ name }"
 
 #: ./src/js/pages/admin/custom-httpd/view.vue:43
 msgid "Templates"
-msgstr ""
+msgstr "範本"
 
 #: ./src/js/pages/reseller/users/_components/additional-bandwidth-dialog.vue:6
 #: ./src/js/pages/reseller/users/view.vue:208
 msgid "Temporary Bandwidth Increase"
-msgstr ""
+msgstr "提高暫存頻寬"
 
 #: ./src/js/pages/user/two-step-auth.vue:121
 msgid "Test Code"
-msgstr ""
+msgstr "測試代碼"
 
 #: ./src/js/pages/admin/multi-server.vue:143
 msgid "Test Connection"
 msgid_plural "Test Connections"
-msgstr[0] ""
+msgstr[0] "測試連線"
 
 #: ./src/js/pages/user/two-step-auth.vue:110
 msgid "Test your phone's code"
-msgstr ""
+msgstr "測試您的手機代碼"
 
 #: ./src/js/pages/user/email/spamassassin.vue:236
 msgid "Text-only attachments are used for increased safety."
-msgstr ""
+msgstr "存文字附件是用於提高安全性。"
 
 #: ./src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:57
 msgid "Thaw"
-msgstr ""
+msgstr "解除凍結"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:55
 msgid "The \"Apply to existing Domains\" option will trigger the httpd.conf rewrites and insert A/AAAA records into the local DNS zones. Disabling this checkbox won't touch the DNS or httpd.conf files, but future httpd.cont rewrites will have the linked IP added."
-msgstr ""
+msgstr "\"套用至現有網域\" 選線將會觸發改寫 httpd.conf 及插入 A/AAAA 記錄進入地區 DNS 區域。信用此勾選框不用動用 DNS 或 httpd.conf 檔案﹐但未來 httpd.conf 改寫將會新增已連結 IP。"
 
 #: src/js/pages/user/email/usage/index.vue:195
 msgid "The \"From\" value set in the email header. This value should not be considered as accurate, as a sender can specify any value they wish."
-msgstr ""
+msgstr "\"From\" 值設於電子郵件標頭。此值不該被認為是準確的﹐作為發送者可以指定任何他們希望的值。"
 
 #: ./src/js/pages/user/login-keys/create.vue:193
 msgid "The ALL_USER type commands are replaced with all commands the User is allowed, at that level."
-msgstr ""
+msgstr "在該級別，ALL_USER 類型的指令是和所有允許使用者使用得指令替換。"
 
 #: ./src/js/pages/user/two-step-auth.vue:35
 msgid "The App will show you a code, which you'll use to Login to DirectAdmin."
-msgstr ""
+msgstr "應用程式將顯示給您一個用於登入 DirectAdmin 的代碼。"
 
 #: ./src/js/pages/user/email/catch-all.vue:41
 msgid "The e-mail is dropped and completely ignored"
-msgstr ""
+msgstr "電子郵件已刪除並完全忽略"
 
 #: ./src/js/pages/user/email/spamassassin.vue:376
 msgid "The format is the same as the E-mail Blacklist"
-msgstr ""
+msgstr "格式和電子郵件黑名單相同"
 
 #: ./src/js/pages/user/login-keys/index.vue:117
 msgid "The login username used will still be your normal DA username."
-msgstr ""
+msgstr "使用的登入使用者名稱將仍然做為您一般的 DA 使用者名稱。"
 
 #: ./src/js/pages/user/login-keys/create.vue:191
 msgid "The priorities for allow and deny are"
-msgstr ""
+msgstr "允許和拒絕的優先事項是"
 
 #: ./src/js/pages/user/email/catch-all.vue:24
 msgid "The sender is notified that the address doesn't exist"
-msgstr ""
+msgstr "已通知傳送者地址不存在"
 
 #: ./src/js/components/local/dns/spf-editor.vue:7
 msgid "The SPF record for this domain replaces the current record."
-msgstr ""
+msgstr "此網域的SPF記錄會替換目前的記錄。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:161
 #: src/js/pages/admin/custom-httpd/customize.vue:167
 #: src/js/pages/admin/custom-httpd/customize.vue:177
 msgid "The very last entry."
-msgstr ""
+msgstr "最後一個項目"
 
 #: ./src/js/components/local/app-global-modals/skin-options.vue:40
 #: ./src/js/pages/reseller/customize-skin/_components/misc-options.vue:98
 msgid "Theme"
-msgstr ""
+msgstr "主題"
 
 #: ./src/js/components/local/inputs/input-text-editor.vue:42
 msgid "Theme:"
-msgstr ""
+msgstr "主題:"
 
 #: ./src/js/pages/user/stats/domain-statistics.vue:33
 msgid "There are no statistics for the domain yet"
-msgstr ""
+msgstr "目前沒有該網域統計資料"
 
 #: src/js/modules/router/before-each.js:50
 msgid "There is no default domain; you should start with creating one first"
-msgstr ""
+msgstr "尚無預設網域；您應該先啟動並建立一個"
 
 #: ./src/js/pages/user/email/spamassassin.vue:495
 msgid "This button will remove data learned by SpamAssassin."
-msgstr ""
+msgstr "此按鈕將移除和 SpamAssassin 學習的資料。"
 
 #: ./src/js/pages/admin/ssl/_components/settings-dialog.vue:64
 msgid "This could replace paid EV certificates"
-msgstr ""
+msgstr "這可以替換已付款的 EV 證明"
 
 #: ./src/js/pages/user/email/catch-all.vue:12
 msgid "This e-mail address will catch all improperly addressed mail (i.e. to a user that doesn't exist) to your site. This address may be your defaultusername@yourdomain.com, or any other email account you have created."
