@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 06:07\n"
+"PO-Revision-Date: 2020-03-23 06:12\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -10178,24 +10178,24 @@ msgstr "這可以替換已付款的 EV 證明"
 
 #: ./src/js/pages/user/email/catch-all.vue:12
 msgid "This e-mail address will catch all improperly addressed mail (i.e. to a user that doesn't exist) to your site. This address may be your defaultusername@yourdomain.com, or any other email account you have created."
-msgstr ""
+msgstr "此電子郵件地址將會捕獲所有不當解決的郵件 (就是不存在的使用者) 至您的網站。此地址可能是您的 defaultusername@yourdomain.com，或任何其他您建立的電子郵件帳號。"
 
 #: src/js/modules/router/before-each.js:71
 msgid "This feature has been disabled. Please, contact your administrator."
-msgstr ""
+msgstr "此功能已被禁用。請聯繫您的管理員。"
 
 #: ./src/js/pages/user/security-questions.vue:12
 #: ./src/js/pages/user/two-step-auth.vue:41
 msgid "This feature is not turned on."
-msgstr ""
+msgstr "此功能並未開啟。"
 
 #: ./src/js/pages/admin/_dialogs/root-auth-dialog.vue:19
 msgid "This file is tagged as secure. Root password required to edit"
-msgstr ""
+msgstr "此檔案已被標示為安全。需要 Root 密碼以進行編輯"
 
 #: ./src/js/components/global/App.vue:12
 msgid "This is a Trial License of DirectAdmin"
-msgstr ""
+msgstr "這是 DirectAdmin 試用憑證"
 
 #: ./src/js/pages/user/email/spamassassin.vue:372
 msgid "This is the list of e-mail address that will be allowed through, regardless of content."
