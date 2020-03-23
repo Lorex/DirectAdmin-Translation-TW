@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 06:47\n"
+"PO-Revision-Date: 2020-03-23 06:58\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -10694,7 +10694,7 @@ msgstr "使用量，記錄和統計資料"
 
 #: ./src/js/pages/user/domains/_components/private-html-dialog.vue:15
 msgid "Use a directory named private_html"
-msgstr ""
+msgstr "使用名為 private_html 的目錄"
 
 #: ./src/js/pages/user/domains/_components/private-html-dialog.vue:26
 msgid "Use a symbolink link from private_html to public_html - allows for same data in http and https"
