@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 02:56\n"
+"PO-Revision-Date: 2020-03-23 03:28\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1831,7 +1831,7 @@ msgstr ""
 #: ./src/js/pages/admin/ssl/_components/info-dialog.vue:26
 #: ./src/js/pages/user/ssl/index.vue:91
 msgid "CA Root Certificate"
-msgstr ""
+msgstr "CA 根憑證"
 
 #: ./src/js/pages/user/system-info/_tables/memory-info-table.vue:50
 msgid "Cached Swap Memory"
@@ -1881,7 +1881,7 @@ msgstr ""
 #: ./src/js/pages/admin/ssl/_components/info-dialog.vue:31
 #: ./src/js/pages/user/ssl/_components/paste-cert-tab.vue:27
 msgid "Certificate"
-msgstr ""
+msgstr "憑證"
 
 #: ./src/js/pages/user/ssl/ca-cert.vue:1
 msgid "Certificate Authority SSL Certificate"
@@ -1990,14 +1990,14 @@ msgstr ""
 
 #: ./src/js/pages/user/database/_dialogs/change-db-user-pass-dialog.vue:3
 msgid "Change password"
-msgstr ""
+msgstr "變更密碼"
 
 #: ./src/js/pages/user/database/view.vue:68
 #: ./src/js/pages/user/email/accounts/_dialogs/change-password-dialog.vue:3
 #: ./src/js/pages/user/email/accounts/index.vue:295
 #: ./src/js/pages/user/ftp-accounts/_dialogs/change-password-dialog.vue:3
 msgid "Change Password"
-msgstr ""
+msgstr "變更密碼"
 
 #: ./src/js/pages/user/email/_components/modify-account-dialog.vue:7
 #: ./src/js/pages/user/email/accounts/index.vue:302
@@ -2008,7 +2008,7 @@ msgstr ""
 #: src/js/modules/navigation/admin.js:26
 #: src/js/modules/navigation/reseller.js:32
 msgid "Change Passwords"
-msgstr ""
+msgstr "變更密碼"
 
 #: src/js/pages/user/dashboard/_components/dashboard-tab.vue:142
 msgid "Change position"
@@ -2016,7 +2016,7 @@ msgstr ""
 
 #: ./src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:7
 msgid "Change privileges"
-msgstr ""
+msgstr "更改權限"
 
 #: ./src/js/pages/reseller/users/_components/change-sent-emails-daily-limit-dialog.vue:3
 msgid "Change sent emails daily limit"
@@ -2072,7 +2072,7 @@ msgstr ""
 
 #: ./src/js/pages/user/ssl/_components/certificate-request.vue:37
 msgid "City"
-msgstr ""
+msgstr "城市"
 
 #: ./src/js/pages/user/email/accounts/index.vue:356
 msgid "Clean Forwarders"
@@ -2268,7 +2268,7 @@ msgstr ""
 
 #: ./src/js/pages/user/ssl/_components/certificate-request.vue:50
 msgid "Company"
-msgstr ""
+msgstr "公司"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request.vue:63
 msgid "Company Division"
@@ -2387,7 +2387,7 @@ msgstr ""
 
 #: ./src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:48
 msgid "Copy"
-msgstr ""
+msgstr "複製"
 
 #: ./src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:19
 msgid "Copy %{type} \"%{name}\" to:"
@@ -2405,7 +2405,7 @@ msgstr ""
 #: ./src/js/pages/user/ssl/_components/paste-cert-tab.vue:20
 #: ./src/js/pages/user/ssl/ca-cert.vue:16
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "複製到剪貼簿"
 
 #: ./src/js/components/global/input/input-password.vue:48
 #: ./src/js/pages/user/ssl/_components/certificate-request-dialog.vue:37
@@ -3091,7 +3091,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:293
 #: src/js/pages/user/stats/domain-statistics.vue:132
 msgid "December"
-msgstr ""
+msgstr "十二月"
 
 #: ./src/js/pages/admin/dns/_components/override-ttl-dialog.vue:10
 #: ./src/js/pages/reseller/customize-skin/_components/logo-editor.vue:3
@@ -3222,7 +3222,7 @@ msgstr ""
 #: src/js/pages/user/security-questions.vue:34
 #: src/js/pages/user/subdomains/index.vue:38
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: ./src/js/components/global/ui/ui-dialog-delete-items.vue:7
 msgid "Delete %{subject}"
@@ -3243,7 +3243,7 @@ msgstr ""
 
 #: ./src/js/components/local/filemanager/dialogs/delete-files-dialog.vue:3
 msgid "Delete Files"
-msgstr ""
+msgstr "刪除檔案"
 
 #: ./src/js/pages/user/handlers/index.vue:18
 #: src/js/pages/user/handlers/index.vue:27
@@ -3258,7 +3258,7 @@ msgstr ""
 #: ./src/js/pages/admin/dns/index.vue:121
 #: src/js/pages/admin/dns/index.vue:133
 msgid "Delete Selected"
-msgstr ""
+msgstr "刪除已選擇"
 
 #: ./src/js/pages/admin/system-backup.vue:134
 msgid "Delete the local backup after remote transfer"
@@ -3486,7 +3486,7 @@ msgstr ""
 
 #: ./src/js/pages/user/ssl/index.vue:36
 msgid "Disable SSL"
-msgstr ""
+msgstr "停用 SSL"
 
 #: ./src/js/components/local/app-global-modals/skin-options.vue:54
 #: ./src/js/components/local/stats/usage-table-value.vue:17
@@ -3504,7 +3504,7 @@ msgstr ""
 #: src/js/pages/reseller/stats.vue:252
 #: src/js/pages/user/email/filters.vue:178
 msgid "Disabled"
-msgstr ""
+msgstr "已停用"
 
 #: ./src/js/pages/reseller/customize-skin/index.vue:126
 msgid "Discard"
@@ -3598,7 +3598,7 @@ msgstr ""
 #: ./src/js/pages/user/domain-pointers.vue:24
 #: src/js/pages/user/domain-pointers.vue:37
 msgid "DNS"
-msgstr ""
+msgstr "DNS"
 
 #: ./src/js/pages/admin/dns/edit.vue:1
 #: ./src/js/pages/admin/dns/index.vue:1
@@ -3625,12 +3625,12 @@ msgstr ""
 #: ./src/js/pages/user/dns/index.vue:1
 #: src/js/modules/navigation/user.js:26
 msgid "DNS Management"
-msgstr ""
+msgstr "DNS 管理"
 
 #: ./src/js/components/local/dns/records-table.vue:74
 msgid "DNS record"
 msgid_plural "DNS Records"
-msgstr[0] ""
+msgstr[0] "DNS 紀錄"
 
 #: ./src/js/pages/user/dns/security.vue:1
 msgid "DNS Security"
@@ -4076,11 +4076,11 @@ msgstr ""
 
 #: ./src/js/pages/user/redirects.vue:88
 msgid "e.g. \"/redirect\", \"/\""
-msgstr ""
+msgstr "e.g. \"/redirect\", \"/\""
 
 #: ./src/js/pages/user/redirects.vue:128
 msgid "e.g. \"http://www.redirected.com\""
-msgstr ""
+msgstr "e.g. \"http://www.redirected.com\""
 
 #: ./src/js/pages/user/email/spamassassin.vue:286
 msgid "e.g. *@domain.com"
@@ -5160,12 +5160,12 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:208
 #: src/js/pages/user/bandwidth.vue:254
 msgid "IMAP"
-msgstr ""
+msgstr "IMAP"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/email-pop.vue:56
 #: ./src/js/pages/user/email/accounts/index.vue:243
 msgid "IMAP:"
-msgstr ""
+msgstr "IMAP:"
 
 #: ./src/js/components/local/import-packages-dialog.vue:17
 msgid "Import"
@@ -5277,7 +5277,7 @@ msgstr ""
 #: ./src/js/pages/admin/plugin-manager.vue:147
 #: ./src/js/pages/admin/plugin-manager.vue:89
 msgid "Install"
-msgstr ""
+msgstr "安裝"
 
 #: ./src/js/pages/admin/plugin-manager.vue:142
 msgid "Install after upload"
@@ -5287,7 +5287,7 @@ msgstr ""
 #: ./src/js/pages/user/system-info/_tables/services-info-table.vue:40
 #: src/js/pages/admin/plugin-manager.vue:24
 msgid "Installed"
-msgstr ""
+msgstr "已安裝"
 
 #: src/js/modules/navigation/user.js:206
 msgid "Installed Perl Modules"
@@ -5467,7 +5467,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:282
 #: src/js/pages/user/stats/domain-statistics.vue:121
 msgid "January"
-msgstr ""
+msgstr "一月"
 
 #: src/js/components/local/history/chart.vue:205
 #: src/js/components/local/history/table.vue:100
@@ -5475,7 +5475,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:288
 #: src/js/pages/user/stats/domain-statistics.vue:127
 msgid "July"
-msgstr ""
+msgstr "7月"
 
 #: src/js/components/local/history/chart.vue:204
 #: src/js/components/local/history/table.vue:99
@@ -5483,7 +5483,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:287
 #: src/js/pages/user/stats/domain-statistics.vue:126
 msgid "June"
-msgstr ""
+msgstr "七月"
 
 #: ./src/js/pages/admin/settings.vue:272
 msgid "Keep Number of Apache Log Backups"
@@ -5880,7 +5880,7 @@ msgstr ""
 #: ./src/js/pages/admin/multi-server.vue:34
 #: src/js/pages/admin/multi-server.vue:47
 msgid "Login"
-msgstr ""
+msgstr "登入"
 
 #: ./src/js/components/local/master-login-bar.vue:88
 #: ./src/js/components/local/master-login-drawer.vue:118
@@ -6869,7 +6869,7 @@ msgstr ""
 #: ./src/js/components/local/app-global-modals/notifications-center.vue:8
 #: ./src/js/components/local/notifications-center/archive-header.vue:7
 msgid "Notifications"
-msgstr ""
+msgstr "通知"
 
 #: ./src/js/pages/admin/brute-force-monitor/ip_list.vue:12
 #: ./src/js/pages/admin/brute-force-monitor/user_list.vue:12
@@ -6922,7 +6922,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:292
 #: src/js/pages/user/stats/domain-statistics.vue:131
 msgid "November"
-msgstr ""
+msgstr "十一月"
 
 #: ./src/js/pages/admin/backups/schedule.vue:102
 #: ./src/js/pages/admin/process-monitor.vue:72
@@ -6974,7 +6974,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:291
 #: src/js/pages/user/stats/domain-statistics.vue:130
 msgid "October"
-msgstr ""
+msgstr "十月"
 
 #: ./src/js/components/global/ui/ui-mobile-pagination.vue:13
 msgid "of %{ total }"
@@ -7334,7 +7334,7 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/account-info.vue:298
 #: src/js/pages/user/stats/index.vue:230
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ./src/js/pages/user/domains/add.vue:104
 #: ./src/js/pages/user/domains/edit.vue:68
@@ -7402,7 +7402,7 @@ msgstr "phpMyAdmin"
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:2
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:7
 msgid "PID"
-msgstr ""
+msgstr "PID"
 
 #: ./src/js/pages/admin/services.vue:18
 #: ./src/js/pages/user/dashboard/_components/widgets/show-services.vue:3
@@ -7621,7 +7621,7 @@ msgstr ""
 #: ./src/js/pages/user/ssh-keys/index.vue:26
 #: src/js/pages/user/ssh-keys/index.vue:28
 msgid "Public Keys"
-msgstr ""
+msgstr "公鑰"
 
 #: ./src/js/pages/user/dns/_components/zone-key.vue:15
 #: ./src/js/pages/user/dns/security.vue:64
@@ -7658,7 +7658,7 @@ msgstr ""
 
 #: ./src/js/pages/user/two-step-auth.vue:108
 msgid "QR Code"
-msgstr ""
+msgstr "QR Code"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:17
 #: ./src/js/components/local/dns/dmarc-editor.vue:5
@@ -8022,7 +8022,7 @@ msgstr ""
 
 #: ./src/js/components/local/filemanager/dialogs/upload-files-dialog.vue:88
 msgid "Replace"
-msgstr ""
+msgstr "取代"
 
 #: ./src/js/components/local/filemanager/dialogs/upload-files-dialog.vue:17
 msgid "Replace existing files:"
@@ -8459,7 +8459,7 @@ msgstr "星期六"
 #: ./src/js/pages/user/stats/index.vue:429
 #: ./src/js/pages/user/two-step-auth.vue:217
 msgid "Save"
-msgstr ""
+msgstr "儲存"
 
 #: ./src/js/pages/user/filemanager/edit.vue:12
 msgid "Save As"
@@ -9525,7 +9525,7 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:56
 #: src/js/pages/reseller/stats.vue:280
 msgid "SSH"
-msgstr ""
+msgstr "SSH"
 
 #: src/js/components/local/user-package.vue:268
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:205
@@ -9553,7 +9553,7 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:58
 #: src/js/pages/reseller/stats.vue:281
 msgid "SSL"
-msgstr ""
+msgstr "SSL"
 
 #: src/js/components/local/user-package.vue:267
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:204
@@ -9564,7 +9564,7 @@ msgstr ""
 #: ./src/js/pages/user/ssl/index.vue:1
 #: src/js/modules/navigation/user.js:32
 msgid "SSL Certificates"
-msgstr ""
+msgstr "SSL 憑證"
 
 #: ./src/js/pages/admin/multi-server.vue:34
 #: src/js/pages/admin/multi-server.vue:51
@@ -9798,7 +9798,7 @@ msgstr ""
 
 #: ./src/js/pages/user/subdomains/index.vue:86
 msgid "Subdomain:"
-msgstr ""
+msgstr "子網域："
 
 #: ./src/js/components/local/stats/webalizer-table.vue:3
 #: ./src/js/pages/reseller/users/_components/domains.vue:2
