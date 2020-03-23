@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 08:26\n"
+"PO-Revision-Date: 2020-03-23 09:23\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1521,7 +1521,7 @@ msgstr ""
 #: ./src/js/pages/admin/stats.vue:293
 #: src/js/pages/admin/stats.vue:301
 msgid "Available"
-msgstr ""
+msgstr "可用"
 
 #: ./src/js/pages/user/system-info/_tables/memory-info-table.vue:26
 msgid "Available Memory"
@@ -1530,7 +1530,7 @@ msgstr ""
 #: ./src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:21
 msgid "Available Version"
-msgstr ""
+msgstr "可用版本"
 
 #: ./src/js/pages/user/email/catch-all.vue:45
 msgid "Avoid using the Ignore option unless you know what you are doing. Spammers will be sending you e-mails to random addresses, and this option will accept those e-mails. You will not know it because the accepted e-mails would be discarded. This greatly increases the server load unnecessarily. If you do not want the catch-all to be on, then use the Fail option instead."
@@ -1954,15 +1954,15 @@ msgstr ""
 
 #: ./src/js/pages/user/security-questions.vue:51
 msgid "Change Answer"
-msgstr ""
+msgstr "變更答案"
 
 #: ./src/js/pages/reseller/users/view.vue:159
 msgid "Change Daily Limit"
-msgstr ""
+msgstr "變更每日限制"
 
 #: src/js/modules/widgets.js:10
 msgid "Change domain options"
-msgstr ""
+msgstr "變更網域選項"
 
 #: ./src/js/pages/reseller/users/_components/change-ip-dialog.vue:3
 #: ./src/js/pages/reseller/users/index.vue:24
@@ -1972,11 +1972,11 @@ msgstr "變更 IP"
 
 #: ./src/js/pages/user/email/_components/modify-account-quota-dialog.vue:7
 msgid "Change Limit/Quota"
-msgstr ""
+msgstr "變更限制 / 配額"
 
 #: ./src/js/pages/user/email/accounts/index.vue:307
 msgid "Change Limits"
-msgstr ""
+msgstr "變更限制"
 
 #: ./src/js/pages/reseller/users/_components/change-package-dialog.vue:3
 #: ./src/js/pages/reseller/users/index.vue:24
@@ -2012,7 +2012,7 @@ msgstr "變更密碼"
 
 #: src/js/pages/user/dashboard/_components/dashboard-tab.vue:142
 msgid "Change position"
-msgstr ""
+msgstr "變更位置"
 
 #: ./src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:7
 msgid "Change privileges"
@@ -2024,15 +2024,15 @@ msgstr ""
 
 #: ./src/js/pages/reseller/users/modify.vue:45
 msgid "Change the User's IP"
-msgstr ""
+msgstr "變更使用者的 IP"
 
 #: ./src/js/pages/reseller/users/create.vue:16
 msgid "Change User Message"
-msgstr ""
+msgstr "變更使用者訊息"
 
 #: ./src/js/pages/user/password.vue:1
 msgid "Change your Password"
-msgstr ""
+msgstr "變更您的密碼"
 
 #: ./src/js/pages/admin/history.vue:19
 #: ./src/js/pages/reseller/history.vue:21
@@ -2041,12 +2041,12 @@ msgstr ""
 #: ./src/js/pages/user/bandwidth.vue:29
 #: ./src/js/pages/user/history.vue:25
 msgid "Chart"
-msgstr ""
+msgstr "圖表"
 
 #: ./src/js/pages/user/database/index.vue:67
 #: src/js/pages/user/database/index.vue:84
 msgid "Check"
-msgstr ""
+msgstr "檢查"
 
 #: ./src/js/pages/admin/settings.vue:783
 msgid "Check domain owner for Subdomain creation"
@@ -2151,7 +2151,7 @@ msgstr ""
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:23
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:165
 msgid "Client ID"
-msgstr ""
+msgstr "客戶端 ID"
 
 #: ./src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:39
@@ -2174,7 +2174,7 @@ msgstr ""
 #: ./src/js/pages/reseller/tickets.vue:16
 #: src/js/pages/reseller/tickets.vue:34
 msgid "Close"
-msgstr ""
+msgstr "關閉"
 
 #: ./src/js/components/global/input/input-select-legacy.vue:22
 #: ./src/js/components/global/ui/ui-button-dropdown.vue:7
@@ -2218,7 +2218,7 @@ msgstr "欄"
 
 #: ./src/js/pages/reseller/customize-skin/_components/category-editor.vue:66
 msgid "Column Size"
-msgstr ""
+msgstr "欄位大小"
 
 #: ./src/js/components/local/r-table/r-table-buttons-before.vue:22
 #: ./src/js/components/local/r-table/r-table-settings-dialog.vue:7
@@ -5236,7 +5236,7 @@ msgstr ""
 #: src/js/pages/admin/brute-force-monitor/block_list.vue:42
 #: src/js/pages/admin/users/resellers/view.vue:54
 msgid "Info"
-msgstr ""
+msgstr "資訊"
 
 #: ./src/js/pages/user/email/lists/modify.vue:116
 msgid "Info Access"
@@ -5272,7 +5272,7 @@ msgstr ""
 
 #: ./src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:28
 msgid "Insert"
-msgstr ""
+msgstr "插入"
 
 #: ./src/js/pages/admin/plugin-manager.vue:147
 #: ./src/js/pages/admin/plugin-manager.vue:89
@@ -5492,32 +5492,32 @@ msgstr ""
 #: ./src/js/pages/user/login-keys/index.vue:119
 msgid "key"
 msgid_plural "keys"
-msgstr[0] ""
+msgstr[0] "金鑰"
 
 #: ./src/js/pages/user/dns/security.vue:61
 #: ./src/js/pages/user/login-keys/create.vue:19
 #: ./src/js/pages/user/ssl/_components/paste-cert-tab.vue:4
 msgid "Key"
-msgstr ""
+msgstr "金鑰"
 
 #: ./src/js/pages/user/ssh-keys/edit.vue:11
 msgid "Key Data"
-msgstr ""
+msgstr "金鑰資料"
 
 #: ./src/js/pages/user/ssh-keys/_components/public-keys.vue:2
 #: ./src/js/pages/user/ssh-keys/_dialogs/create-key-dialog.vue:15
 #: src/js/pages/user/ssh-keys/_components/public-keys.vue:6
 msgid "Key ID"
-msgstr ""
+msgstr "金鑰 ID"
 
 #: ./src/js/pages/user/login-keys/index.vue:21
 #: src/js/pages/user/login-keys/index.vue:27
 msgid "Key Name"
-msgstr ""
+msgstr "金鑰名稱"
 
 #: ./src/js/pages/user/login-keys/create.vue:35
 msgid "Key Name:"
-msgstr ""
+msgstr "金鑰名稱:"
 
 #: ./src/js/pages/user/ssh-keys/edit.vue:48
 msgid "Key Options"
