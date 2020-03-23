@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 05:22\n"
+"PO-Revision-Date: 2020-03-23 05:29\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1431,45 +1431,45 @@ msgstr "驗證以發送訊號"
 #: src/js/pages/user/email/usage/index.vue:118
 #: src/js/pages/user/email/usage/index.vue:199
 msgid "Authentication"
-msgstr ""
+msgstr "驗證"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:38
 #: src/js/components/local/dns/dmarc-editor.vue:42
 msgid "Authentication Failure Reporting Format"
-msgstr ""
+msgstr "驗證失敗回報格式"
 
 #: ./src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:25
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #: ./src/js/pages/user/ssh-keys/_components/public-keys.vue:17
 #: ./src/js/pages/user/ssh-keys/_dialogs/create-key-dialog.vue:32
 msgid "Authorize"
-msgstr ""
+msgstr "授權"
 
 #: ./src/js/pages/user/ssh-keys/index.vue:26
 #: src/js/pages/user/ssh-keys/index.vue:29
 msgid "Authorized Keys"
-msgstr ""
+msgstr "授權金鑰"
 
 #: ./src/js/components/local/app-global-modals/skin-options.vue:54
 #: src/js/components/local/app-global-modals/skin-options.vue:58
 #: src/js/pages/user/email/lists/modify.vue:399
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 #: src/js/pages/user/email/lists/modify.vue:407
 msgid "Auto + Confirm"
-msgstr ""
+msgstr "自動 + 確認"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:36
 msgid "Auto-Responders"
-msgstr ""
+msgstr "自動回覆"
 
 #: ./src/js/pages/user/messages/_dialogs/message-system-options.vue:61
 msgid "Automatically delete messages"
-msgstr ""
+msgstr "自動刪除訊息"
 
 #: ./src/js/pages/user/login-keys/create.vue:121
 #: ./src/js/pages/user/login-keys/modify.vue:84
@@ -1785,48 +1785,48 @@ msgstr ""
 #: ./src/js/pages/user/email/spamassassin.vue:291
 #: src/js/pages/user/email/spamassassin.vue:296
 msgid "Blocked E-mail"
-msgstr ""
+msgstr "已阻擋的電子郵件"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/email-pop.vue:34
 #: ./src/js/pages/user/email/accounts/index.vue:179
 msgid "Blocked Permanently"
-msgstr ""
+msgstr "已永久阻擋"
 
 #: ./src/js/pages/user/email/filters.vue:168
 msgid "Blocks out common adult phrases, words, and\n"
 "addresses"
-msgstr ""
+msgstr "封鎖常見的成人短語﹐詞﹐和地址"
 
 #: ./src/js/pages/admin/dns/index.vue:101
 #: ./src/js/pages/admin/dns/index.vue:69
 msgid "Both"
-msgstr ""
+msgstr "兩者"
 
 #: ./src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:60
 msgid "Bounce"
-msgstr ""
+msgstr "退回"
 
 #: ./src/js/pages/admin/brute-force-monitor/index.vue:1
 #: src/js/modules/navigation/admin.js:126
 msgid "Brute Force Monitor"
-msgstr ""
+msgstr "暴力強制監控"
 
 #: ./src/js/pages/admin/brute-force-monitor/block_list.vue:1
 msgid "Brute Force Monitor: Block List"
-msgstr ""
+msgstr "暴力強制監控: 封鎖名單"
 
 #: ./src/js/pages/admin/brute-force-monitor/ip_list.vue:1
 msgid "Brute Force Monitor: IP List"
-msgstr ""
+msgstr "暴力封鎖監控: IP 清單"
 
 #: ./src/js/pages/admin/brute-force-monitor/skip_list.vue:1
 msgid "Brute Force Monitor: Skip List"
-msgstr ""
+msgstr "暴力封鎖監控: 忽略清單"
 
 #: ./src/js/pages/admin/brute-force-monitor/user_list.vue:1
 msgid "Brute Force Monitor: User List"
-msgstr ""
+msgstr "暴力封鎖監控: 使用者名單"
 
 #: ./src/js/pages/admin/ssl/_components/info-dialog.vue:26
 #: ./src/js/pages/user/ssl/index.vue:91
@@ -1835,17 +1835,17 @@ msgstr "CA 根憑證"
 
 #: ./src/js/pages/user/system-info/_tables/memory-info-table.vue:50
 msgid "Cached Swap Memory"
-msgstr ""
+msgstr "快取 Swap 記憶體"
 
 #: ./src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:23
 msgid "Can Update"
-msgstr ""
+msgstr "可以更新"
 
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:69
 #: src/js/pages/reseller/stats.vue:278
 msgid "Can use Server IP"
-msgstr ""
+msgstr "可以使用伺服器 IP"
 
 #: src/js/pages/user/messages/index.vue:181
 msgid "Cannot execute your request"
