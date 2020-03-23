@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 03:28\n"
+"PO-Revision-Date: 2020-03-23 04:43\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -929,7 +929,7 @@ msgstr "之後"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:29
 msgid "Aggregate Email (RUA)"
-msgstr ""
+msgstr "彙總電子郵件 (RUA)"
 
 #: ./src/js/pages/reseller/users/_components/domains.vue:82
 #: src/js/pages/user/domain-pointers.vue:59
@@ -938,11 +938,11 @@ msgstr "別名"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:58
 msgid "Alignment mode for DKIM"
-msgstr ""
+msgstr "DKIM 對齊模式"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:69
 msgid "Alignment mode for SPF"
-msgstr ""
+msgstr "SPF 對齊模式"
 
 #: ./src/js/pages/admin/backups/modify.vue:342
 #: ./src/js/pages/admin/backups/schedule.vue:400
