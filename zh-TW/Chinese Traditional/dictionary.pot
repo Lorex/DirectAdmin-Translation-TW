@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 12:26\n"
+"PO-Revision-Date: 2020-03-23 12:38\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -10207,17 +10207,17 @@ msgstr "這是將被封鎖的電子郵件地址清單。"
 
 #: ./src/js/pages/user/email/catch-all.vue:28
 msgid "This is the recommended option for the catch-all setting. Catch-all's will increase the server load due to spam, so having them disable is highly recommended unless you absolutely need the feature on."
-msgstr "這是給 Catch-all 設定的推薦選項。因為垃圾郵件的關係，Catch-all 將會提高伺服器讀取，所以強烈推薦把它們禁用除非您絕對需要該功能啟用。"
+msgstr "這是給 Catch-all 設定的推薦選項。隨著垃圾郵件增多 Catch-all 將會增加伺服器負載，所以強烈建議停用，除非您非常需要使用該功能。"
 
 #: ./src/js/pages/user/email/usage/index.vue:39
 #: ./src/js/pages/user/email/usage/php-scripts.vue:30
 msgid "This Month"
-msgstr "這個月"
+msgstr "本月"
 
 #: ./src/js/pages/user/email/usage/index.vue:32
 #: ./src/js/pages/user/email/usage/php-scripts.vue:27
 msgid "This Month (excluding today)"
-msgstr "這個月 (包含今日)"
+msgstr "本月 （不含今日）"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:82
 msgid "This Portioned License is a license that has a true expiry at a date further into the future than is set in the physical key.\n"
@@ -10241,11 +10241,11 @@ msgstr "客服單編號 #"
 
 #: ./src/js/pages/reseller/tickets.vue:145
 msgid "Ticket System Enabled"
-msgstr "票證系統啟用"
+msgstr "客服單系統已啟用"
 
 #: ./src/js/pages/reseller/tickets.vue:130
 msgid "Ticket System Settings"
-msgstr "票證系統設定"
+msgstr "客服單系統設定"
 
 #: ./src/js/pages/user/messages/index.vue:12
 #: src/js/pages/user/messages/index.vue:16
@@ -10270,7 +10270,7 @@ msgstr "剩餘時間"
 
 #: ./src/js/pages/admin/settings.vue:230
 msgid "Timeout (seconds)"
-msgstr "超時 (秒)"
+msgstr "逾時 (秒)"
 
 #: ./src/js/pages/admin/settings.vue:361
 msgid "Timezone"
@@ -10278,11 +10278,11 @@ msgstr "時區"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request-dialog.vue:15
 msgid "To use it, paste the Signed Certificate on \"Paste a pre-generated certificate and key\" tab and click \"Save\"."
-msgstr "在 \"貼上預生成證明和金鑰\" 標籤貼上簽名證明並點擊 \"儲存\" 來使用。"
+msgstr "在 「貼上預先生成的憑證和金鑰」 分頁中，貼上已簽發的憑證並按下「儲存」。"
 
 #: ./src/js/pages/user/two-step-auth.vue:34
 msgid "To use this feature, download the Google Authenticator App for your phone (or equivalent), and scan in the QR code."
-msgstr "為使用此功能，下載 Google Authenticator 到您的手機 (或相等裝置)，並掃描其二維碼。"
+msgstr "如要使用此功能，請在手機上下載 Google Authenticator 或類似的App之後，掃描二維碼。"
 
 #: ./src/js/components/local/create-message-dialog.vue:13
 #: ./src/js/components/local/send-user-message-dialog.vue:7
@@ -10915,7 +10915,7 @@ msgstr "使用者名稱 / 電子郵件"
 
 #: src/js/pages/user/email/_components/modify-account-dialog.vue:120
 msgid "Username has been automatically converted to punycode format. Punycode is used to encode internationalized domain names (IDN) by converting Unicode characters to ASCII."
-msgstr "使用者名稱已自動轉換成 Punycode 格式。Punycode 用於轉換Unicode 文字到 ASCII 來編碼國際化的網域名稱 (IDN)"
+msgstr "使用者名稱已自動轉換成 Punycode 格式。Punycode 是用於轉換含有 Unicode 文字的網域名稱到國際通用之 ASCII 格式 (IDN) 的轉換格式。"
 
 #: ./src/js/pages/user/database/create.vue:63
 msgid "Username is too long"
