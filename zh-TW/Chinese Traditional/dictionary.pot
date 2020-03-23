@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 01:31\n"
+"PO-Revision-Date: 2020-03-23 02:25\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -4668,7 +4668,7 @@ msgstr ""
 
 #: src/js/modules/router/before-each.js:26
 msgid "Forbidden"
-msgstr "Forbidden"
+msgstr "拒絕存取"
 
 #: ./src/js/pages/admin/mail-queue/index.vue:19
 #: ./src/js/pages/user/dashboard/_components/widgets/mail-queue.vue:52
