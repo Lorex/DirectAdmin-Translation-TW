@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 02:25\n"
+"PO-Revision-Date: 2020-03-23 02:56\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1169,7 +1169,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:192
 #: src/js/pages/user/bandwidth.vue:250
 msgid "Apache"
-msgstr ""
+msgstr "Apache"
 
 #: ./src/js/pages/user/handlers/index.vue:1
 #: src/js/modules/navigation/user.js:132
@@ -1265,7 +1265,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:285
 #: src/js/pages/user/stats/domain-statistics.vue:124
 msgid "April"
-msgstr ""
+msgstr "四月"
 
 #: ./src/js/pages/user/email/lists/index.vue:26
 #: src/js/pages/user/email/lists/index.vue:33
@@ -1414,7 +1414,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:289
 #: src/js/pages/user/stats/domain-statistics.vue:128
 msgid "August"
-msgstr ""
+msgstr "八月"
 
 #: ./src/js/pages/admin/_dialogs/root-auth-dialog.vue:10
 #: ./src/js/pages/admin/_dialogs/root-auth-dialog.vue:32
@@ -1644,12 +1644,12 @@ msgstr ""
 #: src/js/pages/user/stats/index.vue:52
 #: src/js/pages/user/subdomains/index.vue:33
 msgid "Bandwidth"
-msgstr ""
+msgstr "流量"
 
 #: src/js/components/local/user-package.vue:245
 #: src/js/pages/admin/users/resellers/modify.vue:207
 msgid "Bandwidth (MB)"
-msgstr ""
+msgstr "流量 (MB)"
 
 #: ./src/js/pages/reseller/users/bandwidth.vue:1
 #: ./src/js/pages/user/bandwidth.vue:1
