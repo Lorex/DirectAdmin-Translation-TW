@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 04:53\n"
+"PO-Revision-Date: 2020-03-23 05:07\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1183,81 +1183,81 @@ msgstr "實際使用量:"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:176
 msgid "Appears at the end of the virtualHost."
-msgstr "出現在虛擬主機的尾端。"
+msgstr "顯示在虛擬主機的尾端。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:158
 #: src/js/pages/admin/custom-httpd/customize.vue:164
 #: src/js/pages/admin/custom-httpd/customize.vue:170
 msgid "Appears at the very top of the template, before setting the variables."
-msgstr "在設定變數之前，會出現在範本的最頂端。"
+msgstr "在設定變數之前，會顯示在範本的最頂端。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:172
 msgid "Appears in ALL context{} sections, used for password protected directories."
-msgstr "出現在「所有」context{} 的部分，用於受密碼保護的目錄。"
+msgstr "顯示在「所有」context{} 的部分，用於受密碼保護的目錄。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:159
 msgid "Appears in ALL location / sections. Use the LOCATION token."
-msgstr ""
+msgstr "顯示於「所有」位置 / 部分。使用「位置」憑證"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:173
 msgid "Appears in phpIniOverride{} section."
-msgstr ""
+msgstr "顯示於 phpIniOverride{} 的部分。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:174
 msgid "Appears in rewrite{} section."
-msgstr ""
+msgstr "顯示於 rewrite{} 部分。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:171
 msgid "Appears in scripthandler{} section."
-msgstr ""
+msgstr "顯示於 scripthandler{} 部分。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:175
 msgid "Appears in vhssl{} section."
-msgstr ""
+msgstr "顯示於 vhssl{} 部分。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:165
 msgid "Appears just before the <Directory> section."
-msgstr ""
+msgstr "只在 <Directory> 部分之前顯示。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:160
 #: src/js/pages/admin/custom-httpd/customize.vue:166
 msgid "Appears just before the webapps include."
-msgstr ""
+msgstr "只在包含 webapps 之前顯示。"
 
 #: ./src/js/pages/admin/backups/modify.vue:221
 #: ./src/js/pages/admin/backups/schedule.vue:282
 #: ./src/js/pages/reseller/backups/modify.vue:167
 #: ./src/js/pages/reseller/backups/schedule.vue:239
 msgid "Append"
-msgstr ""
+msgstr "附加"
 
 #: ./src/js/pages/user/ssh-keys/edit.vue:85
 msgid "Apply To"
-msgstr ""
+msgstr "套用至"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/skins.vue:26
 msgid "Apply to all users"
-msgstr ""
+msgstr "套用至所有使用者"
 
 #: ./src/js/pages/reseller/skins.vue:43
 msgid "Apply to All Users"
-msgstr ""
+msgstr "套用至所有使用者"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:53
 msgid "Apply to existing domains"
-msgstr ""
+msgstr "套用至現有的網域"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/skins.vue:21
 msgid "Apply to me"
-msgstr ""
+msgstr "套用至我自己"
 
 #: ./src/js/pages/reseller/skins.vue:38
 msgid "Apply to Me"
-msgstr ""
+msgstr "套用至自己"
 
 #: ./src/js/pages/user/email/lists/modify.vue:22
 msgid "Approve Password"
-msgstr ""
+msgstr "密碼核准"
 
 #: src/js/components/local/history/chart.vue:202
 #: src/js/components/local/history/table.vue:97
@@ -1270,29 +1270,29 @@ msgstr "四月"
 #: ./src/js/pages/user/email/lists/index.vue:26
 #: src/js/pages/user/email/lists/index.vue:33
 msgid "Archive Size"
-msgstr ""
+msgstr "檔案大小"
 
 #: ./src/js/components/local/filemanager/dialogs/compress-download-dialog.vue:10
 msgid "Archive Type"
-msgstr ""
+msgstr "檔案類型"
 
 #: ./src/js/pages/admin/plugin-manager.vue:164
 msgid "Are you sure you want to activate “%{ name }” plugin?"
-msgstr ""
+msgstr "您確定要啟用 %{ name } 插件?"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-ips-dialog.vue:4
 msgid "Are you sure you want to add selected IP to skip list?"
 msgid_plural "Are you sure you want to add selected IPs to skip list?"
-msgstr[0] ""
+msgstr[0] "您確定要新增已選取的 IP 至 略過清單?"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-users-dialog.vue:4
 msgid "Are you sure you want to add selected user to skip list?"
 msgid_plural "Are you sure you want to add selected users to skip list?"
-msgstr[0] ""
+msgstr[0] "您確定要新增已選的使用者至忽略清單?"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/block-dialog.vue:9
 msgid "Are you sure you want to block selected %{ subject }?"
-msgstr ""
+msgstr "您確定要阻擋已選取的 %{ subject }?"
 
 #: ./src/js/pages/admin/plugin-manager.vue:161
 msgid "Are you sure you want to deactivate “%{ name }” plugin?"
@@ -5837,12 +5837,12 @@ msgstr ""
 #: ./src/js/pages/reseller/backups/restore.vue:47
 #: ./src/js/pages/reseller/backups/schedule.vue:162
 msgid "Local: %{ location }"
-msgstr ""
+msgstr "位置: %{ location }"
 
 #: ./src/js/pages/admin/backups/restore.vue:222
 #: ./src/js/pages/reseller/backups/restore.vue:198
 msgid "Location"
-msgstr ""
+msgstr "位置"
 
 #: ./src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:58
 msgid "Lock Tables"
