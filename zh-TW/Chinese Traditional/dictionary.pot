@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 09:23\n"
+"PO-Revision-Date: 2020-03-23 12:26\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -925,7 +925,7 @@ msgstr "影響指標"
 #: ./src/js/pages/admin/settings.vue:438
 #: ./src/js/pages/admin/settings.vue:455
 msgid "after"
-msgstr "之後"
+msgstr "在下述時間之後"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:29
 msgid "Aggregate Email (RUA)"
@@ -1071,7 +1071,7 @@ msgstr "允許列為 MX 的伺服器為此網域傳送信件"
 
 #: ./src/js/pages/admin/settings.vue:79
 msgid "Allow the latest version of DirectAdmin to be pushed to this server, as needed."
-msgstr "允許在需要時推進最新版本的 DirectAdmin 至此伺服器。"
+msgstr "允許在必要情況時推送最新版的 DirectAdmin 至此伺服器。"
 
 #: ./src/js/pages/admin/settings.vue:137
 msgid "Allow Users with less than"
@@ -1283,7 +1283,7 @@ msgstr "您確定要啟用 %{ name } 插件?"
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-ips-dialog.vue:4
 msgid "Are you sure you want to add selected IP to skip list?"
 msgid_plural "Are you sure you want to add selected IPs to skip list?"
-msgstr[0] "您確定要新增已選取的 IP 至 略過清單?"
+msgstr[0] "您確定要新增已選取的 IP 至 忽略清單?"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-users-dialog.vue:4
 msgid "Are you sure you want to add selected user to skip list?"
@@ -1316,11 +1316,11 @@ msgstr "您確定要刪除使用者 %{user}?"
 
 #: ./src/js/pages/user/protected-directories/view.vue:136
 msgid "Are you sure you want to disable protection for %{path}?"
-msgstr "您確定要禁用用於 %{path} 的保護?"
+msgstr "您確定要停用用於 %{path} 的保護?"
 
 #: ./src/js/pages/admin/multi-server.vue:174
 msgid "Are you sure you want to disable this feature?"
-msgstr "您確定要禁用這個功能?"
+msgstr "您確定要停用這個功能?"
 
 #: ./src/js/pages/admin/plugin-manager.vue:170
 msgid "Are you sure you want to install “%{ name }” plugin?"
@@ -1341,7 +1341,7 @@ msgstr[0] "您確定要解除封鎖已選取的 IP?"
 
 #: ./src/js/pages/admin/plugin-manager.vue:173
 msgid "Are you sure you want to uninstall “%{ name }” plugin?"
-msgstr "您確定您要解出安裝 \"%{ name }\" 插件?"
+msgstr "您確定您要解除安裝 \"%{ name }\" 插件?"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/unlink-ip-dialog.vue:11
 msgid "Are you sure you want to unlink selected IP?"
@@ -4076,11 +4076,11 @@ msgstr ""
 
 #: ./src/js/pages/user/redirects.vue:88
 msgid "e.g. \"/redirect\", \"/\""
-msgstr "e.g. \"/redirect\", \"/\""
+msgstr "例如：\"/redirect\", \"/\""
 
 #: ./src/js/pages/user/redirects.vue:128
 msgid "e.g. \"http://www.redirected.com\""
-msgstr "e.g. \"http://www.redirected.com\""
+msgstr "例如：\"http://www.redirected.com\""
 
 #: ./src/js/pages/user/email/spamassassin.vue:286
 msgid "e.g. *@domain.com"
@@ -5475,7 +5475,7 @@ msgstr "一月"
 #: src/js/pages/user/bandwidth.vue:288
 #: src/js/pages/user/stats/domain-statistics.vue:127
 msgid "July"
-msgstr "7月"
+msgstr "七月"
 
 #: src/js/components/local/history/chart.vue:204
 #: src/js/components/local/history/table.vue:99
@@ -5483,7 +5483,7 @@ msgstr "7月"
 #: src/js/pages/user/bandwidth.vue:287
 #: src/js/pages/user/stats/domain-statistics.vue:126
 msgid "June"
-msgstr "七月"
+msgstr "六月"
 
 #: ./src/js/pages/admin/settings.vue:272
 msgid "Keep Number of Apache Log Backups"
@@ -10178,11 +10178,11 @@ msgstr "這可以替換已付款的 EV 證明"
 
 #: ./src/js/pages/user/email/catch-all.vue:12
 msgid "This e-mail address will catch all improperly addressed mail (i.e. to a user that doesn't exist) to your site. This address may be your defaultusername@yourdomain.com, or any other email account you have created."
-msgstr "此電子郵件地址將會捕獲所有不當解決的郵件 (就是不存在的使用者) 至您的網站。此地址可能是您的 defaultusername@yourdomain.com，或任何其他您建立的電子郵件帳號。"
+msgstr "此電子郵件地址將會捕獲所有收件地址不合法的郵件 (例如：收件者是一名不存在的使用者) 至您的網站。此地址可能是您的 defaultusername@yourdomain.com，或任何其他您建立的電子郵件帳號。"
 
 #: src/js/modules/router/before-each.js:71
 msgid "This feature has been disabled. Please, contact your administrator."
-msgstr "此功能已被禁用。請聯繫您的管理員。"
+msgstr "此功能已被停用。請聯絡您的管理員。"
 
 #: ./src/js/pages/user/security-questions.vue:12
 #: ./src/js/pages/user/two-step-auth.vue:41
@@ -10191,11 +10191,11 @@ msgstr "此功能並未開啟。"
 
 #: ./src/js/pages/admin/_dialogs/root-auth-dialog.vue:19
 msgid "This file is tagged as secure. Root password required to edit"
-msgstr "此檔案已被標示為安全。需要 Root 密碼以進行編輯"
+msgstr "此檔案已被鎖定。需要 Root 密碼才能編輯"
 
 #: ./src/js/components/global/App.vue:12
 msgid "This is a Trial License of DirectAdmin"
-msgstr "這是 DirectAdmin 試用憑證"
+msgstr "這是 DirectAdmin 試用授權"
 
 #: ./src/js/pages/user/email/spamassassin.vue:372
 msgid "This is the list of e-mail address that will be allowed through, regardless of content."
