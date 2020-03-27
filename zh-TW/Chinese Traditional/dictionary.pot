@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-23 12:53\n"
+"PO-Revision-Date: 2020-03-27 04:26\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1954,7 +1954,7 @@ msgstr ""
 
 #: ./src/js/pages/user/security-questions.vue:51
 msgid "Change Answer"
-msgstr "變更答案"
+msgstr "變更回答"
 
 #: ./src/js/pages/reseller/users/view.vue:159
 msgid "Change Daily Limit"
@@ -2151,7 +2151,7 @@ msgstr ""
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:23
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:165
 msgid "Client ID"
-msgstr "客戶端 ID"
+msgstr "用戶端 ID"
 
 #: ./src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:39
@@ -10123,7 +10123,7 @@ msgstr "應用程式將顯示給您一個用於登入 DirectAdmin 的代碼。"
 
 #: ./src/js/pages/user/email/catch-all.vue:41
 msgid "The e-mail is dropped and completely ignored"
-msgstr "電子郵件已刪除並完全忽略"
+msgstr "電子郵件已丟棄並完全忽略"
 
 #: ./src/js/pages/user/email/spamassassin.vue:376
 msgid "The format is the same as the E-mail Blacklist"
@@ -10135,21 +10135,21 @@ msgstr "使用的登入使用者名稱將仍然做為您一般的 DA 使用者�
 
 #: ./src/js/pages/user/login-keys/create.vue:191
 msgid "The priorities for allow and deny are"
-msgstr "允許和拒絕的優先事項是"
+msgstr "允許和拒絕的優先級是"
 
 #: ./src/js/pages/user/email/catch-all.vue:24
 msgid "The sender is notified that the address doesn't exist"
-msgstr "已通知傳送者地址不存在"
+msgstr "已通知傳送者位址不存在"
 
 #: ./src/js/components/local/dns/spf-editor.vue:7
 msgid "The SPF record for this domain replaces the current record."
-msgstr "此網域的SPF記錄會替換目前的記錄。"
+msgstr "此網域的 SPF 記錄會取代目前的記錄。"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:161
 #: src/js/pages/admin/custom-httpd/customize.vue:167
 #: src/js/pages/admin/custom-httpd/customize.vue:177
 msgid "The very last entry."
-msgstr "最後一個項目"
+msgstr "最後一個項目。"
 
 #: ./src/js/components/local/app-global-modals/skin-options.vue:40
 #: ./src/js/pages/reseller/customize-skin/_components/misc-options.vue:98
@@ -10158,11 +10158,11 @@ msgstr "主題"
 
 #: ./src/js/components/local/inputs/input-text-editor.vue:42
 msgid "Theme:"
-msgstr "主題:"
+msgstr "主題："
 
 #: ./src/js/pages/user/stats/domain-statistics.vue:33
 msgid "There are no statistics for the domain yet"
-msgstr "目前沒有該網域統計資料"
+msgstr "目前尚無網域統計資料"
 
 #: src/js/modules/router/before-each.js:50
 msgid "There is no default domain; you should start with creating one first"
@@ -10170,11 +10170,11 @@ msgstr "尚無預設網域；您應該先啟動並建立一個"
 
 #: ./src/js/pages/user/email/spamassassin.vue:495
 msgid "This button will remove data learned by SpamAssassin."
-msgstr "此按鈕將移除和 SpamAssassin 學習的資料。"
+msgstr "此按鈕將移除 SpamAssassin 學習的資料。"
 
 #: ./src/js/pages/admin/ssl/_components/settings-dialog.vue:64
 msgid "This could replace paid EV certificates"
-msgstr "這可以替換已付款的 EV 證明"
+msgstr "這可以取代付費 EV 憑證"
 
 #: ./src/js/pages/user/email/catch-all.vue:12
 msgid "This e-mail address will catch all improperly addressed mail (i.e. to a user that doesn't exist) to your site. This address may be your defaultusername@yourdomain.com, or any other email account you have created."
@@ -10261,7 +10261,7 @@ msgstr "時間"
 
 #: ./src/js/pages/admin/settings.vue:520
 msgid "Time before failed login count resets"
-msgstr "登入失敗前的計數已重設"
+msgstr "已重設登入失敗前的計數"
 
 #: ./src/js/pages/admin/license.vue:113
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:65
