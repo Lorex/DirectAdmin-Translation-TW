@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-27 04:26\n"
+"PO-Revision-Date: 2020-03-27 04:39\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -938,11 +938,11 @@ msgstr "別名"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:58
 msgid "Alignment mode for DKIM"
-msgstr "DKIM 對齊模式"
+msgstr "DKIM 的對齊模式"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:69
 msgid "Alignment mode for SPF"
-msgstr "SPF 對齊模式"
+msgstr "SPF 的對齊模式"
 
 #: ./src/js/pages/admin/backups/modify.vue:342
 #: ./src/js/pages/admin/backups/schedule.vue:400
@@ -1005,7 +1005,7 @@ msgstr "所有使用者"
 #: ./src/js/pages/reseller/backups/modify.vue:54
 #: ./src/js/pages/reseller/backups/schedule.vue:55
 msgid "All Users Except Selected"
-msgstr "已選取外的所有使用者"
+msgstr "除已選取的所有使用者"
 
 #: ./src/js/pages/user/ssh-keys/edit.vue:91
 msgid "All Users Except Selected Users"
@@ -1160,7 +1160,7 @@ msgstr "任何時候"
 
 #: ./src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:20
 msgid "Anything"
-msgstr "任何事"
+msgstr "任何項目"
 
 #: src/js/pages/reseller/users/bandwidth.vue:160
 #: src/js/pages/reseller/users/bandwidth.vue:200
@@ -1179,7 +1179,7 @@ msgstr "Apache 處理常式"
 #: ./src/js/pages/user/dashboard/_components/widgets/email-pop.vue:52
 #: ./src/js/pages/user/email/accounts/index.vue:237
 msgid "Apparent Usage:"
-msgstr "實際使用量:"
+msgstr "實際使用量："
 
 #: src/js/pages/admin/custom-httpd/customize.vue:176
 msgid "Appears at the end of the virtualHost."
@@ -5837,7 +5837,7 @@ msgstr ""
 #: ./src/js/pages/reseller/backups/restore.vue:47
 #: ./src/js/pages/reseller/backups/schedule.vue:162
 msgid "Local: %{ location }"
-msgstr "位置: %{ location }"
+msgstr "本機：%{ location }"
 
 #: ./src/js/pages/admin/backups/restore.vue:222
 #: ./src/js/pages/reseller/backups/restore.vue:198
@@ -7658,7 +7658,7 @@ msgstr ""
 
 #: ./src/js/pages/user/two-step-auth.vue:108
 msgid "QR Code"
-msgstr "QR Code"
+msgstr "QR 碼"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:17
 #: ./src/js/components/local/dns/dmarc-editor.vue:5
@@ -10064,7 +10064,7 @@ msgstr "目標網域"
 
 #: ./src/js/pages/admin/process-monitor.vue:79
 msgid "Tasks:"
-msgstr "任務:"
+msgstr "作業："
 
 #: ./src/js/pages/admin/custom-httpd/diff.vue:1
 msgid "Template Diff"
@@ -10072,7 +10072,7 @@ msgstr "範本差異"
 
 #: ./src/js/pages/admin/custom-httpd/diff.vue:10
 msgid "Template Diff: %{ name }"
-msgstr "範本差異: %{ name }"
+msgstr "範本差異：%{ name }"
 
 #: ./src/js/pages/admin/custom-httpd/view.vue:43
 msgid "Templates"
@@ -10081,11 +10081,11 @@ msgstr "範本"
 #: ./src/js/pages/reseller/users/_components/additional-bandwidth-dialog.vue:6
 #: ./src/js/pages/reseller/users/view.vue:208
 msgid "Temporary Bandwidth Increase"
-msgstr "提高暫存頻寬"
+msgstr "提高暫時流量"
 
 #: ./src/js/pages/user/two-step-auth.vue:121
 msgid "Test Code"
-msgstr "測試代碼"
+msgstr "測試驗證碼"
 
 #: ./src/js/pages/admin/multi-server.vue:143
 msgid "Test Connection"
@@ -10094,11 +10094,11 @@ msgstr[0] "測試連線"
 
 #: ./src/js/pages/user/two-step-auth.vue:110
 msgid "Test your phone's code"
-msgstr "測試您的手機代碼"
+msgstr "測試您手機的驗證碼"
 
 #: ./src/js/pages/user/email/spamassassin.vue:236
 msgid "Text-only attachments are used for increased safety."
-msgstr "存文字附件是用於提高安全性。"
+msgstr "純文字附件是用來提高安全性的。"
 
 #: ./src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:57
@@ -10107,19 +10107,19 @@ msgstr "解除凍結"
 
 #: ./src/js/pages/admin/ip-manager/_dialogs/link-ip-dialog.vue:55
 msgid "The \"Apply to existing Domains\" option will trigger the httpd.conf rewrites and insert A/AAAA records into the local DNS zones. Disabling this checkbox won't touch the DNS or httpd.conf files, but future httpd.cont rewrites will have the linked IP added."
-msgstr "\"套用至現有網域\" 選線將會觸發改寫 httpd.conf 及插入 A/AAAA 記錄進入地區 DNS 區域。信用此勾選框不用動用 DNS 或 httpd.conf 檔案﹐但未來 httpd.conf 改寫將會新增已連結 IP。"
+msgstr "[套用至現有網域] 選項將會觸發 httpd.conf 重寫 (rewrite) 並插入 A/AAAA 至本機 DNS 區域。停用此核取框不會動到 DNS 或 httpd.conf 檔案﹐但未來 httpd.conf 重寫將會新增已連結的 IP。"
 
 #: src/js/pages/user/email/usage/index.vue:195
 msgid "The \"From\" value set in the email header. This value should not be considered as accurate, as a sender can specify any value they wish."
-msgstr "\"From\" 值設於電子郵件標頭。此值不該被認為是準確的﹐作為發送者可以指定任何他們希望的值。"
+msgstr "\"From\" 值設於電子郵件標頭。因為傳送者能夠自己指定，所以此值不應假設是正確的。"
 
 #: ./src/js/pages/user/login-keys/create.vue:193
 msgid "The ALL_USER type commands are replaced with all commands the User is allowed, at that level."
-msgstr "在該級別，ALL_USER 類型的指令是和所有允許使用者使用得指令替換。"
+msgstr "ALL_USER 類型的命令已經被使用者在該等級允許使用的所有命令取代。"
 
 #: ./src/js/pages/user/two-step-auth.vue:35
 msgid "The App will show you a code, which you'll use to Login to DirectAdmin."
-msgstr "應用程式將顯示給您一個用於登入 DirectAdmin 的代碼。"
+msgstr "應用程式會向您顯示用於登入 DirectAdmin 的驗證碼。"
 
 #: ./src/js/pages/user/email/catch-all.vue:41
 msgid "The e-mail is dropped and completely ignored"
