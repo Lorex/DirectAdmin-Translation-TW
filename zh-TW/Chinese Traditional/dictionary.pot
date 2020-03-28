@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-27 04:39\n"
+"PO-Revision-Date: 2020-03-28 15:27\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1478,7 +1478,7 @@ msgstr ""
 
 #: ./src/js/pages/user/messages/_dialogs/message-system-options.vue:36
 msgid "Automatically delete tickets"
-msgstr ""
+msgstr "自動刪除票卷"
 
 #: ./src/js/pages/user/email/autoresponders/index.vue:75
 #: src/js/pages/user/email/autoresponders/index.vue:77
@@ -1525,7 +1525,7 @@ msgstr "可用"
 
 #: ./src/js/pages/user/system-info/_tables/memory-info-table.vue:26
 msgid "Available Memory"
-msgstr ""
+msgstr "可用記憶體"
 
 #: ./src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:21
@@ -1540,12 +1540,12 @@ msgstr ""
 #: ./src/js/pages/user/subdomains/stats.vue:11
 #: src/js/pages/user/subdomains/stats.vue:14
 msgid "AWstats"
-msgstr ""
+msgstr "AWstats"
 
 #: ./src/js/pages/user/stats/domain-statistics.vue:11
 #: src/js/pages/user/stats/domain-statistics.vue:20
 msgid "AWStats"
-msgstr ""
+msgstr "AWStats"
 
 #: ./src/js/components/global/app/app-page.vue:21
 #: ./src/js/pages/admin/_dialogs/root-auth-dialog.vue:40
@@ -1586,14 +1586,14 @@ msgstr "備份 ID"
 
 #: ./src/js/pages/admin/system-backup.vue:47
 msgid "Backup Path"
-msgstr ""
+msgstr "備份路徑"
 
 #: ./src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:6
 #: ./src/js/pages/admin/backups/index.vue:60
 #: ./src/js/pages/reseller/backups/_components/settings-dialog.vue:3
 #: ./src/js/pages/reseller/backups/index.vue:95
 msgid "Backup/Restore Settings"
-msgstr ""
+msgstr "備份 / 復原設定"
 
 #: ./src/js/components/local/history/table.vue:3
 #: ./src/js/components/local/stats/webalizer-table.vue:3
@@ -1684,17 +1684,17 @@ msgstr ""
 #: ./src/js/pages/admin/settings.vue:950
 #: src/js/pages/admin/settings.vue:959
 msgid "bl_auth"
-msgstr ""
+msgstr "bl_auth"
 
 #: ./src/js/pages/admin/settings.vue:950
 #: src/js/pages/admin/settings.vue:958
 msgid "bl_script"
-msgstr ""
+msgstr "bl_script"
 
 #: ./src/js/pages/admin/settings.vue:950
 #: src/js/pages/admin/settings.vue:957
 msgid "bl_smtp"
-msgstr ""
+msgstr "bl_smtp"
 
 #: ./src/js/pages/admin/settings.vue:950
 #: src/js/pages/admin/settings.vue:956
@@ -1724,7 +1724,7 @@ msgstr ""
 #: ./src/js/pages/user/email/_components/filter-input.vue:23
 #: src/js/pages/admin/brute-force-monitor/ip_list.vue:42
 msgid "Block"
-msgstr ""
+msgstr "封鎖"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/block-dialog.vue:3
 msgid "Block %{ subject }"
