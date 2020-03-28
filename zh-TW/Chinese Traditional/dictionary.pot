@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-28 15:32\n"
+"PO-Revision-Date: 2020-03-28 15:58\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1667,7 +1667,7 @@ msgstr ""
 #: ./src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:20
 msgid "Basic Configuration"
-msgstr ""
+msgstr "基本設定"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request-dialog.vue:28
 msgid "Be sure to copy and backup the \"RSA PRIVATE KEY\" along with the request. You will need it when installing the certificate. Because you're an admin, you will be saving to the \"shared server certificate\" and the key is not saved anywhere until you paste it with the certificate."
@@ -1699,7 +1699,7 @@ msgstr "bl_smtp"
 #: ./src/js/pages/admin/settings.vue:950
 #: src/js/pages/admin/settings.vue:956
 msgid "bl_usernames"
-msgstr ""
+msgstr "bl_usernames"
 
 #: ./src/js/pages/admin/settings.vue:429
 msgid "Blacklist IPs for excessive DA login attempts"
@@ -1893,23 +1893,23 @@ msgstr "憑證過期"
 
 #: ./src/js/pages/user/ssl/_components/paste-cert-tab.vue:50
 msgid "Certificate Hosts"
-msgstr ""
+msgstr "憑證主機"
 
 #: ./src/js/pages/admin/ssl/_components/info-dialog.vue:35
 msgid "Certificate Key"
-msgstr ""
+msgstr "憑證金鑰"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request-dialog.vue:8
 msgid "Certificate Request"
-msgstr ""
+msgstr "憑證請求"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:57
 msgid "Certificate Request copied to clipboard"
-msgstr ""
+msgstr "憑證請求已複製至剪貼版"
 
 #: ./src/js/pages/user/ssl/_components/common-data-editor.vue:56
 msgid "Certificate Type"
-msgstr ""
+msgstr "憑證類型"
 
 #: ./src/js/pages/reseller/users/_components/domains.vue:60
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:59
@@ -1939,7 +1939,7 @@ msgstr "CGI-Bin"
 #: ./src/js/pages/user/email/accounts/_dialogs/change-password-dialog.vue:38
 #: ./src/js/pages/user/ftp-accounts/_dialogs/change-password-dialog.vue:34
 msgid "Change"
-msgstr ""
+msgstr "修改"
 
 #: ./src/js/pages/admin/users/admins.vue:146
 #: ./src/js/pages/admin/users/index.vue:237
@@ -1950,7 +1950,7 @@ msgstr ""
 
 #: ./src/js/pages/reseller/users/index.vue:271
 msgid "Change A User's Password"
-msgstr ""
+msgstr "修改使用者密碼"
 
 #: ./src/js/pages/user/security-questions.vue:51
 msgid "Change Answer"
@@ -2002,7 +2002,7 @@ msgstr "變更密碼"
 #: ./src/js/pages/user/email/_components/modify-account-dialog.vue:7
 #: ./src/js/pages/user/email/accounts/index.vue:302
 msgid "Change Password/Username"
-msgstr ""
+msgstr "修改密碼/使用者名稱"
 
 #: ./src/js/pages/reseller/passwords.vue:1
 #: src/js/modules/navigation/admin.js:26
@@ -2020,7 +2020,7 @@ msgstr "更改權限"
 
 #: ./src/js/pages/reseller/users/_components/change-sent-emails-daily-limit-dialog.vue:3
 msgid "Change sent emails daily limit"
-msgstr ""
+msgstr "修改每日郵件發送次數限制"
 
 #: ./src/js/pages/reseller/users/modify.vue:45
 msgid "Change the User's IP"
@@ -2050,7 +2050,7 @@ msgstr "檢查"
 
 #: ./src/js/pages/admin/settings.vue:783
 msgid "Check domain owner for Subdomain creation"
-msgstr ""
+msgstr "檢查網域擁有者以創建子域名"
 
 #: ./src/js/pages/admin/settings.vue:333
 msgid "Check usage every"
@@ -2081,16 +2081,16 @@ msgstr ""
 #: ./src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:68
 #: ./src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:72
 msgid "Clear"
-msgstr ""
+msgstr "清楚"
 
 #: ./src/js/components/local/app-global-modals/notifications-center.vue:17
 #: ./src/js/components/local/notifications-center/archive-header.vue:16
 msgid "Clear All"
-msgstr ""
+msgstr "全部清除"
 
 #: ./src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:51
 msgid "Clear Clipboard"
-msgstr ""
+msgstr "清空剪貼簿"
 
 #: ./src/js/pages/admin/settings.vue:705
 msgid "Clear failed login attempts from log"
@@ -2101,12 +2101,12 @@ msgstr ""
 #: ./src/js/pages/admin/brute-force-monitor/index.vue:177
 #: src/js/components/local/ui-api-table/filters-editor.vue:52
 msgid "Clear Filter"
-msgstr ""
+msgstr "清空過濾器"
 
 #: ./src/js/pages/user/login-keys/create.vue:117
 #: ./src/js/pages/user/login-keys/modify.vue:80
 msgid "Clear Key:"
-msgstr ""
+msgstr "清除金鑰:"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:3
 #: ./src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:3
@@ -2117,13 +2117,13 @@ msgstr ""
 #: ./src/js/pages/admin/ip-manager/index.vue:22
 #: src/js/pages/admin/ip-manager/index.vue:48
 msgid "Clear NS"
-msgstr ""
+msgstr "清空 NS"
 
 #: ./src/js/pages/admin/custom-httpd/index.vue:36
 #: ./src/js/pages/admin/dns/index.vue:44
 #: ./src/js/pages/admin/php-safe-mode.vue:31
 msgid "Clear Search"
-msgstr ""
+msgstr "清除搜尋"
 
 #: ./src/js/components/global/input/input-select-multiple.vue:7
 #: ./src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:37
@@ -2134,13 +2134,13 @@ msgstr ""
 #: src/js/components/local/history/chart.vue:135
 #: src/js/components/local/history/chart.vue:168
 msgid "Click for details"
-msgstr ""
+msgstr "按一下取得詳細資訊"
 
 #: ./src/js/components/local/master-login-bar.vue:80
 #: ./src/js/components/local/master-login-drawer.vue:110
 #: ./src/js/components/local/reseller-skin-warning-dialog.vue:15
 msgid "Click for more info"
-msgstr ""
+msgstr "按一下取得更多資訊"
 
 #: ./src/js/pages/user/backup/restore.vue:136
 msgid "Click here for a list of your current backups"
@@ -2156,7 +2156,7 @@ msgstr "用戶端 ID"
 #: ./src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:39
 msgid "Clipboard"
-msgstr ""
+msgstr "剪貼簿"
 
 #: ./src/js/pages/user/filemanager/_components/clipboard-actions.vue:13
 msgid "Clipboard Actions"
@@ -2164,7 +2164,7 @@ msgstr ""
 
 #: ./src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:13
 msgid "Clipboard is empty"
-msgstr ""
+msgstr "剪貼簿為空"
 
 #: ./src/js/components/global/ui/ui-dialog.vue:25
 #: ./src/js/components/global/ui/ui-dialog.vue:68
@@ -2179,11 +2179,11 @@ msgstr "關閉"
 #: ./src/js/components/global/input/input-select-legacy.vue:22
 #: ./src/js/components/global/ui/ui-button-dropdown.vue:7
 msgid "Close dropdown"
-msgstr ""
+msgstr "關閉下拉式選單"
 
 #: ./src/js/pages/user/filemanager/_components/fullpage-header.vue:15
 msgid "Close fullscreen"
-msgstr ""
+msgstr "關閉全螢幕"
 
 #: ./src/js/components/local/layouts/shared/error.vue:7
 msgid "Close Report"
@@ -2197,11 +2197,11 @@ msgstr ""
 #: src/js/pages/user/email/lists/modify.vue:398
 #: src/js/pages/user/email/lists/modify.vue:403
 msgid "Closed"
-msgstr ""
+msgstr "已關閉"
 
 #: src/js/pages/user/email/lists/modify.vue:406
 msgid "Closed + Confirm"
-msgstr ""
+msgstr "已關閉 + 確認"
 
 #: ./src/js/components/local/filemanager/tree-view-item.vue:12
 msgid "Collapse"
@@ -2210,7 +2210,7 @@ msgstr ""
 #: ./src/js/pages/reseller/customize-skin/index.vue:43
 #: src/js/pages/reseller/customize-skin/index.vue:48
 msgid "Colors"
-msgstr ""
+msgstr "顏色"
 
 #: ./src/js/components/local/ui-api-table/filters-editor.vue:7
 msgid "Column"
@@ -2249,7 +2249,7 @@ msgstr "指令:"
 #: src/js/pages/user/ssh-keys/_components/authorized-keys.vue:4
 #: src/js/pages/user/ssh-keys/_components/public-keys.vue:7
 msgid "Comment"
-msgstr ""
+msgstr "評論"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/skip-dialog.vue:13
 #: ./src/js/pages/admin/brute-force-monitor/skip_list.vue:19
@@ -2260,7 +2260,7 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/view.vue:55
 #: src/js/pages/reseller/users/view.vue:110
 msgid "Comments"
-msgstr ""
+msgstr "評論"
 
 #: ./src/js/pages/user/ssl/_components/common-data-editor.vue:8
 msgid "Common Name"
@@ -2353,15 +2353,15 @@ msgstr ""
 
 #: ./src/js/components/local/app-global-modals/network-error.vue:26
 msgid "Connect"
-msgstr ""
+msgstr "連線"
 
 #: src/js/pages/admin/users/index.vue:353
 msgid "Connection Error"
-msgstr ""
+msgstr "連線錯誤"
 
 #: ./src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:34
 msgid "Connection Method"
-msgstr ""
+msgstr "連線方法"
 
 #: ./src/js/components/local/ui-api-table/filters-editor.vue:19
 #: ./src/js/pages/admin/custom-httpd/index.vue:22
@@ -2379,7 +2379,7 @@ msgstr ""
 #: ./src/js/pages/user/email/vacations/create.vue:47
 #: ./src/js/pages/user/email/vacations/modify.vue:37
 msgid "Content-Type"
-msgstr ""
+msgstr "Content-Type"
 
 #: ./src/js/pages/admin/custom-httpd/view.vue:25
 msgid "Contents of the %{ filename } file for %{ domain }"
@@ -2396,11 +2396,11 @@ msgstr ""
 #: ./src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:7
 #: src/js/components/local/filemanager/file-actions.vue:107
 msgid "Copy File"
-msgstr ""
+msgstr "複製檔案"
 
 #: src/js/pages/user/filemanager/_components/clipboard-actions.vue:41
 msgid "Copy Files"
-msgstr ""
+msgstr "複製檔案"
 
 #: ./src/js/pages/user/ssl/_components/paste-cert-tab.vue:20
 #: ./src/js/pages/user/ssl/ca-cert.vue:16
@@ -2410,7 +2410,7 @@ msgstr "複製到剪貼簿"
 #: ./src/js/components/global/input/input-password.vue:48
 #: ./src/js/pages/user/ssl/_components/certificate-request-dialog.vue:37
 msgid "Copy to Clipboard"
-msgstr ""
+msgstr "複製到剪貼簿"
 
 #: ./src/js/pages/admin/plugin-manager.vue:33
 msgid "Corrupted Plugin"
@@ -2419,23 +2419,23 @@ msgstr ""
 #: ./src/js/pages/user/email/usage/index.vue:76
 #: src/js/pages/user/email/usage/index.vue:85
 msgid "Count"
-msgstr ""
+msgstr "計算"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request.vue:11
 msgid "Country"
-msgstr ""
+msgstr "國家"
 
 #: ./src/js/pages/admin/process-monitor.vue:80
 msgid "CPU(s):"
-msgstr ""
+msgstr "CPU(s):"
 
 #: ./src/js/pages/user/system-info/_tables/general-info-table.vue:17
 msgid "CPUs count"
-msgstr ""
+msgstr "CPU 數量"
 
 #: ./src/js/pages/user/system-info/_tables/cpu-info-table.vue:3
 msgid "CPUs Information"
-msgstr ""
+msgstr "CPU 資訊"
 
 #: ./src/js/components/local/filemanager/dialogs/create-file-dialog.vue:37
 #: ./src/js/components/local/filemanager/dialogs/create-folder-dialog.vue:37
@@ -2461,15 +2461,15 @@ msgstr ""
 #: ./src/js/pages/user/ssh-keys/_dialogs/create-key-dialog.vue:88
 #: ./src/js/pages/user/ssh-keys/_dialogs/paste-key-dialog.vue:35
 msgid "Create"
-msgstr ""
+msgstr "建立"
 
 #: src/js/pages/user/ssl/index.vue:160
 msgid "Create A Certificate Request"
-msgstr ""
+msgstr "建立一個憑證請求"
 
 #: ./src/js/pages/user/two-step-auth.vue:42
 msgid "Create a new secret to begin."
-msgstr ""
+msgstr "建立一個新的密鑰以開始"
 
 #: ./src/js/pages/user/email/accounts/create.vue:120
 #: ./src/js/pages/user/email/accounts/index.vue:19
@@ -2479,11 +2479,11 @@ msgstr "建立帳號"
 #: ./src/js/pages/admin/users/admins.vue:15
 #: ./src/js/pages/admin/users/create-admin.vue:1
 msgid "Create Admin"
-msgstr ""
+msgstr "建立管理員"
 
 #: src/js/modules/navigation/admin.js:14
 msgid "Create Administrator"
-msgstr ""
+msgstr "建立管理員"
 
 #: ./src/js/pages/user/_components/create-domain-pointer-dialog.vue:32
 msgid "Create as an Alias"
@@ -2501,11 +2501,11 @@ msgstr "建立備份"
 
 #: ./src/js/pages/user/cronjobs/index.vue:12
 msgid "Create Cron job"
-msgstr ""
+msgstr "建立定時工作"
 
 #: ./src/js/pages/user/cronjobs/create.vue:1
 msgid "Create Cron Job"
-msgstr ""
+msgstr "建立定時工作"
 
 #: ./src/js/pages/user/database/create.vue:1
 #: ./src/js/pages/user/database/create.vue:98
@@ -2514,7 +2514,7 @@ msgstr "建立資料庫"
 
 #: ./src/js/pages/user/domains/add.vue:1
 msgid "Create Domain"
-msgstr ""
+msgstr "建立域名"
 
 #: ./src/js/pages/user/domain-pointers.vue:18
 msgid "Create Domain Pointer"
@@ -2522,16 +2522,16 @@ msgstr ""
 
 #: ./src/js/pages/user/email/forwarders.vue:22
 msgid "Create E-mail Forwarder"
-msgstr ""
+msgstr "建立郵件轉發"
 
 #: ./src/js/components/local/filemanager/dialogs/create-file-dialog.vue:4
 #: ./src/js/pages/user/filemanager/_components/new-items-buttons.vue:15
 msgid "Create File"
-msgstr ""
+msgstr "建立檔案"
 
 #: ./src/js/components/local/filemanager/dialogs/create-folder-dialog.vue:5
 msgid "Create Folder"
-msgstr ""
+msgstr "建立資料夾"
 
 #: ./src/js/pages/user/email/_components/create-forwarder-dialog.vue:6
 msgid "Create Forwarders"
@@ -2544,7 +2544,7 @@ msgstr "新增 FTP 帳號"
 
 #: ./src/js/pages/user/handlers/index.vue:13
 msgid "Create Handler"
-msgstr ""
+msgstr "建立處理器"
 
 #: ./src/js/pages/user/ssh-keys/index.vue:16
 msgid "Create Key"
@@ -2556,23 +2556,23 @@ msgstr "建立登入金鑰"
 
 #: ./src/js/pages/user/email/accounts/create.vue:1
 msgid "Create Mail Account"
-msgstr ""
+msgstr "新增 FTP 帳號"
 
 #: ./src/js/pages/user/email/lists/index.vue:22
 #: ./src/js/pages/user/email/lists/index.vue:69
 msgid "Create Mailing List"
-msgstr ""
+msgstr "建立郵寄清單"
 
 #: ./src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:8
 #: ./src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:81
 #: ./src/js/pages/reseller/nameservers.vue:16
 msgid "Create Name Servers"
-msgstr ""
+msgstr "建立名稱伺服器 (NS)"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/db.vue:52
 #: ./src/js/pages/user/database/index.vue:38
 msgid "Create new Database"
-msgstr ""
+msgstr "建立新資料庫"
 
 #: ./src/js/pages/reseller/user-packages/create.vue:1
 msgid "Create New Package"
@@ -2580,7 +2580,7 @@ msgstr ""
 
 #: ./src/js/pages/user/redirects.vue:16
 msgid "Create New Redirect"
-msgstr ""
+msgstr "建立重新導向"
 
 #: ./src/js/pages/user/database/view.vue:80
 msgid "Create New User"
@@ -2615,7 +2615,7 @@ msgstr ""
 
 #: ./src/js/pages/user/ssh-keys/_dialogs/create-key-dialog.vue:8
 msgid "Create SSH Key"
-msgstr ""
+msgstr "產生 SSH Key"
 
 #: ./src/js/pages/reseller/create-ticket.vue:1
 #: ./src/js/pages/user/create-ticket.vue:1
@@ -2632,7 +2632,7 @@ msgstr ""
 #: ./src/js/pages/reseller/users/create.vue:1
 #: ./src/js/pages/reseller/users/index.vue:21
 msgid "Create User"
-msgstr ""
+msgstr "新增使用者"
 
 #: ./src/js/pages/reseller/users/create.vue:144
 msgid "Create User Package"
