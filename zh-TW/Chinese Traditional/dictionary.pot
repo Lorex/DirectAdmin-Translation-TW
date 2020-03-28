@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-28 15:27\n"
+"PO-Revision-Date: 2020-03-28 15:32\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1732,55 +1732,55 @@ msgstr ""
 
 #: src/js/pages/user/email/filters.vue:269
 msgid "Block a specific E-mail address"
-msgstr ""
+msgstr "封鎖指定的E-mail位址"
 
 #: src/js/pages/user/email/filters.vue:277
 msgid "Block all e-mails containing stop words"
-msgstr ""
+msgstr "封鎖所有包含禁用字詞的電子郵件"
 
 #: src/js/pages/user/email/filters.vue:283
 msgid "Block all e-mails larger than (KB)"
-msgstr ""
+msgstr "封鎖所有大於指定大小的電子郵件 (KB)"
 
 #: ./src/js/pages/user/email/filters.vue:111
 #: ./src/js/pages/user/email/filters.vue:12
 #: src/js/pages/user/email/filters.vue:19
 msgid "Block By"
-msgstr ""
+msgstr "封鎖由"
 
 #: ./src/js/pages/admin/brute-force-monitor/block_list.vue:12
 #: ./src/js/pages/admin/brute-force-monitor/index.vue:151
 msgid "Block IP"
-msgstr ""
+msgstr "封鎖 IP"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:89
 msgid "Block List"
-msgstr ""
+msgstr "封鎖清單"
 
 #: src/js/pages/user/email/filters.vue:273
 msgid "Block mail from an entire domain"
-msgstr ""
+msgstr "封鎖來自某個網域的全部郵件"
 
 #: ./src/js/pages/user/email/usage/blockcracking.vue:1
 #: ./src/js/pages/user/email/usage/blockcracking.vue:11
 #: src/js/pages/user/email/usage/blockcracking.vue:15
 msgid "BlockCracker Blocked Paths"
-msgstr ""
+msgstr "BlockCracker 已封鎖的路徑"
 
 #: ./src/js/pages/user/email/usage/index.vue:150
 msgid "BlockCracking Blocked Paths"
-msgstr ""
+msgstr "BlockCracking 已封鎖的路徑"
 
 #: src/js/pages/user/email/usage/blockcracking.vue:54
 msgid "BlockCracking Disabled"
-msgstr ""
+msgstr "BlockCracking 已停用"
 
 #: ./src/js/pages/admin/brute-force-monitor/ip_list.vue:12
 #: ./src/js/pages/user/dashboard/_components/widgets/email-pop.vue:33
 #: ./src/js/pages/user/email/accounts/index.vue:178
 #: src/js/pages/admin/brute-force-monitor/ip_list.vue:36
 msgid "Blocked"
-msgstr ""
+msgstr "已封鎖"
 
 #: ./src/js/pages/user/email/spamassassin.vue:291
 #: src/js/pages/user/email/spamassassin.vue:296
@@ -1889,7 +1889,7 @@ msgstr ""
 
 #: ./src/js/pages/user/ssl/_components/paste-cert-tab.vue:56
 msgid "Certificate Expiry"
-msgstr ""
+msgstr "憑證過期"
 
 #: ./src/js/pages/user/ssl/_components/paste-cert-tab.vue:50
 msgid "Certificate Hosts"
