@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-28 16:13\n"
+"PO-Revision-Date: 2020-03-28 16:34\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1478,7 +1478,7 @@ msgstr ""
 
 #: ./src/js/pages/user/messages/_dialogs/message-system-options.vue:36
 msgid "Automatically delete tickets"
-msgstr "自動刪除票卷"
+msgstr "自動刪除服務單"
 
 #: ./src/js/pages/user/email/autoresponders/index.vue:75
 #: src/js/pages/user/email/autoresponders/index.vue:77
@@ -1732,7 +1732,7 @@ msgstr ""
 
 #: src/js/pages/user/email/filters.vue:269
 msgid "Block a specific E-mail address"
-msgstr "封鎖指定的E-mail位址"
+msgstr "封鎖指定的 E-mail 位址"
 
 #: src/js/pages/user/email/filters.vue:277
 msgid "Block all e-mails containing stop words"
@@ -1746,7 +1746,7 @@ msgstr "封鎖所有大於指定大小的電子郵件 (KB)"
 #: ./src/js/pages/user/email/filters.vue:12
 #: src/js/pages/user/email/filters.vue:19
 msgid "Block By"
-msgstr "封鎖由"
+msgstr "封鎖者："
 
 #: ./src/js/pages/admin/brute-force-monitor/block_list.vue:12
 #: ./src/js/pages/admin/brute-force-monitor/index.vue:151
@@ -1759,17 +1759,17 @@ msgstr "封鎖清單"
 
 #: src/js/pages/user/email/filters.vue:273
 msgid "Block mail from an entire domain"
-msgstr "封鎖來自某個網域的全部郵件"
+msgstr "阻擋來自某個網域的郵件"
 
 #: ./src/js/pages/user/email/usage/blockcracking.vue:1
 #: ./src/js/pages/user/email/usage/blockcracking.vue:11
 #: src/js/pages/user/email/usage/blockcracking.vue:15
 msgid "BlockCracker Blocked Paths"
-msgstr "BlockCracker 已封鎖的路徑"
+msgstr "BlockCracker 封鎖的路徑"
 
 #: ./src/js/pages/user/email/usage/index.vue:150
 msgid "BlockCracking Blocked Paths"
-msgstr "BlockCracking 已封鎖的路徑"
+msgstr "BlockCracking 封鎖的路徑"
 
 #: src/js/pages/user/email/usage/blockcracking.vue:54
 msgid "BlockCracking Disabled"
@@ -1905,7 +1905,7 @@ msgstr "憑證請求"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:57
 msgid "Certificate Request copied to clipboard"
-msgstr "憑證請求已複製至剪貼版"
+msgstr "憑證請求已複製至剪貼簿"
 
 #: ./src/js/pages/user/ssl/_components/common-data-editor.vue:56
 msgid "Certificate Type"
@@ -1939,7 +1939,7 @@ msgstr "CGI-Bin"
 #: ./src/js/pages/user/email/accounts/_dialogs/change-password-dialog.vue:38
 #: ./src/js/pages/user/ftp-accounts/_dialogs/change-password-dialog.vue:34
 msgid "Change"
-msgstr "修改"
+msgstr "變更"
 
 #: ./src/js/pages/admin/users/admins.vue:146
 #: ./src/js/pages/admin/users/index.vue:237
@@ -1950,7 +1950,7 @@ msgstr ""
 
 #: ./src/js/pages/reseller/users/index.vue:271
 msgid "Change A User's Password"
-msgstr "修改使用者密碼"
+msgstr "變更使用者的密碼"
 
 #: ./src/js/pages/user/security-questions.vue:51
 msgid "Change Answer"
@@ -2002,7 +2002,7 @@ msgstr "變更密碼"
 #: ./src/js/pages/user/email/_components/modify-account-dialog.vue:7
 #: ./src/js/pages/user/email/accounts/index.vue:302
 msgid "Change Password/Username"
-msgstr "修改密碼/使用者名稱"
+msgstr "變更密碼或使用者名稱"
 
 #: ./src/js/pages/reseller/passwords.vue:1
 #: src/js/modules/navigation/admin.js:26
@@ -2020,7 +2020,7 @@ msgstr "更改權限"
 
 #: ./src/js/pages/reseller/users/_components/change-sent-emails-daily-limit-dialog.vue:3
 msgid "Change sent emails daily limit"
-msgstr "修改每日郵件發送次數限制"
+msgstr "變更每日郵件傳送次數限制"
 
 #: ./src/js/pages/reseller/users/modify.vue:45
 msgid "Change the User's IP"
@@ -2050,7 +2050,7 @@ msgstr "檢查"
 
 #: ./src/js/pages/admin/settings.vue:783
 msgid "Check domain owner for Subdomain creation"
-msgstr "檢查網域擁有者以創建子域名"
+msgstr "檢查網域擁有者以建立子域名"
 
 #: ./src/js/pages/admin/settings.vue:333
 msgid "Check usage every"
@@ -2081,7 +2081,7 @@ msgstr ""
 #: ./src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:68
 #: ./src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:72
 msgid "Clear"
-msgstr "清楚"
+msgstr "清除"
 
 #: ./src/js/components/local/app-global-modals/notifications-center.vue:17
 #: ./src/js/components/local/notifications-center/archive-header.vue:16
@@ -2123,7 +2123,7 @@ msgstr "清除 NS"
 #: ./src/js/pages/admin/dns/index.vue:44
 #: ./src/js/pages/admin/php-safe-mode.vue:31
 msgid "Clear Search"
-msgstr "清除搜尋"
+msgstr "清空搜尋"
 
 #: ./src/js/components/global/input/input-select-multiple.vue:7
 #: ./src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:37
@@ -2164,7 +2164,7 @@ msgstr ""
 
 #: ./src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:13
 msgid "Clipboard is empty"
-msgstr "剪貼簿為空"
+msgstr "剪貼簿空白"
 
 #: ./src/js/components/global/ui/ui-dialog.vue:25
 #: ./src/js/components/global/ui/ui-dialog.vue:68
@@ -10237,20 +10237,20 @@ msgstr "星期四"
 #: src/js/pages/reseller/tickets.vue:23
 #: src/js/pages/user/messages/_tables/tickets.vue:7
 msgid "Ticket #"
-msgstr "客服單編號 #"
+msgstr "服務單編號 #"
 
 #: ./src/js/pages/reseller/tickets.vue:145
 msgid "Ticket System Enabled"
-msgstr "客服單系統已啟用"
+msgstr "服務單系統已啟用"
 
 #: ./src/js/pages/reseller/tickets.vue:130
 msgid "Ticket System Settings"
-msgstr "客服單系統設定"
+msgstr "服務單系統設定"
 
 #: ./src/js/pages/user/messages/index.vue:12
 #: src/js/pages/user/messages/index.vue:16
 msgid "Tickets"
-msgstr "客服單"
+msgstr "服務單"
 
 #: ./src/js/pages/admin/mail-queue/index.vue:23
 #: ./src/js/pages/user/email/usage/index.vue:104
@@ -11189,11 +11189,11 @@ msgstr "檢視子網域記錄"
 
 #: ./src/js/pages/user/messages/_dialogs/view-ticket-dialog.vue:3
 msgid "View Ticket: #%{ number }"
-msgstr "檢視服務單: #%{ number }"
+msgstr "檢視服務單：#%{ number }"
 
 #: ./src/js/pages/reseller/_dialogs/view-ticket.vue:10
 msgid "View Ticket: #%{ ticket }"
-msgstr "檢視服務單: #%{ ticket }"
+msgstr "檢視服務單：#%{ ticket }"
 
 #: ./src/js/pages/user/stats/log.vue:12
 #: ./src/js/pages/user/stats/subdomain-log.vue:12
@@ -11451,7 +11451,7 @@ msgstr "您刪除了您所有的網域。您應該為完整的功能建立一個
 #: src/js/components/global/App.vue:187
 msgid "You have %{ n } unread ticket"
 msgid_plural "You have %{ n } unread tickets"
-msgstr[0] "您有 %{ n } 未讀票證"
+msgstr[0] "您有 %{ n } 未讀服務單"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request-dialog.vue:13
 msgid "You will send this text to a Certificate Authority and they will give you a Signed Certificate."
