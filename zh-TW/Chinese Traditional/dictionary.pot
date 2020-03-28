@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-28 15:58\n"
+"PO-Revision-Date: 2020-03-28 16:13\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -2106,7 +2106,7 @@ msgstr "清空過濾器"
 #: ./src/js/pages/user/login-keys/create.vue:117
 #: ./src/js/pages/user/login-keys/modify.vue:80
 msgid "Clear Key:"
-msgstr "清除金鑰:"
+msgstr "清除金鑰："
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:3
 #: ./src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:3
@@ -2117,7 +2117,7 @@ msgstr ""
 #: ./src/js/pages/admin/ip-manager/index.vue:22
 #: src/js/pages/admin/ip-manager/index.vue:48
 msgid "Clear NS"
-msgstr "清空 NS"
+msgstr "清除 NS"
 
 #: ./src/js/pages/admin/custom-httpd/index.vue:36
 #: ./src/js/pages/admin/dns/index.vue:44
@@ -2210,7 +2210,7 @@ msgstr ""
 #: ./src/js/pages/reseller/customize-skin/index.vue:43
 #: src/js/pages/reseller/customize-skin/index.vue:48
 msgid "Colors"
-msgstr "顏色"
+msgstr "色彩"
 
 #: ./src/js/components/local/ui-api-table/filters-editor.vue:7
 msgid "Column"
@@ -2419,7 +2419,7 @@ msgstr ""
 #: ./src/js/pages/user/email/usage/index.vue:76
 #: src/js/pages/user/email/usage/index.vue:85
 msgid "Count"
-msgstr "計算"
+msgstr "數量"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request.vue:11
 msgid "Country"
@@ -2427,7 +2427,7 @@ msgstr "國家"
 
 #: ./src/js/pages/admin/process-monitor.vue:80
 msgid "CPU(s):"
-msgstr "CPU(s):"
+msgstr "CPU:"
 
 #: ./src/js/pages/user/system-info/_tables/general-info-table.vue:17
 msgid "CPUs count"
@@ -2465,11 +2465,11 @@ msgstr "建立"
 
 #: src/js/pages/user/ssl/index.vue:160
 msgid "Create A Certificate Request"
-msgstr "建立一個憑證請求"
+msgstr "建立憑證請求"
 
 #: ./src/js/pages/user/two-step-auth.vue:42
 msgid "Create a new secret to begin."
-msgstr "建立一個新的密鑰以開始"
+msgstr "建立新密碼以開始"
 
 #: ./src/js/pages/user/email/accounts/create.vue:120
 #: ./src/js/pages/user/email/accounts/index.vue:19
@@ -2479,7 +2479,7 @@ msgstr "建立帳號"
 #: ./src/js/pages/admin/users/admins.vue:15
 #: ./src/js/pages/admin/users/create-admin.vue:1
 msgid "Create Admin"
-msgstr "建立管理員"
+msgstr "建立管理"
 
 #: src/js/modules/navigation/admin.js:14
 msgid "Create Administrator"
@@ -2501,11 +2501,11 @@ msgstr "建立備份"
 
 #: ./src/js/pages/user/cronjobs/index.vue:12
 msgid "Create Cron job"
-msgstr "建立定時工作"
+msgstr "建立 Cron 定時工作"
 
 #: ./src/js/pages/user/cronjobs/create.vue:1
 msgid "Create Cron Job"
-msgstr "建立定時工作"
+msgstr "建立 Cron 定時工作"
 
 #: ./src/js/pages/user/database/create.vue:1
 #: ./src/js/pages/user/database/create.vue:98
@@ -2514,7 +2514,7 @@ msgstr "建立資料庫"
 
 #: ./src/js/pages/user/domains/add.vue:1
 msgid "Create Domain"
-msgstr "建立域名"
+msgstr "建立網域"
 
 #: ./src/js/pages/user/domain-pointers.vue:18
 msgid "Create Domain Pointer"
@@ -2522,7 +2522,7 @@ msgstr ""
 
 #: ./src/js/pages/user/email/forwarders.vue:22
 msgid "Create E-mail Forwarder"
-msgstr "建立郵件轉發"
+msgstr "建立電子郵件轉發"
 
 #: ./src/js/components/local/filemanager/dialogs/create-file-dialog.vue:4
 #: ./src/js/pages/user/filemanager/_components/new-items-buttons.vue:15
@@ -2544,7 +2544,7 @@ msgstr "新增 FTP 帳號"
 
 #: ./src/js/pages/user/handlers/index.vue:13
 msgid "Create Handler"
-msgstr "建立處理器"
+msgstr "建立處理常式"
 
 #: ./src/js/pages/user/ssh-keys/index.vue:16
 msgid "Create Key"
@@ -2556,12 +2556,12 @@ msgstr "建立登入金鑰"
 
 #: ./src/js/pages/user/email/accounts/create.vue:1
 msgid "Create Mail Account"
-msgstr "新增 FTP 帳號"
+msgstr "新增信箱帳號"
 
 #: ./src/js/pages/user/email/lists/index.vue:22
 #: ./src/js/pages/user/email/lists/index.vue:69
 msgid "Create Mailing List"
-msgstr "建立郵寄清單"
+msgstr "建立郵遞清單"
 
 #: ./src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:8
 #: ./src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:81
@@ -2580,7 +2580,7 @@ msgstr ""
 
 #: ./src/js/pages/user/redirects.vue:16
 msgid "Create New Redirect"
-msgstr "建立重新導向"
+msgstr "建立新重新導向"
 
 #: ./src/js/pages/user/database/view.vue:80
 msgid "Create New User"
@@ -2615,7 +2615,7 @@ msgstr ""
 
 #: ./src/js/pages/user/ssh-keys/_dialogs/create-key-dialog.vue:8
 msgid "Create SSH Key"
-msgstr "產生 SSH Key"
+msgstr "建立 SSH Key"
 
 #: ./src/js/pages/reseller/create-ticket.vue:1
 #: ./src/js/pages/user/create-ticket.vue:1
@@ -2632,7 +2632,7 @@ msgstr ""
 #: ./src/js/pages/reseller/users/create.vue:1
 #: ./src/js/pages/reseller/users/index.vue:21
 msgid "Create User"
-msgstr "新增使用者"
+msgstr "建立使用者"
 
 #: ./src/js/pages/reseller/users/create.vue:144
 msgid "Create User Package"
