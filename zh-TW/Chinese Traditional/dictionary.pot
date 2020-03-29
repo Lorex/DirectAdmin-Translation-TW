@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-28 16:34\n"
+"PO-Revision-Date: 2020-03-29 09:06\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1484,12 +1484,12 @@ msgstr "自動刪除服務單"
 #: src/js/pages/user/email/autoresponders/index.vue:77
 msgid "autoresponder"
 msgid_plural "autoresponders"
-msgstr[0] ""
+msgstr[0] "自動回應"
 
 #: ./src/js/pages/user/email/autoresponders/index.vue:25
 #: src/js/pages/user/email/autoresponders/index.vue:31
 msgid "Autoresponder"
-msgstr ""
+msgstr "自動回應"
 
 #: ./src/js/pages/admin/backups/modify.vue:336
 #: ./src/js/pages/admin/backups/schedule.vue:394
@@ -1507,16 +1507,16 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/usage-table.vue:134
 #: src/js/pages/user/stats/index.vue:98
 msgid "Autoresponders"
-msgstr ""
+msgstr "自動回應"
 
 #: ./src/js/pages/user/email/autoresponders/index.vue:19
 msgid "Autoresponders limit reached"
-msgstr ""
+msgstr "已達自動回應限制"
 
 #: ./src/js/pages/user/backup/index.vue:65
 #: ./src/js/pages/user/backup/restore.vue:80
 msgid "Autoresponders: Includes all autoresponders and messages."
-msgstr ""
+msgstr "自動回應：包含所有自動回應及訊息。"
 
 #: ./src/js/pages/admin/stats.vue:293
 #: src/js/pages/admin/stats.vue:301
@@ -1654,15 +1654,15 @@ msgstr "流量 (MB)"
 #: ./src/js/pages/reseller/users/bandwidth.vue:1
 #: ./src/js/pages/user/bandwidth.vue:1
 msgid "Bandwidth Breakdown"
-msgstr ""
+msgstr "流量明細"
 
 #: ./src/js/pages/user/bandwidth.vue:12
 msgid "Bandwidth Breakdown for %{month} %{year}"
-msgstr ""
+msgstr "%{year} 年 %{month}% 月的流量明細"
 
 #: ./src/js/pages/reseller/users/bandwidth.vue:12
 msgid "Bandwidth Breakdown for %{user}: %{year} %{month}"
-msgstr ""
+msgstr "%{user} 的流量明細：%{year} 年 %{month} 月"
 
 #: ./src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:20
@@ -1675,11 +1675,11 @@ msgstr ""
 
 #: ./src/js/pages/user/two-step-auth.vue:100
 msgid "Be sure to re-scan the QR code, as all old codes become invalid."
-msgstr ""
+msgstr "請務必重新掃描 QR 碼，所有舊碼將會失效。"
 
 #: src/js/components/local/suspend-user-dialog.vue:39
 msgid "Billing Issue"
-msgstr ""
+msgstr "帳單問題"
 
 #: ./src/js/pages/admin/settings.vue:950
 #: src/js/pages/admin/settings.vue:959
@@ -1703,20 +1703,20 @@ msgstr "bl_usernames"
 
 #: ./src/js/pages/admin/settings.vue:429
 msgid "Blacklist IPs for excessive DA login attempts"
-msgstr ""
+msgstr "新增嘗試登入 DA 過多次的 IP 至黑名單"
 
 #: ./src/js/pages/admin/settings.vue:947
 msgid "Blacklist Usernames"
-msgstr ""
+msgstr "將使用者名稱加入黑名單"
 
 #: ./src/js/pages/user/email/_components/modify-account-quota-dialog.vue:63
 #: ./src/js/pages/user/email/accounts/create.vue:86
 msgid "Blank will default to %{ limit }"
-msgstr ""
+msgstr "如空白，則預設為 %{ limit }"
 
 #: ./src/js/pages/user/email/_components/modify-account-quota-dialog.vue:70
 msgid "Blank will default to unlimited"
-msgstr ""
+msgstr "如空白，則預設為不限制"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/block-dialog.vue:20
 #: ./src/js/pages/admin/brute-force-monitor/block_list.vue:25
@@ -1728,7 +1728,7 @@ msgstr "封鎖"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/block-dialog.vue:3
 msgid "Block %{ subject }"
-msgstr ""
+msgstr "阻擋 %{ subject }"
 
 #: src/js/pages/user/email/filters.vue:269
 msgid "Block a specific E-mail address"
