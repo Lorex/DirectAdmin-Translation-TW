@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: directadmin\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2020-03-29 09:06\n"
+"PO-Revision-Date: 2020-03-29 10:13\n"
 
 #: ./src/js/pages/admin/users/create-admin.vue:59
 msgid ""
@@ -1885,7 +1885,7 @@ msgstr "憑證"
 
 #: ./src/js/pages/user/ssl/ca-cert.vue:1
 msgid "Certificate Authority SSL Certificate"
-msgstr ""
+msgstr "憑證授權單位的 SSL 憑證"
 
 #: ./src/js/pages/user/ssl/_components/paste-cert-tab.vue:56
 msgid "Certificate Expiry"
@@ -1946,7 +1946,7 @@ msgstr "變更"
 #: ./src/js/pages/admin/users/resellers/index.vue:165
 #: ./src/js/pages/reseller/users/index.vue:242
 msgid "Change %{ username }'s password"
-msgstr ""
+msgstr "變更 %{ username } 的密碼"
 
 #: ./src/js/pages/reseller/users/index.vue:271
 msgid "Change A User's Password"
@@ -1982,11 +1982,11 @@ msgstr "變更限制"
 #: ./src/js/pages/reseller/users/index.vue:24
 #: src/js/pages/reseller/users/index.vue:84
 msgid "Change Package"
-msgstr ""
+msgstr "變更方案"
 
 #: ./src/js/pages/reseller/users/modify.vue:12
 msgid "Change Package for User %{user}"
-msgstr ""
+msgstr "變更 %{user} 使用者的方案"
 
 #: ./src/js/pages/user/database/_dialogs/change-db-user-pass-dialog.vue:3
 msgid "Change password"
@@ -2054,21 +2054,21 @@ msgstr "檢查網域擁有者以建立子域名"
 
 #: ./src/js/pages/admin/settings.vue:333
 msgid "Check usage every"
-msgstr ""
+msgstr "用量檢查週期："
 
 #: src/js/modules/widgets.js:45
 msgid "Choose a new look"
-msgstr ""
+msgstr "選擇新外觀"
 
 #: ./src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:31
 msgid "Choose directories to backup"
-msgstr ""
+msgstr "選擇要備份的目錄"
 
 #: ./src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:36
 msgid "Choose files to backup"
-msgstr ""
+msgstr "選擇要備份的檔案"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request.vue:37
 msgid "City"
@@ -2076,7 +2076,7 @@ msgstr "城市"
 
 #: ./src/js/pages/user/email/accounts/index.vue:356
 msgid "Clean Forwarders"
-msgstr ""
+msgstr "清理轉寄者"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:68
 #: ./src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:72
@@ -2094,7 +2094,7 @@ msgstr "清空剪貼簿"
 
 #: ./src/js/pages/admin/settings.vue:705
 msgid "Clear failed login attempts from log"
-msgstr ""
+msgstr "從記錄中清空登入失敗嘗試"
 
 #: ./src/js/components/local/filemanager/files-table.vue:64
 #: ./src/js/components/local/ui-api-table/filters-editor.vue:46
@@ -2112,7 +2112,7 @@ msgstr "清除金鑰："
 #: ./src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:3
 #: ./src/js/pages/user/messages/index.vue:84
 msgid "Clear Message System"
-msgstr ""
+msgstr "清空訊息系統"
 
 #: ./src/js/pages/admin/ip-manager/index.vue:22
 #: src/js/pages/admin/ip-manager/index.vue:48
@@ -2129,7 +2129,7 @@ msgstr "清空搜尋"
 #: ./src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:37
 #: src/js/components/global/input/input-select-multiple.vue:12
 msgid "Clear Selection"
-msgstr ""
+msgstr "清空選取區域"
 
 #: src/js/components/local/history/chart.vue:135
 #: src/js/components/local/history/chart.vue:168
@@ -2144,7 +2144,7 @@ msgstr "按一下取得更多資訊"
 
 #: ./src/js/pages/user/backup/restore.vue:136
 msgid "Click here for a list of your current backups"
-msgstr ""
+msgstr "按一下此處取得您目前的備份列表"
 
 #: ./src/js/pages/admin/license.vue:33
 #: ./src/js/pages/reseller/customize-skin/_components/adsense.vue:10
@@ -2160,7 +2160,7 @@ msgstr "剪貼簿"
 
 #: ./src/js/pages/user/filemanager/_components/clipboard-actions.vue:13
 msgid "Clipboard Actions"
-msgstr ""
+msgstr "剪貼簿動作"
 
 #: ./src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:13
 msgid "Clipboard is empty"
@@ -2187,7 +2187,7 @@ msgstr "關閉全螢幕"
 
 #: ./src/js/components/local/layouts/shared/error.vue:7
 msgid "Close Report"
-msgstr ""
+msgstr "關閉報告"
 
 #: ./src/js/pages/reseller/_dialogs/view-ticket.vue:41
 #: ./src/js/pages/reseller/tickets.vue:93
@@ -2205,7 +2205,7 @@ msgstr "已關閉 + 確認"
 
 #: ./src/js/components/local/filemanager/tree-view-item.vue:12
 msgid "Collapse"
-msgstr ""
+msgstr "折疊"
 
 #: ./src/js/pages/reseller/customize-skin/index.vue:43
 #: src/js/pages/reseller/customize-skin/index.vue:48
@@ -2264,7 +2264,7 @@ msgstr "評論"
 
 #: ./src/js/pages/user/ssl/_components/common-data-editor.vue:8
 msgid "Common Name"
-msgstr ""
+msgstr "共同名稱"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request.vue:50
 msgid "Company"
@@ -2272,27 +2272,27 @@ msgstr "公司"
 
 #: ./src/js/pages/user/ssl/_components/certificate-request.vue:63
 msgid "Company Division"
-msgstr ""
+msgstr "公司部門"
 
 #: ./src/js/pages/admin/license.vue:163
 msgid "Compile Date"
-msgstr ""
+msgstr "編譯日期"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:101
 msgid "Compiled Date"
-msgstr ""
+msgstr "編譯日期"
 
 #: ./src/js/pages/admin/license.vue:155
 msgid "Compiled on"
-msgstr ""
+msgstr "編譯日期"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/license.vue:100
 msgid "Compiled On"
-msgstr ""
+msgstr "編譯日期"
 
 #: src/js/modules/navigation/admin.js:200
 msgid "Complete Usage Statistics"
-msgstr ""
+msgstr "完整使用量統計"
 
 #: ./src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:36
 #: ./src/js/components/local/filemanager/files-table.vue:3
@@ -2302,7 +2302,7 @@ msgstr "壓縮"
 
 #: ./src/js/components/local/filemanager/dialogs/compress-download-dialog.vue:5
 msgid "Compress and Download directory"
-msgstr ""
+msgstr "壓縮並下載目錄"
 
 #: src/js/components/local/filemanager/file-actions.vue:136
 msgid "Compress and download..."
@@ -2311,7 +2311,7 @@ msgstr "壓縮並下載..."
 #: ./src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:3
 #: src/js/pages/user/filemanager/_components/clipboard-actions.vue:42
 msgid "Compress Files"
-msgstr ""
+msgstr "壓縮檔案"
 
 #: ./src/js/components/local/app-global-modals/skin-options.vue:151
 #: src/js/components/local/app-global-modals/skin-options.vue:155
@@ -2322,34 +2322,34 @@ msgstr ""
 #: ./src/js/pages/admin/custom-httpd/index.vue:48
 #: src/js/pages/admin/custom-httpd/index.vue:61
 msgid "Conf. Files"
-msgstr ""
+msgstr "設定檔"
 
 #: ./src/js/pages/admin/custom-httpd/view.vue:38
 msgid "Configuration Check"
-msgstr ""
+msgstr "檢查設定檔"
 
 #: ./src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:21
 msgid "Configure full system Backup"
-msgstr ""
+msgstr "設定完整系統備份"
 
 #: ./src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:26
 msgid "Configure Remote Transfer option"
-msgstr ""
+msgstr "設定 [遠端轉移] 選項"
 
 #: ./src/js/components/global/ui/ui-dialog-confirm.vue:13
 #: ./src/js/pages/admin/dns/_components/reset-zone-defaults-dialog.vue:6
 msgid "Confirm"
-msgstr ""
+msgstr "確認"
 
 #: ./src/js/pages/user/filemanager/_dialogs/file-exists-dialog.vue:8
 msgid "Confirm File Save"
-msgstr ""
+msgstr "確認儲存檔案"
 
 #: ./src/js/components/global/ui/ui-dialog-confirm.vue:3
 msgid "Confirmation"
-msgstr ""
+msgstr "確認"
 
 #: ./src/js/components/local/app-global-modals/network-error.vue:26
 msgid "Connect"
@@ -2372,7 +2372,7 @@ msgstr "連線方法"
 #: src/js/pages/admin/dns/index.vue:36
 #: src/js/pages/admin/php-safe-mode.vue:23
 msgid "Contains"
-msgstr ""
+msgstr "包含"
 
 #: ./src/js/pages/user/email/autoresponders/create.vue:53
 #: ./src/js/pages/user/email/autoresponders/modify.vue:43
@@ -2383,7 +2383,7 @@ msgstr "Content-Type"
 
 #: ./src/js/pages/admin/custom-httpd/view.vue:25
 msgid "Contents of the %{ filename } file for %{ domain }"
-msgstr ""
+msgstr "%{ domain } 的 %{ filename } 檔案內容"
 
 #: ./src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:48
 msgid "Copy"
@@ -2391,7 +2391,7 @@ msgstr "複製"
 
 #: ./src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:19
 msgid "Copy %{type} \"%{name}\" to:"
-msgstr ""
+msgstr "複製「%{name}」%{type}至："
 
 #: ./src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:7
 #: src/js/components/local/filemanager/file-actions.vue:107
@@ -2414,7 +2414,7 @@ msgstr "複製到剪貼簿"
 
 #: ./src/js/pages/admin/plugin-manager.vue:33
 msgid "Corrupted Plugin"
-msgstr ""
+msgstr "損壞的外掛程式"
 
 #: ./src/js/pages/user/email/usage/index.vue:76
 #: src/js/pages/user/email/usage/index.vue:85
@@ -2845,45 +2845,45 @@ msgstr ""
 
 #: ./src/js/pages/admin/settings.vue:815
 msgid "Daily E-mail limit per DirectAdmin User"
-msgstr ""
+msgstr "每位 DirectAdmin 使用者的每日電子郵件限制"
 
 #: ./src/js/pages/admin/settings.vue:830
 msgid "Daily limit per E-mail Account"
-msgstr ""
+msgstr "每個電子郵件帳戶的每日限制"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:39
 msgid "Danger"
-msgstr ""
+msgstr "危險"
 
 #: ./src/js/components/local/app-global-modals/skin-options.vue:51
 msgid "Dark Mode"
-msgstr ""
+msgstr "暗色模式"
 
 #: ./src/js/components/local/layouts/shared/breadcrumbs.vue:5
 #: ./src/js/pages/user/dashboard/index.vue:1
 #: src/js/components/global/app/app-plugin-page.vue:115
 #: src/js/components/local/layouts/nav-grid/breadcrumbs.vue:27
 msgid "Dashboard"
-msgstr ""
+msgstr "資訊看板"
 
 #: ./src/js/pages/user/database/index.vue:144
 msgid "database"
 msgid_plural "databases"
-msgstr[0] ""
+msgstr[0] "資料庫"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/db.vue:12
 #: ./src/js/pages/user/database/index.vue:67
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:20
 #: src/js/pages/user/database/index.vue:76
 msgid "Database"
-msgstr ""
+msgstr "資料庫"
 
 #: ./src/js/pages/user/database/index.vue:53
 #: ./src/js/pages/user/database/index.vue:95
 #: src/js/pages/user/database/index.vue:100
 #: src/js/pages/user/database/index.vue:56
 msgid "Database Count"
-msgstr ""
+msgstr "資料庫數量"
 
 #: ./src/js/pages/admin/backups/modify.vue:318
 #: ./src/js/pages/admin/backups/schedule.vue:376
@@ -2892,42 +2892,42 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:132
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:107
 msgid "Database Data"
-msgstr ""
+msgstr "資料庫資料"
 
 #: ./src/js/pages/user/stats/index.vue:49
 #: src/js/pages/reseller/stats.vue:214
 #: src/js/pages/reseller/users/_components/usage-table.vue:105
 #: src/js/pages/user/stats/index.vue:69
 msgid "Database Disk Usage"
-msgstr ""
+msgstr "資料庫磁碟用量"
 
 #: ./src/js/pages/user/database/index.vue:39
 msgid "Database limit reached"
-msgstr ""
+msgstr "已達資料庫限制"
 
 #: ./src/js/pages/user/database/create.vue:20
 msgid "Database Name:"
-msgstr ""
+msgstr "資料庫名稱："
 
 #: ./src/js/pages/user/database/create.vue:83
 msgid "Database Password:"
-msgstr ""
+msgstr "資料庫密碼："
 
 #: ./src/js/pages/admin/backups/modify.vue:315
 #: ./src/js/pages/admin/backups/schedule.vue:373
 #: src/js/pages/admin/backups/_components/crons-table.vue:131
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:106
 msgid "Database Settings"
-msgstr ""
+msgstr "資料庫設定"
 
 #: ./src/js/pages/user/backup/index.vue:104
 #: ./src/js/pages/user/backup/restore.vue:117
 msgid "Database Settings: Backs up all DB Users and DB Settings"
-msgstr ""
+msgstr "資料庫設定：備份所有 DB 使用者及 DB 設定"
 
 #: ./src/js/pages/user/database/create.vue:41
 msgid "Database User:"
-msgstr ""
+msgstr "資料庫使用者："
 
 #: ./src/js/pages/admin/users/index.vue:11
 #: ./src/js/pages/reseller/users/index.vue:24
@@ -2940,7 +2940,7 @@ msgstr ""
 #: src/js/pages/admin/users/index.vue:67
 #: src/js/pages/reseller/users/index.vue:74
 msgid "Databases"
-msgstr ""
+msgstr "資料庫"
 
 #: ./src/js/components/local/filemanager/files-table.vue:3
 #: ./src/js/components/local/history/table.vue:3
@@ -2955,33 +2955,33 @@ msgstr ""
 #: src/js/pages/user/login-keys/log.vue:16
 #: src/js/pages/user/messages/index.vue:35
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #: ./src/js/pages/reseller/customize-skin/_components/misc-options.vue:142
 msgid "Date / Date & Time formats:"
-msgstr ""
+msgstr "日期 / 日期與時間格式："
 
 #: ./src/js/components/local/date-formats.vue:38
 msgid "Date & Time Format"
-msgstr ""
+msgstr "日期與時間格式"
 
 #: ./src/js/components/local/filemanager/files-table.vue:217
 msgid "Date Acessed"
-msgstr ""
+msgstr "存取日期"
 
 #: ./src/js/pages/admin/brute-force-monitor/skip_list.vue:19
 #: src/js/pages/admin/brute-force-monitor/skip_list.vue:29
 msgid "Date Added"
-msgstr ""
+msgstr "新增日期"
 
 #: ./src/js/pages/admin/brute-force-monitor/block_list.vue:29
 #: src/js/pages/admin/brute-force-monitor/block_list.vue:39
 msgid "Date Blocked"
-msgstr ""
+msgstr "阻擋日期"
 
 #: ./src/js/components/local/filemanager/files-table.vue:227
 msgid "Date Changed"
-msgstr ""
+msgstr "變更日期"
 
 #: ./src/js/pages/admin/users/index.vue:11
 #: ./src/js/pages/reseller/users/_components/account-info.vue:89
@@ -2991,19 +2991,19 @@ msgstr ""
 #: src/js/pages/reseller/users/index.vue:69
 #: src/js/pages/user/two-step-auth.vue:165
 msgid "Date Created"
-msgstr ""
+msgstr "建立日期"
 
 #: ./src/js/components/local/date-formats.vue:4
 msgid "Date Format"
-msgstr ""
+msgstr "日期格式"
 
 #: ./src/js/components/local/app-global-modals/skin-options.vue:134
 msgid "Date Formats"
-msgstr ""
+msgstr "日期格式"
 
 #: ./src/js/components/local/filemanager/files-table.vue:222
 msgid "Date Modified"
-msgstr ""
+msgstr "修改日期"
 
 #: ./src/js/pages/admin/settings.vue:349
 #: ./src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:55
@@ -3011,12 +3011,12 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:146
 msgid "Day"
 msgid_plural "Days"
-msgstr[0] ""
+msgstr[0] "天"
 
 #: ./src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:53
 msgid "day ago"
 msgid_plural "days ago"
-msgstr[0] ""
+msgstr[0] "天前"
 
 #: ./src/js/pages/admin/backups/modify.vue:112
 #: ./src/js/pages/admin/backups/schedule.vue:156
@@ -3029,13 +3029,13 @@ msgstr[0] ""
 #: src/js/pages/admin/cron-jobs.vue:19
 #: src/js/pages/user/cronjobs/index.vue:29
 msgid "Day of Month"
-msgstr ""
+msgstr "一個月的天數"
 
 #: ./src/js/pages/admin/backups/_components/crons-table.vue:41
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:28
 #: ./src/js/pages/reseller/backups/index.vue:45
 msgid "Day of Month: %{dayofmonth}"
-msgstr ""
+msgstr "一個月的天數：%{dayofmonth}"
 
 #: ./src/js/pages/admin/backups/modify.vue:131
 #: ./src/js/pages/admin/backups/schedule.vue:181
@@ -3048,42 +3048,42 @@ msgstr ""
 #: src/js/pages/admin/cron-jobs.vue:21
 #: src/js/pages/user/cronjobs/index.vue:35
 msgid "Day of Week"
-msgstr ""
+msgstr "一週天數"
 
 #: ./src/js/pages/admin/backups/_components/crons-table.vue:43
 #: ./src/js/pages/admin/backups/_components/current-backups-table.vue:30
 #: ./src/js/pages/reseller/backups/index.vue:47
 msgid "Day of Week: %{dayofweek}"
-msgstr ""
+msgstr "一週天數：%{dayofweek}"
 
 #: ./src/js/pages/user/messages/_dialogs/message-system-options.vue:75
 msgid "days"
-msgstr ""
+msgstr "日"
 
 #: ./src/js/pages/user/messages/_dialogs/message-system-options.vue:48
 msgid "Days"
-msgstr ""
+msgstr "日"
 
 #: ./src/js/pages/admin/settings.vue:716
 #: ./src/js/pages/admin/settings.vue:721
 msgid "Days after entry was made."
-msgstr ""
+msgstr "項目建立後過的天數。"
 
 #: ./src/js/pages/user/email/lists/index.vue:104
 msgid "Days."
-msgstr ""
+msgstr "日。"
 
 #: src/js/components/local/layouts/shared/search.vue:150
 msgid "DB Entries"
-msgstr ""
+msgstr "DB 項目"
 
 #: ./src/js/pages/user/database/create.vue:26
 msgid "DB Name is too long"
-msgstr ""
+msgstr "DB 名稱過長"
 
 #: ./src/js/pages/admin/plugin-manager.vue:67
 msgid "Deactivate"
-msgstr ""
+msgstr "取消啟用"
 
 #: src/js/components/local/history/chart.vue:210
 #: src/js/components/local/history/table.vue:105
@@ -3101,48 +3101,48 @@ msgstr "十二月"
 #: src/js/pages/admin/dns/_components/override-ttl-dialog.vue:13
 #: src/js/pages/user/dns/_dialogs/override-ttl-dialog.vue:13
 msgid "Default"
-msgstr ""
+msgstr "預設"
 
 #: ./src/js/pages/reseller/stats.vue:98
 #: ./src/js/pages/user/stats/index.vue:409
 #: src/js/pages/reseller/stats.vue:103
 #: src/js/pages/user/stats/index.vue:418
 msgid "Default (Off)"
-msgstr ""
+msgstr "預設 (關閉)"
 
 #: ./src/js/pages/reseller/stats.vue:98
 #: ./src/js/pages/user/stats/index.vue:409
 #: src/js/pages/reseller/stats.vue:102
 #: src/js/pages/user/stats/index.vue:417
 msgid "Default (On)"
-msgstr ""
+msgstr "預設 (開啟)"
 
 #: ./src/js/pages/reseller/customize-skin/_components/misc-options.vue:127
 msgid "Default Date & Time Formats"
-msgstr ""
+msgstr "預設日期與時間格式"
 
 #: ./src/js/pages/user/domains/index.vue:35
 #: ./src/js/pages/user/domains/index.vue:64
 #: src/js/pages/user/domains/index.vue:38
 #: src/js/pages/user/domains/index.vue:69
 msgid "Default Domain"
-msgstr ""
+msgstr "預設網域"
 
 #: ./src/js/pages/reseller/customize-skin/_components/misc-options.vue:62
 msgid "Default icon pack"
-msgstr ""
+msgstr "預設圖示包"
 
 #: ./src/js/pages/reseller/customize-skin/_components/misc-options.vue:4
 msgid "Default Layout"
-msgstr ""
+msgstr "預設佈局"
 
 #: ./src/js/pages/reseller/customize-skin/_components/change-default-menu-type-dialog.vue:3
 msgid "Default menu type"
-msgstr ""
+msgstr "預設選單類型"
 
 #: ./src/js/pages/admin/php-safe-mode.vue:114
 msgid "Defaults for new domains"
-msgstr ""
+msgstr "新網域的預設值"
 
 #: ./src/js/components/global/ui/ui-dialog-delete-items.vue:27
 #: ./src/js/components/local/dns/records-table.vue:46
@@ -3482,7 +3482,7 @@ msgstr ""
 
 #: ./src/js/pages/user/email/spamassassin.vue:17
 msgid "Disable SpamAssassin"
-msgstr ""
+msgstr "停用 SpamAssassin"
 
 #: ./src/js/pages/user/ssl/index.vue:36
 msgid "Disable SSL"
@@ -3508,19 +3508,19 @@ msgstr "已停用"
 
 #: ./src/js/pages/reseller/customize-skin/index.vue:126
 msgid "Discard"
-msgstr ""
+msgstr "捨棄"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/admin-stats.vue:5
 #: ./src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:5
 #: ./src/js/pages/user/dashboard/_components/widgets/user-stats.vue:8
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:184
 msgid "Disk Space"
-msgstr ""
+msgstr "磁碟空間"
 
 #: src/js/components/local/user-package.vue:246
 #: src/js/pages/admin/users/resellers/modify.vue:208
 msgid "Disk Space (MB)"
-msgstr ""
+msgstr "磁碟空間 (MB)"
 
 #: ./src/js/components/local/history/table.vue:3
 #: ./src/js/components/local/stats/webalizer-table.vue:3
@@ -3571,29 +3571,29 @@ msgstr ""
 #: src/js/pages/user/disk-usage.vue:70
 #: src/js/pages/user/domains/index.vue:53
 msgid "Disk Usage"
-msgstr ""
+msgstr "磁碟用量"
 
 #: src/js/components/local/layouts/shared/navigation-type-switch.vue:36
 msgid "Display as grid"
-msgstr ""
+msgstr "以格線狀顯示"
 
 #: ./src/js/pages/reseller/customize-skin/_components/misc-options.vue:34
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:37
 msgid "Display as Grid"
-msgstr ""
+msgstr "以格線狀顯示"
 
 #: src/js/components/local/layouts/shared/navigation-type-switch.vue:37
 msgid "Display as list"
-msgstr ""
+msgstr "以列表狀顯示"
 
 #: ./src/js/pages/reseller/customize-skin/_components/misc-options.vue:34
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:38
 msgid "Display as List"
-msgstr ""
+msgstr "以列表狀顯示"
 
 #: src/js/pages/user/dns/security.vue:163
 msgid "DLV Record"
-msgstr ""
+msgstr "DLV 記錄"
 
 #: ./src/js/pages/user/domain-pointers.vue:24
 #: src/js/pages/user/domain-pointers.vue:37
@@ -3605,7 +3605,7 @@ msgstr "DNS"
 #: src/js/modules/navigation/admin.js:82
 #: src/js/pages/reseller/stats.vue:273
 msgid "DNS Administration"
-msgstr ""
+msgstr "DNS 管理"
 
 #: ./src/js/pages/user/stats/index.vue:195
 #: src/js/components/local/user-package.vue:272
@@ -3616,11 +3616,11 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/account-info.vue:305
 #: src/js/pages/user/stats/index.vue:258
 msgid "DNS Control"
-msgstr ""
+msgstr "DNS 控制"
 
 #: ./src/js/pages/admin/system-backup.vue:86
 msgid "DNS data"
-msgstr ""
+msgstr "DNS 資料"
 
 #: ./src/js/pages/user/dns/index.vue:1
 #: src/js/modules/navigation/user.js:26
@@ -3634,40 +3634,40 @@ msgstr[0] "DNS 紀錄"
 
 #: ./src/js/pages/user/dns/security.vue:1
 msgid "DNS Security"
-msgstr ""
+msgstr "DNS 安全性"
 
 #: ./src/js/pages/admin/dns/edit.vue:49
 #: ./src/js/pages/user/dns/index.vue:48
 msgid "DNSSEC"
-msgstr ""
+msgstr "DNSSEC"
 
 #: ./src/js/pages/admin/custom-httpd/customize.vue:33
 msgid "Do not add a whole <Virtualhost>..</VirtualHost>"
-msgstr ""
+msgstr "不要加入整段 <Virtualhost>..</VirtualHost>"
 
 #: ./src/js/pages/admin/custom-httpd/customize.vue:27
 msgid "Do not add a whole server { ... } entry."
-msgstr ""
+msgstr "不要加入整段 server { ... } 項目。"
 
 #: ./src/js/pages/admin/custom-httpd/customize.vue:30
 msgid "Do not add a whole virtualHost { ... } entry."
-msgstr ""
+msgstr "不要加入整段 virtualHost { ... } 項目。"
 
 #: ./src/js/pages/admin/users/index.vue:268
 msgid "Do not remove DNS zones of domains owned by the user."
-msgstr ""
+msgstr "不要移除使用者擁有網域的 DNS 區域。"
 
 #: ./src/js/pages/user/domains/add.vue:29
 msgid "Do not use CAPS, www, or http:// in your domain name"
-msgstr ""
+msgstr "不要在您的網域名稱使用 CAPS、www 或 http://"
 
 #: ./src/js/pages/reseller/customize-skin/index.vue:111
 msgid "Do you want to discard all of unsaved changes before leave?"
-msgstr ""
+msgstr "是否要在離開前捨棄所有未儲存變更？"
 
 #: ./src/js/pages/user/email/spamassassin.vue:193
 msgid "Do you wish to rewrite the subject of a spam e-mail?"
-msgstr ""
+msgstr "是否要重寫垃圾信件的主旨？"
 
 #: ./src/js/pages/admin/settings.vue:286
 msgid "Document Root to Demo Skin"
@@ -3675,12 +3675,12 @@ msgstr ""
 
 #: ./src/js/pages/admin/file-editor.vue:39
 msgid "Does not exist"
-msgstr ""
+msgstr "不存在"
 
 #: ./src/js/pages/user/domains/index.vue:149
 msgid "domain"
 msgid_plural "domains"
-msgstr[0] ""
+msgstr[0] "網域"
 
 #: ./src/js/components/local/layouts/mobile/domain-select.vue:30
 #: ./src/js/components/local/layouts/shared/domains-dropdown.vue:12
@@ -3712,40 +3712,40 @@ msgstr[0] ""
 #: src/js/pages/user/ftp-accounts/create.vue:155
 #: src/js/pages/user/ftp-accounts/edit.vue:103
 msgid "Domain"
-msgstr ""
+msgstr "網域"
 
 #: ./src/js/pages/admin/multi-server.vue:89
 #: src/js/pages/admin/multi-server.vue:369
 #: src/js/pages/admin/multi-server.vue:95
 msgid "Domain Check"
-msgstr ""
+msgstr "網域檢查"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:127
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:102
 msgid "Domain Directory"
-msgstr ""
+msgstr "網域目錄"
 
 #: ./src/js/pages/user/domains/ips.vue:1
 msgid "Domain IPs"
-msgstr ""
+msgstr "網域 IP"
 
 #: ./src/js/pages/user/domains/index.vue:1
 msgid "Domain management"
-msgstr ""
+msgstr "網域管理"
 
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:74
 #: src/js/pages/user/domains/add.vue:208
 msgid "Domain name has been automatically converted to punycode format. Punycode is used to encode internationalized domain names (IDN) by converting Unicode characters to ASCII."
-msgstr ""
+msgstr "網域名稱已自動轉換至 Punycode 格式。Punycode 透過將 Unicode 字元轉換成 ASCII 來編碼國際化網域名稱 (IDN)。"
 
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:73
 #: src/js/pages/user/domains/add.vue:207
 msgid "Domain name punycoded"
-msgstr ""
+msgstr "已轉換網域名稱至 Punycode。"
 
 #: ./src/js/pages/admin/dns/add.vue:17
 msgid "Domain Name:"
-msgstr ""
+msgstr "網域名稱："
 
 #: ./src/js/pages/user/domain-pointers.vue:24
 #: ./src/js/pages/user/domain-pointers.vue:87
@@ -3753,7 +3753,7 @@ msgstr ""
 #: src/js/pages/user/domain-pointers.vue:90
 msgid "Domain Pointer"
 msgid_plural "Domain Pointers"
-msgstr[0] ""
+msgstr[0] "網域指針"
 
 #: ./src/js/pages/admin/stats.vue:227
 #: ./src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:53
@@ -3768,37 +3768,37 @@ msgstr[0] ""
 #: src/js/pages/reseller/users/_components/usage-table.vue:150
 #: src/js/pages/user/stats/index.vue:115
 msgid "Domain Pointers"
-msgstr ""
+msgstr "網域指針"
 
 #: ./src/js/components/local/dns/dmarc-editor.vue:4
 msgid "Domain policy type"
-msgstr ""
+msgstr "網域策略類型"
 
 #: src/js/components/local/dns/records-table.vue:244
 msgid "Domain record was updated successfully"
-msgstr ""
+msgstr "已成功更新網域記錄"
 
 #: src/js/modules/navigation/user.js:14
 #: src/js/modules/widgets.js:9
 msgid "Domain Setup"
-msgstr ""
+msgstr "網域設定"
 
 #: src/js/pages/user/stats/index.vue:32
 msgid "Domain Statistics"
-msgstr ""
+msgstr "網域統計"
 
 #: ./src/js/components/local/layouts/mobile/domain-select.vue:9
 #: ./src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:14
 #: ./src/js/pages/user/domains/add.vue:28
 msgid "Domain:"
-msgstr ""
+msgstr "網域："
 
 #: ./src/js/pages/admin/users/index.vue:11
 #: ./src/js/pages/user/dashboard/_components/widgets/list-users.vue:3
 #: src/js/pages/admin/users/index.vue:37
 #: src/js/pages/user/dashboard/_components/widgets/list-users.vue:11
 msgid "Domain(s)"
-msgstr ""
+msgstr "網域"
 
 #: ./src/js/pages/admin/ssl/_components/info-dialog.vue:39
 #: ./src/js/pages/reseller/users/index.vue:24
@@ -3820,29 +3820,29 @@ msgstr ""
 #: src/js/pages/user/domains/index.vue:37
 #: src/js/pages/user/domains/index.vue:68
 msgid "Domains"
-msgstr ""
+msgstr "網域"
 
 #: ./src/js/pages/admin/backups/modify.vue:303
 #: ./src/js/pages/admin/backups/schedule.vue:361
 msgid "Domains Directory"
-msgstr ""
+msgstr "網域目錄"
 
 #: ./src/js/pages/user/backup/index.vue:22
 #: ./src/js/pages/user/backup/restore.vue:37
 msgid "Domains Directory: Backs up all user files for all domains"
-msgstr ""
+msgstr "網域目錄：備份所有網域的所有使用者檔案"
 
 #: ./src/js/pages/admin/license.vue:55
 msgid "Domains Limit"
-msgstr ""
+msgstr "網域限制"
 
 #: ./src/js/pages/user/domains/index.vue:28
 msgid "Domains Limit Reached"
-msgstr ""
+msgstr "已達網域限制"
 
 #: ./src/js/pages/user/email/spamassassin.vue:254
 msgid "Don't use attachments (dangerous)."
-msgstr ""
+msgstr "別用附件 (危險)。"
 
 #: ./src/js/components/local/filemanager/dialogs/compress-download-dialog.vue:26
 #: src/js/components/local/filemanager/file-actions.vue:141
@@ -3851,15 +3851,15 @@ msgstr "下載"
 
 #: ./src/js/pages/user/database/index.vue:126
 msgid "Download as GZ"
-msgstr ""
+msgstr "以 GZ 格式下載"
 
 #: ./src/js/pages/user/database/index.vue:133
 msgid "Download as SQL"
-msgstr ""
+msgstr "以 SQL 格式下載"
 
 #: ./src/js/pages/user/dashboard/_components/widgets/db.vue:37
 msgid "Download Backup"
-msgstr ""
+msgstr "下載備份"
 
 #: ./src/js/pages/user/email/accounts/index.vue:315
 msgid "Download Outlook Configuration"
@@ -4157,15 +4157,15 @@ msgstr ""
 
 #: ./src/js/components/local/filemanager/dialogs/protect-directory-dialog.vue:62
 msgid "Edit Protection"
-msgstr ""
+msgstr "編輯保護"
 
 #: ./src/js/pages/user/security-questions.vue:72
 msgid "Edit question"
-msgstr ""
+msgstr "編輯問題"
 
 #: ./src/js/components/local/dns/edit-record-dialog.vue:6
 msgid "Edit Record"
-msgstr ""
+msgstr "編輯記錄"
 
 #: ./src/js/pages/admin/users/resellers/create.vue:17
 msgid "Edit Reseller Message"
